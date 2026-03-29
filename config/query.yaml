@@ -1,47 +1,13 @@
-version: "0.1"
-changelog: "初始检索式，基于研究问题拆解为对象-方法-场景-限定四元组"
-query:
-  # 四元组拆解（课程要求：明确概念组）
-  object:  # 研究对象
-    - "交通智能管理系统"
-    - "智能交通管理"
-    - "智慧交通管控"
-    - "intelligent traffic management system"
-    - "smart traffic control"
-  method:  # 核心方法
-    - "人工智能"
-    - "AI"
-    - "大数据"
-    - "机器学习"
-    - "深度学习"
-    - "计算机视觉"
-    - "machine learning"
-    - "deep learning"
-    - "big data"
-  context:  # 应用场景
-    - "交通拥堵"
-    - "城市交通"
-    - "交通流调度"
-    - "traffic congestion"
-    - "urban traffic"
-  constraint:  # 限定条件
-    time_window:  # 时间窗
-      start: "2015-01-01"
-      end: "2024-12-31"
-    doc_type:  # 文献类型
-      - "期刊论文"
-      - "会议论文"
-      - "综述文章"
-      - "article"
-      - "review"
-      - "conference paper"
-    language:  # 语言筛选
-      - "中文"
-      - "英文"
-    data_source:  # 数据源
-      - "Web of Science"
-      - "CNKI"
-      - "OpenAlex"
-  exclusion:  # 排除条件（避免NOT误杀）
-    - "道路交通标志识别"  # 聚焦系统级研究，排除单一技术
-    - "vehicle detection"  # 排除纯目标检测相关文献
+version: "v0.1"
+date: "2026-03-28"
+datebase: "Intelligent Traffic Management System"
+time_window: "2015-01-01 to 2025-12-31"
+document_types: ["All document types"]
+languages: ["English","Chinese"]
+gs_query: |
+  TS=("Intelligent Traffic Management System" OR "Smart Traffic Management" OR 
+  "Intelligent Transportation Management" OR "Traffic Intelligent Control" OR 
+  "Urban Traffic Intelligent Management") 
+  AND PY=2015-2025  
+  AND DT=(All document types)
+  AND LA=("English"OR"Chinese")
