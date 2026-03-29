@@ -1,1 +1,29 @@
+import yaml
+import requests
 
+# 加载查询配置
+def load_query_config(file_path="query.yaml"):
+    with open(file_path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+# 生成CNKI查询参数（示例：对接知网API/爬虫）
+def generate_cnki_query(task, global_config):
+    # 合并全局与任务配置（任务配置优先级更高）
+    time_range = task.get("时间范围", global_config["时间范围"])
+    keywords = task["核心关键词"]
+    logic = task["关键词逻辑关系"]
+    
+    # 构建CNKI关键词查询语句（如："文献计量学" OR "知识图谱"）
+    cnki_keywords = f'"{" " + logic + " "}'.join(keywords) + '"'
+    
+    # 构建完整查询参数
+    query_params = {
+        "theme": cnki_keywords,
+        "publishTimeFrom": time_range["开始时间"],
+        "publishTimeTo": time_range["结束时间"],
+        "literatureType": ",".join(global_config["文献类型"]),
+        "language": ",".join(global_config["语言筛选"]),
+        "journalLevel": task["扩展筛选条件"]["CNKI"]["文献级别"],
+        "fund": ",".join(task["扩展筛选条件"]["CNKI"]["支持基金"])
+    }
+    return query_params
