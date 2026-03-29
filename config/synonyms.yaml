@@ -1,14 +1,66 @@
-import yaml
+研究对象:
+  交通智能管理系统:
+    - 智能交通管理系统
+    - 智慧交通管理系统
+    - 交通管控智能平台
+    - intelligent traffic management system
+    - ITMS
+    - smart traffic management platform
+  智能交通:
+    - 智慧交通
+    - 智能交通运输
+    - intelligent transportation
+    - smart traffic
 
-# 加载同义词配置文件
-def load_synonyms(file_path="synonyms.yaml"):
-    with open(file_path, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+# 核心方法同义词组
+核心方法:
+  人工智能:
+    - AI
+    - 人工智慧
+    - 智能算法
+    - artificial intelligence
+  机器学习:
+    - 机器深度学习
+    - ML
+    - machine learning
+  大数据:
+    - 海量交通数据
+    - 交通大数据
+    - big data
+    - traffic big data
+  计算机视觉:
+    - 视觉识别
+    - computer vision
+    - visual detection
 
-# 同义词替换函数（将文献关键词统一为标准术语）
-def replace_synonyms(keyword, synonyms_dict):
-    for category, term_map in synonyms_dict.items():
-        for standard_term, synonyms in term_map.items():
-            if keyword in synonyms:
-                return standard_term
-    return keyword  # 无匹配同义词则返回原关键词
+# 应用场景同义词组
+应用场景:
+  交通拥堵:
+    - 拥堵治理
+    - 交通缓堵
+    - 拥堵缓解
+    - traffic congestion
+    - congestion relief
+  城市交通:
+    - 城区交通
+    - 都市交通
+    - urban traffic
+    - city traffic
+  交通流调度:
+    - 交通流量调控
+    - 车流调度
+    - traffic flow scheduling
+    - traffic flow optimization
+
+# 技术术语同义词组
+技术术语:
+  车路协同:
+    - V2X协同
+    - 车联网协同
+    - vehicle-road collaboration
+    - V2X communication
+  交通信号控制:
+    - 智能信号调度
+    - 信号灯控制
+    - traffic signal control
+    - intelligent signal timing
