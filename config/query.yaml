@@ -1,13 +1,13 @@
 version: "v0.1"
 date: "2026-03-28"
-datebase: "Intelligent Traffic Management System"
+datebase: "交通智能管理系统"
 time_window: "2015-01-01 to 2025-12-31"
 document_types: ["All document types"]
 languages: ["English","Chinese"]
 gs_query: |
   TS=("Intelligent Traffic Management System" OR "Smart Traffic Management" OR 
   "Intelligent Transportation Management" OR "Traffic Intelligent Control" OR 
-  "Urban Traffic Intelligent Management") 
+  "Urban Traffic Intelligent Management"OR "交通智能管理") 
   AND PY=2015-2025  
   AND DT=(All document types)
   AND LA=("English"OR"Chinese")
