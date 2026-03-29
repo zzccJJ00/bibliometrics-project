@@ -73,7 +73,7 @@ class DataCleaner:
         return df
     
     def _generate_quality_report(self, df: pd.DataFrame):
-        """生成数据质量报告（课程要求：QC结果记录）"""
+        """生成数据质量报告"""
         report = f"""
         数据质量检查报告
         ===============
