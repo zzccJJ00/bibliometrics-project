@@ -14,7 +14,7 @@
 
 ## 二、候选开源项目
 ### 项目1：bibliometrics-lab（自定义开源项目）
-- 仓库地址：[]
+- 仓库地址：[https://github.com/zzccJJ00/bibliometrics-project]
 - 选择理由：
   - 模块化设计，支持多数据库采集与标准化处理
   - 适配文献计量学核心分析方法（共现网络、突现检测）
@@ -23,7 +23,7 @@
 - 文档完整度：含详细使用指南、API说明、示例代码
 
 ### 项目2：pybliometrics（开源文献计量工具）
-- 仓库地址：
+- 仓库地址：https://github.com/zzccJJ00/bibliometrics-project
 - 选择理由：
   - 支持Web of Science等核心数据库API对接
   - 内置多种计量分析函数（被引频次统计、合作网络构建）
