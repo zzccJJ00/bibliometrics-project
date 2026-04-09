@@ -5,7 +5,7 @@ time_window: "2015-01-01 to 2025-12-31"
 document_types: ["All document types"]
 languages: ["English","Chinese"]
 gs_query: |
-  TS=("Intelligent" OR "Smart" OR "Management" OR "Traffic"OR "Transportation") 
+  TS=("Intelligent" AND "Smart" AND "Management" AND "Traffic" AND "Transportation") 
   AND PY=2015-2025  
   AND DT=(All document types)
   AND LA=("English"OR"Chinese")
