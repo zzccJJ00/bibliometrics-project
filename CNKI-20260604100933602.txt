@@ -1,0 +1,4267 @@
+RT Other Article
+SR 1
+T1 智能交通信息采集及管理软件系统
+A1 钱江
+AD 安徽蓝盾光电子股份有限公司
+FD 2009-03-08
+K1 交通信息采集;DSP技术;综合指挥
+AB 该系统由机动车超速自动监测系统、车流量信息采集系统、智能交通监测记录系统、车载警务系统和道路交通信息综合指挥中心管控平台组成。数字测速雷达依据多谱勒原理,通过DSP技术实现对目标速度的测量,信息采集系统采用调频连续波(FMCW)测距技术、相支干积累技术、DDS技术实现同时检测8车道的流量、速度、车道占有率和车型等信息;车载警务和监测记录系统通过视频稳像技术、电磁技术、计算机技术、系统集成为综合的交通信息采集,处理的管控平强,通过四大系统的综合应用,达到交通信息的综合指挥管控的目的。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 陈自强;谭建军;陈基清;冯伟红
+AD 中国科学院广州地球化学研究所地理信息中心;中科盛博信息技术有限公司;中国科学院研究生院;
+T1 基于移动GIS的ITS数据更新机制研究
+JF 微计算机信息
+YR 2009
+IS 07
+vo 25
+OP 165-167
+K1 数据采集;智能交通;移动地理信息系统;城市化
+AB 本文以移动GIS的关键技术为支撑,结合深圳市公共交通智能化图文管理系统的具体实例,探讨了数据采集系统的设计与实现。系统采用多普达P800硬件平台,以eSuperMap 5.0和Microsoft eMbedded Visual C++4.0作为GIS开发平台,使用GPS天线或集成的GPS芯片接收GPS信号,通过中国移动的EDGE网络与智能交通服务器通信,并以导航和查询功能作为数据采集的辅助手段。数据采集系统保证基础数据的时效性、准确性、灵活性和高质量,促进了深圳市智能交通的长足发展。
+SN 1008-0570
+CN 14-1128/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVzx_0Dj92wgs5JggHf87saKFQ8Cvxu8ikQV0AUd_IZ421p918qOecvojw8OKMsg3oT-N3pj57fac_tkNsEYRt-TPy_iA4JOXGOdTIfs5T0ehn_-QShmAm9QngZNVJdUjCR0a3YIfSCc_Zx7bbhHUsjmAbLZYt7Aauu7STZ3-3Vrg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 孙亚鑫
+AD 上海大众汽车有限公司;
+T1 中德道路交通事故信息采集系统简析
+JF 上海汽车
+YR 2009
+IS 02
+vo 
+OP 36-38
+K1 交通事故;信息采集;数据
+AB 目前在我国,交通事故基础数据的缺乏已经成为交通安全研究的重大瓶颈。文章通过大量的文献检索和数据分析,借鉴德国在这方面的先进经验,结合中国国情,提出建立中国道路交通事故信息采集系统的必要性。
+SN 1007-4554
+CN 31-1684/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUIFG_Zb8CVDB9fWoh1vVRpJ_BzMXsoQXh3Ovw7CgUB90gTAhurPSRTm7AXbyMYz0FHG3HZQIYyB9mdAeWYyP5qpaVLqt_rY9ItzJKWaEedLq16RLvwLNWCoGq7ZZMdogupH0K7PYTYG8bfGFZv8AmGnr-hQL3OdJvLpf1L74eJ0w==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 Kai Liu;Toshiyuki Yamamoto;Taka Morikawa
+AD Graduate School of Civil Engineering, Kobe University, Kobe City, Hyogo, Japan;;Department of Civil Engineering, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, Japan;;Graduate School of Environmental Studies, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, Japan
+T1 Feasibility of Using Taxi Dispatch System as Probes for Collecting Traffic Information
+JF Taylor & Francis;Informa UK Limited
+YR 2009
+IS 1
+vo 13
+OP 16-27
+K1 Taxi Dispatch System;Probe Vehicle;Feasibility Issue;Traffic Surveillance;Wireless Communication System
+AB Using commercial vehicle fleets as probes may be a cost-effective method for obtaining real-time traffic information. Because the taxi dispatch system automatically records the location of a taxi traveling in an urban network, large quantities of real-time travel data can be obtained at low cost. The reliability of this information about real-time traffic conditions, however, has not been investigated. This study examines the feasibility of using taxi dispatch systems as probes for real-time traffic surveillance. The examination focuses on the uncertainties in the data provided by the two types of wireless communications systems—analog and digital Multi Channel Access (MCA)—that are used for dispatching taxis. The study reveals that the digital MCA wireless system is much better than the analog wireless system for data transmission. This article exemplified that selection of longer road segments helps to greatly reduce traffic surveillance errors. Finally, this article discusses the lessons learned from this ...
+SN 1547-2450
+DS CNKI
+LK https://link.cnki.net/doi/10.1080/15472450802644447
+DO 10.1080/15472450802644447
+
+RT Journal Article
+SR 1
+A1 王柄丽
+AD 安丘市交通局;
+T1 交通事故预警系统构建
+JF 山东交通科技
+YR 2008
+IS 04
+vo 
+OP 86-88+100
+K1 交通安全;交通信息采集;预警系统
+AB 针对交通安全现状及国内外交通预警发展现状的分析,阐明建立交通事故预警系统的必要性。分析了基于人、车、路、环境四要素的道路交通事故的成因,根据交通事故预警系统设计原则和建立预警系统的目的,采用相关理论,选用合适的交通信息采集技术,建立了交通事故预警系统。该系统包括驾驶员预警子系统、车辆防撞预警子系统、车辆状况预警子系统、道路安全预警子系统和交通气象预警子系统。
+SN 1673-8942
+CN 37-1276/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWWuNSXDQfax2rdD6mOReQRyhGBIcyODtui422iisrW5aBKOtKbo7XBBGt0LhIpF_Px8T2W31xtmJeRiX4xQU8dH4SZ6anf5IEqGbqUWwxyPmL_UPMXlFcLZT8T3uMludrswOB2nu1tlbq6jHgXYXUPERl4nQ704uTMZLIj3_6YlA==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 张学军
+A3 崔宝侠;段勇
+PB 沈阳工业大学
+T1 智能交通诱导系统
+CL 硕士
+YR 2008
+IS 09
+K1 智能交通诱导系统;交通信息采集;交通信息融合;路径诱导;多目标决策
+AB 智能交通诱导系统是综合运用先进的信息、数据通信、网络、自动控制、交通工程等技术,改善交通运输的运行情况,提高运输效率和安全性,减少交通事故,降低环境污染,从而建立一个智能化的、安全、便捷、高速、环保、舒适的综合交通运输系统。智能交通诱导系统是目前公认的全面有效地解决交通运输领域问题,特别是交通拥挤,交通阻塞,交通事故和交通污染的根本途径。本文详细了介绍我国交通发展现状以及城市交通中出现的问题,从我国城市交通的具体情况出发,结合中国城市交通特点及其他基础设施的特点,提出了一种适合中国国情的城市交通诱导系统的体系结构框架;并对框架中各个子系统之间的协调方式以及信息交换模式进行了规划;交通信息采集与处理技术是智能交通诱导系统的核心,本文对现有的交通信息采集技术进行了详细的研究分析,为信息融合技术在智能交通诱导系统中的应用及其算法研究提供了理论条件。针对交通信息采集过程中的多设备采集系统,提出了交通信息融合模型的设计方案,并结合数据进行了仿真,结果表明改进后的算法精度更高,证明了改进方案的有效性。最后对出行者出行前服务子系统进行了研究,本文在多目标决策方法和k-最短路算法相结合的基础上提出了一种简单实用得多项式算法,避免将目标线性加权或转化为约束条件方法的缺点,为出行者提供了最优路径,方便了出行者,提高交通利用率。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWzLN_xqXSx3qY85GrFmaz4altfazmc5shkhWulHe8hBDUZDOaII8VDFrcipeZYPEjoCvsa-7XoYgUSwdZ_qRDHvzVAVENRtKXhb820DN7FHbuGCT7avyVAU5u1C4J7aR22_gzTOtzdYhCmWfdb0IunH0wGAk_5xrETGj4yLs2vR1NcYQTk06Mh&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 李畅;闫彬;赵炳强
+AD 汽车管理学院车辆管理系;
+T1 基于虚拟仪器技术的智能交通车载信息采集系统的设计和研究
+JF 2008中国汽车工程学会年会论文集
+PB 中国汽车工程学会
+PP 中国天津
+YR 2008
+OP 1242-1245
+K1 智能交通系统;虚拟仪器;车载信息采集系统;GPS
+AB 实时交通信息采集是实现城市交通智能化的关键,是ITS各子系统实施的核心基础和重要前提,在交通规划和交通管理控制等方面具有广泛的应用前景。本文利用虚拟仪器技术对车载信息采集系统进行了整体设计和研究。该系统具有精确采集车辆位置、速度、加速度和姿态角等信息的功能,这些车辆信息为智能交通系统的应用提供了有力的保障。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWkRxJSqoj_PY5mqnyA2E2BD1KjVfCWsBIWK1qhyizeELrRz80jChe_RmgAU_qiCZfygKm2VzuOOB_g6LPrwyrzsLrxiB11vfxgXnk8VOHnqvxGwIcf8oEdeG9K2PMWRONKTsAGeTwyxKumyLSk_PmCTLFtaX-AZv6Epvp30HaPs4o8__POJA3m&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 张永强;林丽
+AD 南京林业大学土木工程学院;
+T1 浮动车交通信息采集系统
+JF 交通科技与经济
+YR 2008
+IS 06
+vo 
+OP 80-82
+K1 交通信息;浮动车;ITS
+AB 浮动车交通信息系统是伴随着ITS新技术的应用而在近几年发展起来的新型交通流信息采集技术,它可以直接和方便地测得可靠、准确的车辆行驶速度、路段行程时间等参数。该系统作为一种重要的交通信息采集方法,可以弥补现有传统交通信息采集技术存在的数据不完全、数据量不足、数据质量差等问题,对我国交通信息采集工作具有很好的现实意义。
+SN 1008-5696
+CN 23-1443/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.19348/j.cnki.issn1008-5696.2008.06.032
+DO 10.19348/j.cnki.issn1008-5696.2008.06.032
+
+RT Journal Article
+SR 1
+A1 张永强;林丽
+AD 南京林业大学土木工程学院交通工程系;南京林业大学土木工程学院;
+T1 GPS/GIS技术在浮动车系统中的应用
+JF 山西建筑
+YR 2008
+IS 30
+OP 367-368
+K1 浮动车系统;GPS;GIS;交通信息采集系统
+AB 针对传统交通信息采集技术存在的问题,提出了一种新型的交通信息采集方法——浮动车系统,研究了GPS技术和GIS技术的基本原理,通过浮动车系统中数据的采集和处理对GPS/GIS技术在系统中的综合应用进行了分析。
+SN 1009-6825
+CN 14-1279/TU
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13719/j.cnki.cn14-1279/tu.2008.30.214
+﻿
+DO 10.13719/j.cnki.cn14-1279/tu.2008.30.214
+﻿
+
+RT Dissertation/Thesis
+SR 1
+A1 李卫江
+A3 郭晓汾
+PB 长安大学
+T1 基于线阵CCD成像交通信息采集和检测技术的研究
+CL 博士
+YR 2008
+IS 11
+K1 智能交通系统;车辆分割;车辆检测;车辆匹配;主动轮廓模型;出格数据;图像增强;车牌识别
+AB 智能交通系统ITS(Intelligent Transportation System)是新一代的交通信息管理和控制系统，它充分利用现代电子、控制、计算机和数据通讯等技术，能大大提高交通运输的安全性和运行效率，及时提供道路车辆流量和路况信息，记录违章车辆，增强突发交通事故的处理能力，为人们的出行提供快捷、舒适的交通服务，从而促进交通运输事业的迅速发展。作为智能交通系统的重要组成部分，道路交通信息的实时采集是智能交通信息采集的关键内容之一。及时、准确地获取各种交通参数是实现交通控制智能化的必要前提条件，道路交通检测器及其检测技术的高低将直接影响道路交通系统的整体运行效率和管理水平。由于基于图像分析及计算机视觉为基础全天候对车辆进行监测和识别的技术逐渐成熟，交通检测也由人工观察交通现象、手动控制交通信号转向视频检测。视频检测方法能够利用视频跟踪车辆的手段，自动检测以交通流量为主的交通参数，实现交通信号控制并对危险事件进行报警，无疑它是一种有发展潜力的交通信息采集方法。本论文对基于线阵CCD(Charge-Coupled Devices)成像检测系统的几个关键技术进行了研究，着重就交通场景下的背景提取、交通视频图像中车辆的检测和跟踪、车牌识别以及交通视频监控系统的实现等重要而基本的问题进行了深入的探讨。具体说来，本论文所做的主要研究工作可概括如下：(1)提出了一种基于小波变换的背景提取方法及利用平均方差代替均值的Otsu阈值选取方法。结合小波变换的特点，针对线阵CCD扫描图像，提出了一种基于小波变换的背景提取方法。该方法能够有效的消除灯光等噪声，能够较好的提取出背景信息。同时，针对在背景提取过程中，阈值的选取对背景的提取具有较大的影响，本论文利用图像的灰度平均方差反映了图像灰度分布的特性，提出了一种利用平均方差代替均值的Otsu阈值选取方法，即改进的Otsu分割方法。(2)提出了一种基于主动轮廓外力场模型PMF(Perona-Malik Field)的车辆分割方法。该方法利用经典的Perona-Malik各向异性去噪模型具有保护边界信息的特点，将经过Perona-Malik模型处理后图像的负梯度作为外力场，研究其对车辆分割结果的影响，从而提出了一种基于主动轮廓外力场模型PMF的车辆分割方法。该方法不仅能够保持车辆的边界信息，克服了传统外力场不能进入车辆图像凹部的缺陷，而且对初始曲线的约束较少。(3)提出了一种加权迭代车辆匹配方法。现有的大部分匹配方法都是基于均方误差最小的原理，即最小二乘法。当噪声是高斯噪声时，最小二乘法是最优的，但在实际过程中，经常会出现一些出格数据，若把出格数据当作高斯噪声，那就有可能导致错误的结果。针对这种噪声，本论文提出了一种加权迭代车辆匹配方法，该方法首先利用加权来进行车辆匹配，再利用各点余差的倒数作为下一次迭代的权值，如此循环，就可以使出格数据的权值接近于0，最后完成高精度的车辆匹配。本方法可以克服最小二乘法鲁棒性差及随机抽样方法计算量大的缺点，模拟实验和真实实验数据结果表明，该匹配方法具有运算量小、鲁棒性好等优点。(4)提出了一种用于牌照识别的图像增强方法。牌照区域分割是牌照识别的关键步骤，增强图像中的牌照区域，抑制背景区域，可以有效降低牌照区域分割的难度。本方法将图像分解为一组二值图像的组合，然后在二值图像上计算各连通分量及其特征参数，利用牌照区域和背景区域对应的连通分量的特征差别，可以有效抑制背景而保留牌照。处理后的二值图像可重构出牌照区域增强的部分。本论文还采用等高线标记代替连通分量标记，以减少计算量，使得该方法具有实用性。实验显示，该方法能够有效地突出了牌照区域而抑制了背景，提高了牌照定位分割的效果，可以很好地用于实际的牌照识别系统中。(5)实现了一种基于线阵CCD摄像机的交通信息采集和检测系统。交通信息是交通管理和规划的基础和关键，实时动态地采集描述交通流的各种参数和检测各种交通事件，并对这些信息进行有效地处理和应用，对提高交通系统的运行效率、减少交通事故、提高紧急事件的应急能力、优化交通系统的规划设计和有效评价交通系统的运行指标具有很重要的作用。为了获取交通信息，本论文实现了一种基于线阵CCD摄像机的交通信息采集和检测系统。该系统主要由数据库、图像库、视频触发、图像抓拍、断面计时、参数获取和牌照识别等主要功能模块组成，具有视频触发、瞬时速度检测、超速实时处理、车型识别和交通量统计、车辆通行记录等功能。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXYnlKRtVh3eK9i3fkBmmhfgtniFfuCbKa4YXMoqmvXJO5S1wdBFlAuV8WQWEp-nJDtuTbMwuRDXLf4_xlOsON8QrvJ_UdIsyS9dfNTr11_xgTHxe84x3uysu8oEU2t083GfHhZqm69suflX-HxYMGwrVwpb_EfXkKkYLmPLFiUBUOD9f5jDE7m&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 盛业华;张卡;叶春
+AD 南京师范大学虚拟地理环境教育部重点实验室;
+T1 基于车载移动测量系统的空间数据采集与处理
+JF 《测绘通报》测绘科学前沿技术论坛摘要集
+PB 测绘出版社
+PP 中国江苏南京
+YR 2008
+OP 1863-1873
+K1 车载移动测量系统;空间数据;立体摄影测量;系统检校;立体图像
+AB 全球定位系统(GPS,Global Positioning System)、惯性导航系统(INS,Inertial Navigation System)、激光测距技术和数字摄影测量技术集成的直接定位和数据采集系统,是近年来遥感与测绘领域中发展起来的新型快速数据获取技术。本文针对多传感器集成的车载移动测量系统的数据采集问题,研究了车载移动测量系统的检校方法,给出了系统精确的直接定位方程;在此基础上,研究了基于车载立体影像的空间数据采集方法,并以道路交通标志信息的快速采集为例,给出了实验结果。实验结果表明,车载移动测量系统在高效、快速和准确地实现城市三维空间信息的采集、处理和建模等方面具有重要的价值。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWUmftsW6N8IWuHcwdGodtslI7R5XCxfNV3qevOSDV4wF_P1rsurxSZ6MChFt93P2rfJ480govEmivSnXpso7UUJmP-5mjA4O74UumyLP8J2cu7Uo1qk_CJzB-HJSQ9yjz8swBrKhlMUJoWjtHnMMtoZ-P2GGaYnuU5sR0HcHJ1TQp4Po9MPLNR&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 冯忠祥;刘静;张恒海
+AD 长安大学汽车学院;长安大学工程机械学院;山东交通学院汽车系;
+T1 构建道路交通事故预警系统的研究
+JF 2008第四届中国智能交通年会论文集
+PB 全国智能运输系统协调指导小组、山东省人民政府
+PP 中国山东青岛
+YR 2008
+OP 157-162
+K1 道路交通;交通安全;交通信息采集;预警系统
+AB 针对道路交通安全现状及国内外交通预警发展现状的分析,阐明建立道路交通事故预警系统的必要性。分析了基于人、车、路、环境四要素的道路交通事故的成因,根据道路交通事故预警系统设计原则和建立预警系统的目的,采用相关理论,选用合适的交通信息采集技术,建立了道路交通事故预警系统。该系统包括驾驶员预警子系统、车辆防撞预警子系统、车辆状况预警子系统、道路安全预警子系统和交通气象预警子系统。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWe7bFWRnk5S5baXFPxuHjLm1XTNGaRprLW9sX0xHnHuaghWVv0DEwsSwy_vcAoq4kQ4rajpQ3b-QTgq10tLeuQMwhxDDTFARx6-7fyzvXzcwnE4ezgUkEHiXeIdwlxCYOW5_9Ikgf5Pzxs-HprRJOfT7dHcfONJQdG5kzwuPIW8ULJN1JKedgs&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 刘宇熹
+AD 广东金融学院计算机科学与技术系;
+T1 交通管理综合信息交换平台设计
+JF 华南师范大学学报(自然科学版)
+YR 2008
+IS 03
+vo 
+OP 45-52
+K1 交通流量采集系统;消息采集;信息交换平台
+AB 论述交通管理综合信息交换平台的系统目标、系统功能、核心接口、软件结构和主要实现技术,本系统实现了城市交通管理的科学化、现代化.
+SN 1000-5463
+CN 44-1138/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW_VaiINyAdiSX3NKM6YaKRfq4A7zXe2ZhI5PhpBxdFG-X-eHEWWoTrxw3G54zoNnVHux050wloBEhOea77St5Lqf1GvRyvoQ0LUv9Oeb7g2994Nsx3i5cieiKJi3F051UbG5Xc3NIenjdUYijdyMIQ5z-IwLQD4YZjz5iRUE7pqA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 蒋军;代舒
+AD 武汉理工大学交通学院;
+T1 冰雪灾害对道路运输的影响及对策探讨
+JF 道路交通与安全
+YR 2008
+IS 04
+vo 
+OP 18-22
+K1 冰雪灾害;道路安全;分类模型;交通安全管理系统;应对措施
+AB 借鉴他人的研究成果,详细论述了冰雪天气可能产生的各种危害。从灾害天气对道路运输安全影响的角度出发,运用汽车运输工程学中的相关知识,从根本上分析了冰雪灾害对道路运输安全构成危害的机理,提出了道路运输应对冰雪灾害的解决措施,包括构建一种冰雪灾害路面打滑分类模型,以此来判断冰雪灾害的程度和基于气象条件的交通安全管理系统,包括信息采集系统、指挥控制系统、信息发布系统和快速响应系统等4个子系统。提出了各种必要的工程防护措施,为冰雪防灾纳入公路规划和设计当中,逐步建立较为完善的公路冰雪清除服务体系提供技术支持。
+SN 1008-2522
+CN 11-3911/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVHgiQu8DAXWJremUlOxCAq71kxjQY8INyvPtwlMS9Hwy96FK2goz1QxcCGrOJ1VDiJvebxHtoLoFzbVmlDBH1bkz4roxntEStXZ23Z_IEvMsdzhiXOxStGdy2BFXKXnaY6Ay3U9B1kt_zrH6dAu-8AVXmiZoVOvDZD8Z-Znqdkng==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 王庆纲;阮永华;秦俭;张翼
+AD 上海宝康电子控制工程有限公司;上海宝康电子控制工程有限公司;
+T1 试论我国交通指挥中心的建设现状与发展趋势
+JF 交通与运输
+YR 2008
+IS 04
+vo 
+OP 9-11
+AB <正>智能交通系统(ITS)作为一种实时、高效、准确的新型交通运输系统,已被各国所认可,是解决城市交通问题的一种有效的途径。我国ITS建设始于20世纪80年代,北京、上海等城市率先引进国外先进的交通信号控制系统(如英国SCOOT、澳大利亚SCATS),对城市交通进行控制和管理。到20世纪90年代,随着政府、企业和研究机构对ITS的研究投入不断加大,高新技术和先进设备在交通管理中得到广泛应用,如GPS全球定位技术、GIS地理信息系统及数字视频技术等。
+SN 1671-3400
+CN 31-1476/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWWskN9KpIaDq1WIxIcfykH6vdgEq9GCN2FenJ8TP4raE16kZC08GrN0yXHANph32SIiQ_Q_tAWWaSZVyhZgDh79PNe9n4SF8t8-mLgL2WAkLh9aNVkkLduXrwYqbAYAaXcBiFFWgcMvycrM0C5TeEDdN59Rw9BeQnyTGIE6C1BdQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 皮晓亮
+AD 上海海事大学交通运输学院 上海200135,同济大学交通运输工程学院,上海201804
+T1 ITS数据采集处理技术分析与系统框架流程设计
+JF 公路交通科技
+YR 2008
+IS 07
+vo 
+OP 136-140
+K1 智能运输系统;交通信息采集处理;数据质量控制与集成;ITS实时数据;数据集成存储
+AB 阐述实时动态交通信息采集与处理子系统的基本功能与特殊性,然后对国外智能交通运输管理系统中信息采集与处理的实用技术及关键技术参数进行了分析比较。在此基础上,对交通采集与处理流程中3个主要组成部分:交通信息采集、交通数据质量控制、交通数据集成和存储,分别进行系统框架流程设计,最后分析了ITS数据实时采集与处理的发展趋势,并对中国ITS数据的实时采集与处理给出若干可行建议。
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVroEZuNbqRSEePKvWPPtjyqj2cF5W00RHTZCjAnqPh43BGrKNHUsbt1C4pFgfHiBrw3oA0yl0dY4Jb-VfR1rac57NgPiGY2MlPpptkKuZwLZbdFwMavNwEcdA90kcAwMNALx-oCtmI5b3jTuMA4-KPP_GH0dm8GTE-YILM0H_BFA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 吴薇;朱光喜;陈云锋
+AD 华中科技大学武汉光电国家实验室,华中科技大学武汉光电国家实验室,武汉鼎图科技有限公司 武汉430074,武汉430074,武汉430073
+T1 基于视频技术的嵌入式交通信息采集系统
+JF 计算机应用研究
+YR 2008
+IS 07
+OP 2104-2106
+K1 智能交通系统;交通信息采集系统;交通特征参数;数字信号处理器
+AB 简要分析了交通信息采集技术的发展状况,并结合当前智能交通系统的应用需求,设计并实现了一种基于高性价比DSP硬件平台的嵌入式交通信息采集系统。本系统是一种基于视频图像分析和模式识别技术,对交通信息进行实时采集和分析的嵌入式集成系统,具有很好的稳定性和实时性。
+SN 1001-3695
+CN 51-1196/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LURRfov4ifD8WTn-PsV80XAtUbgBDrRsEuYEVpcASevvviv6svEqjnSDFAi_bmEb_mxav85B0hFFjCb7GL9jRyoUftl0nyEQ6HKAwl2bx2BC83ZnZkx_0ILcnhgJhjI5CCF1XKyeDvcEdc8niOyL5JOjiSY8O8dng_KiK70M7F99w==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 张志勇
+AD 山西交通信息通信公司;
+T1 对建立山西省交通安全应急信息采集传输系统的方案分析
+JF 科学之友(B版)
+YR 2008
+IS 07
+vo 
+OP 32-33
+K1 交通;安全;信息采集传输
+AB 交通安全应急信息传输系统是交通突发事件应急体系建设的基础保障,通过交通安全应急通信系统的建设,可为交通部门负责的公路和水上交通安全、抢险救灾、处置应急事件等提供快捷有效的通信链路。尤其在提高交通现场的信息获取能力、处理突发事件的快速反应能力、组织协调能力、决策指挥能力等实际工作上具有重要意义。
+SN 1000-8136
+CN 14-1032/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVdUOWBpWNRNdhYEsotROTBOVV2poMjwAyZz-gZ6e1tfG-_NZGIs4GIW1x3p3oZVRWEEA9dgLK6o06hspEGHpD9Vlf7Iox5RRUKrAuZhHbo-m2AQbsmDMLJQ3S7Yiow6xY2G74LibC0n5hQtfVwdqog95Cjksk24sB2Y6QKfDz8Ug==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 蒋军;代舒
+AD 武汉理工大学交通学院;
+T1 冰雪天气对道路运输的危害及对策
+JF 交通科技与经济
+YR 2008
+IS 04
+vo 
+OP 104-105
+K1 冰雪灾害;道路安全;应对措施
+AB 从灾害天气对道路运输安全影响的角度出发,运用汽车运输工程学中的相关知识,分析了冰雪灾害对道路运输安全构成危害的机理及可能产生的危害。提出了解决冰雪灾害的应对措施,建立了基于气象条件的交通安全管理系统,该系统包括信息采集系统、指挥控制系统、信息发布系统和快速响应系统4个子系统。采取了必要的工程防护措施,并逐步建立了较为完善的公路冰雪清除服务体系。
+SN 1008-5696
+CN 23-1443/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.19348/j.cnki.issn1008-5696.2008.04.043
+DO 10.19348/j.cnki.issn1008-5696.2008.04.043
+
+RT Dissertation/Thesis
+SR 1
+A1 王嵩
+A3 吕红霞
+PB 西南交通大学
+T1 基于ZigBee技术的铁路集装箱信息采集系统的研究与设计
+CL 硕士
+YR 2008
+IS 01
+K1 ZigBee;集装箱;信息采集;NS2
+AB 集装箱运输以其高效、便捷、安全的特点成为交通运输现代化的重要形式。随着我国经济的飞速发展,近年来集装箱运输吞吐量高速增长。在信息和网络技术如此发达的当今社会,作为货物运输主要载体的集装箱,信息化技术的应用非常滞后,这与现代物流所要求的信息透明化、实时化是极其不吻合的。目前,铁路在集装箱运输作业过程中,信息采集主要通过人工进行,效率非常低,工作繁重且极容易出现差错。由于在整个集装箱信息管理系统中,集装箱信息的自动采集是关系到工作效率高低的最重要的环节,所以如何在保证安全的情况下提高信息采集的速度和准确性就成了解决问题的关键。而ZigBee技术是一种新兴的短距离、低速率、低功耗无线网络技术。如果将ZigBee技术很好的融入到集装箱运输过程中,将会使铁路集装箱的运输水平得到进一步的提高。首先,本文指出了目前集装箱信息采集系统中存在的问题,并针对这些问题分析了ZigBee技术在集装箱信息采集中的优势,介绍了ZigBee技术的特点和ZigBee协议栈的体系结构,并且分析、比对各种无线连接技术,研究了ZigBee技术运用在铁路集装箱运输中的可行性。其次,结合集装箱办理站的物理环境,设计了相应的ZigBee网络拓扑结构。并根据集装箱信息采集要求,探讨了基于ZigBee技术的集装箱信息采集系统的工作原理,同时,对ZigBee无线传感器网络的定位、安全性等关键技术做了相应研究。设计了基于ZigBee技术的集装箱信息采集系统的总体框架,并在此基础上结合集装箱办理站的环境,通过对集装箱信息采集作业的分析,总结了信息采集过程中涉及到的建立网络、加入网络、传输数据和离开网络等相关关键技术。最后,根据设置的网络拓扑结构和铁路站场设备条件,基于CC2430芯片和NS2平台开发了仿真程序并进行了模拟,得到了静止节点的ZigBee无线传感器网络的性能数据和不同运动速率下的ZigBee无线传感器网络的性能数据。从而论证了在集装箱信息采集中运用ZigBee技术的可靠性。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU2L1ttHQ6BgNUMs7M6ukcmNzCXM8UlsJvE-Q82koHw-KKR3vpNHnjecGi0TZYwtH3yI5hn9c8rbCg1vCI3G-74vCcPoDg6IsslVOPhY8VcWxLKVWEyKsHT7LfBwrgx4PXhH9GaKr_fezuLOq-Uf4tDTKu0G5Y4Io1PCCDByW1UbbqjeWH-NauL&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 黄武陵;艾云峰
+AD 中科院自动化研究所;中科院研究生院;
+T1 无线传感器网络在智能交通系统中的应用
+JF 电子产品世界
+YR 2008
+IS 06
+vo 
+OP 48+50+52+54
+K1 无线传感器网络;智能交通系统;交通信息采集;智能公交系统
+AB 无线传感器网(WSN)综合了嵌入式系统、无线通讯、微电子等技术,逐渐应用于智能楼宇与智能家居、医疗监护、工业监控等领域。本文介绍了无线传感器网络常用芯片和典型解决方案,及其在智能交通系统(ITS)中的典型应用。
+SN 1005-5517
+CN 11-3374/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVL5odPbZ5K_qlN01Orq_QjIvRZ-jKbpsqpwwtwtLjmOskLIjBwjDDFspPPPEPf-YpKcqldHLjm4SEjKS5oqhu9P946ZVB56oTTFUv12suwi7bp0f-gVlkG-qPjcFahG1lyoYscM01Lmt0l_wyslk9JaANV4XxskqgIzNr8WtXeYg==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 王文辉
+A3 吴建平
+PB 北京交通大学
+T1 基于浮动车的道路交通状况评估中信息融合应用研究
+CL 硕士
+YR 2008
+IS 08
+K1 智能交通系统;交通信息采集;信息融合;聚类分析;粗糙集
+AB 智能交通系统(ITS)作为一个信息化的系统,它的各个组成部分和各种功能都是以交通信息应用为中心展开的,交通信息的质量直接影响着交通系统应用分析的可靠程度。因此,获取实时、全面、准确的道路交通信息是实现城市交通智能化的关键,也是ITS成功实施的重要前提和基本保障。本文以交通信息采集为应用背景,针对目前城市道路交通信息难以实现实时全面准确采集的问题,从信息融合的角度,对交通信息融合、交通信息预测以及FCD算法等问题进行了系统的研究。全文的主要工作包括以下几个方面:1.信息融合技术的理论基础研究,从系统的角度对信息融合技术的基础理论进行了研究,重点研究了信息融合技术作为一种系统思维方式的理论知识,这些知识是构成信息融合技术的基础。其主要内容包括信息融合的融合层次、功能模型以及数学模型。2.基于FCD的城市道路交通信息采集研究。首先,提出了采样周期优化的理论方法,将浮动车瞬时速度当作随机信号,利用傅立叶变换对其进行频域分析,然后依据Shannon采样定理,确定浮动车的优化采样频率;重点讨论了在GPS返回数据的不同情况下,进行平均速度的估计。通过试验,说明该算法能够得到路段合理的平均速度,能够描述路网的运行状态。3.由于固定检测器和移动检测器在检测覆盖范围方面存在较大差异,具有很强的互补性。在分析了固定检测器与移动检测器进行信息融合的必要性后,提出了基于交叉口分离的交通信息融合的总体框架。分别阐述了基于固定检测器和基于移动检测器的区间平均速度估计方法。4.利用粗糙集理论的属性约简、值约简、核和不完备信息系统等方法来进行多传感器信息的融合,除了传感器测量的数据之外,无需任何额外的信息。针对完备信息系统和不完备信息系统分别提出了相应的融合算法,为解决传感器数据不完整的信息融合提供了有效的方法。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVgSjDCayiHvqy9W3qiD_Zqs5xuf6nRZTOrzeGfx5aVwoER_tLdCE1x8-rUwsKt-w8ht41evdGremlps-0TJOkE_KWaFmVDdhQc_kgzrDRk_uNI4Q34ZKhT1F7P9OsD5vdLb1N-veMg7QeFuXMnRk9xKjm2QCs-kiCmrUCiu9xBWaBSCMjeE_RQ&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO/TR 21707-2008
+T1 智能运输系统.集成的运输信息、管理和控制.ITS系统中的数据质量
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2008-06-01
+ID ISO/TR 21707-2008
+K1 数据;数据采集;数据元;数据交换;定义;信息交换;智能网络;元数据;额定值;术语;交通和乘客信息;交通管制;运输;运输系统;TTI
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUmX60L3nIA4U8DmndI63Qhv73BIz_0a1BYPD4rNJVNfpLAtQ3QbAM7YypUgYivyG45IR8IlAw_iAXPPr3Zl7gBpH4HkmdkN7rlnBvF7dqzIlGGGnEw7iukHsiF9-Mgum9lbQX2M99g4p9sSpeZKj2VSodjK7IP0QXmkdvcZ9_O4g==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Dissertation/Thesis
+SR 1
+A1 黄征
+A3 宋焕生
+PB 长安大学
+T1 基于线阵CCD成像的交通信息采集系统研究
+CL 硕士
+YR 2008
+IS 08
+K1 智能交通系统;交通信息采集;图像采集控制;车速检测
+AB 交通信息的实时采集是智能交通的关键内容之一,也是目前智能交通领域的研究热点。视频检测技术由于其明显的优势,正逐步取代磁感线圈、红外、雷达等常用的检测手段,是未来发展的趋势。现有基于面阵图像的视频检测技术存在采集频率低、检测精度不高、数据量过大等难以解决的问题,为此本文研究了基于线阵CCD成像的交通信息检测技术。本文介绍了目前较为流行的几种车辆检测技术,并讨论了各自的优缺点。概述了基于线阵CCD成像的交通信息采集系统的总体设计和功能,重点研究了其中的几项关键技术:(1)图像采集及控制。针对由线阵CCD相机、高速图像采集卡和工控机组成的成像系统,设计了对线阵CCD相机增益和电子快门等参数进行调整控制的策略和实现算法,以达到高质量的成像效果;为了保证系统在晚上和较暗环境下能正常工作,设计了相应的辅助照明方案;(2)车辆图像匹配测速。在分析了常规的车辆测速技术的缺陷和不足基础上,提出了一种新的基于线阵图像匹配的测速方法。在两个相距一定距离的检测断面采集线阵图像数据,对这两个图像序列中的车辆目标进行匹配,以计算出同一车辆通过两个断面的时间,从而得到车辆的瞬时速度;(3)超速车辆图像触发抓拍。通过对现有超速抓拍系统的需求分析,实现了一种新的超速抓拍系统,该系统采用了基于线阵CCD成像的更精确的触发技术,大大提高了抓拍准确率。以上系统和算法通过了现场应用测试,测试结果表明,设计的系统具有成像清晰、测速精确和图像抓拍准确率高等优点,可以满足超速执法需要。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWNAniKabbh0jMBZNeTpd32O_vFR-O_QoHDNpbhxqh2BXYMXmiLIk8ssytQ_ckK5_DgETsthu5OB-5GyeDpd8qmcwmQFBz72EUJPqq2jcNQ2BSD2s2XP3OTKUMzPDCEpxmy1zHQGucJmnsYZlioYl0G4ltTkBF6-_s8pspHLQLyDSePPEj5g-xR&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 田方伟
+A3 王文杰
+PB 昆明理工大学
+T1 云南省运营道路安全审计的事故数据采集及应用研究
+CL 硕士
+YR 2008
+IS 09
+K1 安全审计;管理系统;数据采集;交通安全
+AB 道路安全审计工作的顺利实施,不但要一套科学的审计体系和完整的制度予以保障,而且需要充足的数据作为基础,离开数据分析的安全审计是不可想象的。数据采集和组织的困难已经成为制约道路安全审计工作在我国快速开展的主要原因。本论文正是着眼于建立一个事故信息管理系统,为处于运营期的道路的安全审计的提供交通事故信息数据。首先,论文介绍了运营阶段的道路安全审计的基本理论与方法;针对运营阶段的道路安全审计的内容和特点,总结了所需要的数据信息。然后,论文分析了事故信息的采集方法和事故信息在道路安全审计中应用的三种方式:交通事故分析图、事故多发点(段)鉴别和道路安全性评价,解决了交通事故分析图和事故多发点(段)鉴别中的关键问题。交通事故分析图的合理性关键在于交通事故示意图的合理性。论文在充分汲取前人研究成果的基础上,细化了国内交通事故分类体系;本分类体系着重强调了事故发生时车辆的运动轨迹,因而,有利于更详细地分析事故原因。然后,在交通事故分类体系的基础上,建立了适用于我国现状的交通事故示意图。交通事故示意图的建立解决了各种类型的事故在交通事故分析图中如何表示的问题,为交通事故分析图的建立奠定良好的基础。论文以SQL SERVER 2005和.NET为平台,建立了云南省道路交通安全审计事故信息管理系统——Rosa系统,实现了各种条件下的道路事故信息查询、统计和分析。一方面,Rosa系统能提供被审计道路沿线的事故信息,解决了交通事故分析图中的事故位置的标定和事故信息的确定。另一方面,Rosa系统可以查询任意长度的路段内事故信息,方便用户统计单位长度内的事故数量,以确定事故多发点(段)。由于Rosa系统是以路段为单位进行事故的查询和统计分析,因此比其他以行政辖区为单位的事故统计系统更适合为道路安全审计组织事故数据。最后,论文利用Rosa系统组织了昆石高速公路的事故信息,并在此基础鉴定了昆石高速公路上的一些事故多发点(段),验证了Rosa系统的可靠性与实用性。同时论文结合视频和其他资料,对昆石高速公路进行了初步的安全分析。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LX4XS5Qps3yEFebojZSfMno6iHeB_gIgOoRdeYQLUdQRZgydfN5h1oZjShivzTsYctCZbQigCP0i-pqiaErlzNql13-IXczV9e8gJfuAW7EmMMj-K6PvdZrNMxxTSYypg4X1Qwhd8lPxy6GkqO1pFvFiAfAHFmy8PAUdFoQNZZpCmMZDEOJ5Nm5&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 刘靓;黄飞;明德祥
+AD 同济大学交通运输学院,国防科技大学三院,国防科技大学三院 上海200092,湖南长沙410073,湖南长沙410073
+T1 交通信息采集系统时钟频率偏差估计方法
+JF 测控技术
+YR 2008
+IS 05
+OP 41-44
+K1 交通信息采集系统;时延;频偏估计;Kalman滤波;时间序列
+AB 针对交通信息采集系统时钟频率的偏差估计问题,提出了使用Kalman滤波进行时钟频率偏差估计的算法。该算法计算量小,算法简单且频偏估计精度高。实验仿真证明了该算法的有效性。
+SN 1000-8829
+CN 11-1764/TB
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.19708/j.ckjs.2008.05.013
+DO 10.19708/j.ckjs.2008.05.013
+
+RT Dissertation/Thesis
+SR 1
+A1 汤晖
+A3 许伦辉
+PB 江西理工大学
+T1 基于视频运动检测的多车道交通流信息采集技术研究
+CL 硕士
+YR 2008
+IS S2
+K1 智能交通系统;运动检测;背景差法;视频触发;虚拟线圈
+AB 随着现代经济的高速发展,交通问题已成为众所周知的热点和难点问题。将计算机科学与自动化等高新技术运用于交通监控管理与车辆控制,以保障交通顺畅及行车安全,从而改善环境质量,促进经济和谐发展的智能交通系统(Intelligent traffic system, ITS)也随之应运而生。在智能交通管理系统中,实时获取交通流信息是智能交通管理系统中重要的一环。利用视频图像处理来实现动态交通流信息的采集技术能克服传统采集方式的缺陷,并已成为该研究领域的主流方向。本文所包含的内容如下:作者在全面阅读和理解国内外智能交通系统研究领域的前沿技术的基础之上,研究了基于运动检测的交通流视频检测技术的原理。在分析当前各种技术的优缺点后,选择了基于双TMS320C6x DSP的交通流视频检测系统的设计方案,并选择了适合于嵌入式系统的算法—“背景差法”。针对二值化阈值自动优化选取问题,通过将模拟退火思想引入到遗传算法中设计了退火遗传算法(AGA),增强了整个系统的实时性和鲁棒性。同时结合“动态背景帧”、“视频触发”、“虚拟线圈”等方法,设计了车流量、车型、车速等交通参数的识别,并用VC++ 6.0开发了演示系统对算法进行了仿真。接着针对上位机开发了一个监控程序,总体上实现了四大功能:视频播放、串口通信、流量曲线显示、数据库查询。最后对算法的性能效果进行了分析,找出了问题原因并提出了未来改进的方向。用本文的交通流视频检测算法对广州市和赣州市多段实况交通视频进行了反复地测试,取得了良好的效果。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUqJ6rck_r-OTHNwkPP81m6D6MapyWykqzbl8T7R7Mce-h53UeastncBP-IQ9yBGb-yWPJ0l7vKMD27VV7hElcvVKGOt7PFfEkbOSx3e4fnJJTgJLfzyAZt_tWHdjMN5aq0844gS_0O25nxp_CI1F5KKp8u8YTllu_BRYvxRN3KJZfPXvIteV90&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 林森
+A3 何民
+PB 昆明理工大学
+T1 基于视频的交通信息采集系统研究
+CL 硕士
+YR 2008
+IS 09
+K1 交通流;交通信息采集;视频检测;OpenCV
+AB 交通流微观特征参数的获取是开展交通流理论研究和交通流微观仿真研究的基础和关键,准确、高效的交通信息采集系统又是获取这些交通流微观特征参数的保障。目前的大部分交通流数据采集设备能够提供的参数主要有:流量、密度、占有率、断面车速、车头时距等。就交通控制而言,上述特征参数已经可以满足交通控制的需求,而对于交通流理论研究以及交通流仿真模型研究,上述参数还不能满足研究的需求,因为它们无法提供交通个体在一定时间、空间范围内连续的运行轨迹以及相应的位移、速度、加速度等微观特征参数。视频检测作为交通参数采集的重要手段,近年得到快速的发展。相对于传统采集手段,它综合利用了图像处理、计算机视觉和模式识别等先进技术,有减少人为因素对观测数据的影响,节省大量的人力和物力,降低科研成本等优势。本文提出基于视频的交通流微观参数采集方法,设计了一个基于视频的交通流微观参数采集系统,并在VC++6.0编程环境中结合OpenCV进行了程序实现及ViedoTrack软件的开发。具体研究内容如下:1、在分析现有交通流信息采集技术状况基础上,设计了交通信息采集系统的流程及软件实现框架。2、提出采用直接线性变换(DLT)算法进行交通场景标定和坐标转换,并用C++语言在VC++6.0编程环境中实现了该算法。3、采用基于光流场的运动目标跟踪算法实现对交通场景中车辆、人等运动对象的自动跟踪,最后将跟踪数据自动导入Excel并进行相关宏的编制,实现了对交通流微观参数(速度、加速度)采集及运行轨迹绘制功能。4、提出了基于虚拟线圈(Virtual Loop)的交通流量及车速检测算法,并在软件中得到初步实现。最后对开发的采集软件进行了实验验证,结果表示本文提出的算法是有效的,表明Viedo Track软件具有一定的应用前景。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LX4VikQQQwY-erY6GjbvWEyFOZEF4gGy0Nvr9xCgB8ZIY1yEqHQ-BCKmPOpq2RFGDPfZOwI-zVvSHcXNi6juh-uuxnoSmvbiJq89Y_MqaCdi9R8jwANAmlTBxl13ybNqhzszLVhZk1oJWBTbS0N7xyH0x-acp_8GRciNSEnRqbN_2br4L9bq8cw&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 刘元
+A3 明平顺;宋晓冰
+PB 武汉理工大学
+T1 武汉市公众出行交通信息服务系统研究
+CL 硕士
+YR 2008
+IS 10
+K1 交通信息服务;信息采集;数据处理;信息发布
+AB 武汉市近年来的城市化进程加快,由于存在主次干道比例不协调、城市规划相对滞后、过江交通问题、公交运营效率低下等问题,给武汉市居民出行造成了很多不便,这就要求交通行业管理部门必须为公众随时随地提供全方位、多层次、多种方式的交通出行信息,这就要求必须具备一套交通信息收集、处理、发布和反馈的技术和机制,本文提出实现这些功能的最直接方式就是建设交通出行信息服务系统。在智能交通系统中,智能化交通信息服务系统是其中主要的发展领域,称之为面向公众的先进的交通信息服务系统。公众出行交通信息服务系统作为智能交通运输系统研究的一个重要部分,是现代交通发展建设及管理的必然要求和发展趋势。该系统集信息采集、信息处理和信息发布于一体,采用多种信息发布方式向公众提供各种交通信息。论文采用从“整体到局部”的研究方法对武汉市公众出行交通信息服务系统的相关问题进行研究。交通信息服务系统由信息采集、信息处理中心、信息发布和通信系统组成。在分析了系统的技术先进性的基础上,探讨了各组成部分功能和各部分之间的数据信息流,给出逻辑结构图。分别从静态信息和动态信息的特点出发,介绍各种信息采集方式、采集技术,着重研究了浮动车信息采集系统中样本数量的确定方法,最后对动态信息采集的信息流进行分析。交通信息处理中心是公众出行交通信息服务系统中非常关键的一部分,在对信息处理中心的性能需求和功能分析的基础上探讨了交通信息处理中心的总体结构,建立了包括数据库和数据仓库技术的信息处理中心的数据存储体系结构,分析了交通信息处理的方法,包括对异常数据和残缺数据的预处理、数据融合和数据挖掘技术。论文对各种交通信息发布方式的特点及适用对象进行了分析,构建了交通信息发布系统的功能结构和发布模块,提出对通信系统的要求,设计了通信系统的网络结构,分析比较各种通信技术,研究了DSRC在信息发布上的应用。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWKWN1L9EhUnHAjLditOf_u8-KkVHtkneG9LrTSef35I4DFm9TaYanM_NCEPiJcq9G6DLrBQEhalG1GFsTQM2b7m9G_m8pjmSsfS9ezFjsb-DulzXsA1dfU0W2No-zjA2dpMJpRKKnDdNPAxElLrHLJexwk5H_Bg01_b3Jh1fITgbU8u8VZstX2&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 朱亮红
+A3 叶青
+PB 长沙理工大学
+T1 道路车辆识别方法的研究
+CL 硕士
+YR 2008
+IS 12
+K1 智能交通系统;分类;波形编码;识别
+AB 随着社会经济发展,交通系统日益复杂。在智能交通系统ITS (Intelligent Transportation System)中,车辆检测与识别系统提供必要的数据来源,是高速公路实现不停车收费系统的核心技术,因此对车辆识别技术的研究不仅有着重要的学术价值而且可能产生很大的社会及经济效益。本文研究和提出了一种基于感应线圈的道路车辆识别方法,该方法利用感应线圈车辆检测器对车辆的电磁感应特性进行数据采集,通过对振荡器的频率计数获得通行车辆的车型信息,再将数据传输到上位机。对这些采集到的数据,首先进行实时的整理、滤波、去噪等预处理,然后采用基于波形分离、波形编码的方法对车型特征进行提取,建立特征编码的模式库,对于新的车型样本则通过最小距离分类器快速进行自动分类。通过人工干预,该系统还有较强的在线修改和模式库扩充功能。本文提出了一种快速道路车辆车型识别算法和算法应用的方案,详细介绍了算法的实施过程,并通过实例验证了该方案的可行性,分类器结构简单,可获得了较高的车型识别率。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVmMGUdbmxQ1EIar5K3DydCSgoLy1CZrPEPSABOyJj3x8B-X5nwAdgj2_HRPk4Xt593njiuAfyhbIMrIeXlVEK9KUGiB5S-CU0LC0IiXuEsEA8JTqn0yw5cwKB7XqL7wfV7F30PtBUOa0__YDwAS-4UWJ1bg-ch4eZbqCm8U7ovw0_RiM3f0-xK&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO/TR 24529-2008
+T1 智能运输系统.系统体系机构.智能运输系统(ITS)国际标准中统一建模语言(UML)的使用
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2008-04-15
+ID ISO/TR 24529-2008
+K1 数据采集;数据交换;定义;词典;电子系统;可扩展标记语言;识别;信息系统;信息技术;智能网络;接口(数据处理);标记语言;道路运输;规范(验收);系统建筑学;交通控制系统;运输;运输设施;交通信息和控制系统;UML;统一建模语言;使用;XML
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXh8q-DS8v4hmR4FSQWu1SCyout34JO144KCYlagJTEgkz-7KWMhi8ZZmHCaH1zDY0dJCq3gK2oGftjafBxF0FWk2xF8oQu2woaNrzqPHlRCglp3InixFjb0cne7CbWWdXWCgnw56fkf2py1Np5yqkM1HOjmX9H3krdBfeMMHjEgw==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 李欣;俞斌
+AD 湖南工学院,湖南工学院,
+T1 新型智能交通车载信息采集系统的研究
+JF 今日电子
+YR 2008
+IS 04
+vo 
+OP 89-90
+AB <正>获得实时可靠的交通信息一直是智能交通系统发展的瓶颈问题,建立智能交通车载信息采集系统,可以为智能交通系统中驾驶行为特性的研究、交通数据采集、现场测试等提供良好的辅助测试、验证平台,还可以为我国智能交通
+SN 1004-9606
+CN 11-3227/TM
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVTo4wXWllqpXtuZr0ZlLOn1AWTRDV5iGc7x_YWDrIQ__pESrLhpa3AbN3sEAw3AmAjQCMEsXqlgWtdrELH8Ejf6EoYtHsmm8vt8bWuu4mpZ5abbrh7SeEivcWGQS9Kw4euzwYL5LiGbsv7FNDcqHW--Zqq465LDDEU_6zBXJMjjA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 李兵;陈小鸿
+AD 同济大学,同济大学 上海201804,上海201804
+T1 交通实时信息采集系统中时间同步问题研究
+JF 交通与计算机
+YR 2008
+IS 02
+vo 
+OP 50-52
+K1 时间同步;交通检测;网络延迟;智能交通
+AB 基于不同时间同步策略的分析比较,分析了选择合理时间同步策略的决策要素,建立了适用于智能交通数据采集系统的时间同步策略,并将时间同步策略应用于具体的工程开发实例,取得了良好的社会效益和经济效益。
+SN 1000-8837
+CN 42-1114/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVOmp3e0aAqPAaDohFzHQxGatXGX6L7lM9PRny8FQ-8tfPGjnYJduQhry7PCBV5SX_V9fiBAlxJJ3zPIF9bMPw4WEpaHxGjGAjbXe0sYbm8J44DrDVFNUoJZrIelSeROWk33W4C0E1Zox-S08TYzjWrfbQC1TCEZ14SxYS1vqi17Q==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 孙亚鑫
+AD 同济大学中德学院 上海200092
+T1 中德道路交通事故信息采集系统简析
+JF 科技资讯
+YR 2008
+IS 11
+vo 
+OP 252-253
+K1 道路交通事故;信息采集;数据
+AB 目前在我国,交通事故基础数据的缺乏已经成为至于交通安全研究的重大瓶颈。为了弥补国内在交通事故信息采集方面的欠缺,本文通过大量的文献检索和数据分析,借鉴德国在这方面的先进经验,结合中国的国情,提出建立中国道路交通事故信息采集系统的必要性。
+SN 1672-3791
+CN 11-5042/N
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16661/j.cnki.1672-3791.2008.11.159
+DO 10.16661/j.cnki.1672-3791.2008.11.159
+
+RT Dissertation/Thesis
+SR 1
+A1 郝静
+A3 严新平
+PB 武汉理工大学
+T1 雾天条件下驾驶员前方环境的信息采集系统研究
+CL 硕士
+YR 2008
+IS 09
+K1 交通安全;数据采集;图像增强;卡尔曼滤波
+AB 减少交通事故,保证行车安全是交通工程人员一直探讨研究的重要问题。导致交通事故的原因是多方面的,其中,天气因素是造成交通事故的重要原因之一,尤其是在雾、雨、雪、沙尘等低能见度恶劣天气条件下,道路环境系统的可视性变差,以及由于道路线形(弯道、坡道)、行车速度与间距所产生的错觉,使得驾驶员行车时通过视觉获得环境信息不足,极易发生车辆碰撞、冲出行车道等恶性交通事故。汽车安全辅助驾驶系统研究的目的是使汽车在较差的环境中能够识别路况信息,并能够辅助驾驶员安全行车。目前,道路环境信息获取技术是汽车安全辅助驾驶系统热点研究领域,基于视觉的感知技术已成为获取信息的主要手段。对于雾天能见度较差的这种天气情况,可以应用机器视觉来理解道路环境,通过对道路信息的获取,从而提高道路环境系统的可视性。本文在对雾天条件下驾驶员前方环境信息采集系统功能分析的基础上,针对道路环境的特性,选用了特定的传感器,利用现代计算机技术、传感技术、数据处理技术等高新技术,研究驾驶员前方环境的信息采集系统。构建了由实验车与辅助子系统、图像采集子系统、距离定位子系统、车态信息采集子系统组成的系统实验平台,并对各子系统进行设计,分析了各子系统数据采集原理,最后在对系统软件功能分析的基础上,完成了各个子系统的软件模块功能。具体的研究工作如下:利用CCD摄像机、光电编码器、GPS、惯性测量单元以及车载计算机等设备,设计了基于雾天下前方环境的信息采集系统,完成系统硬件平台的搭建,并进行了相关软件模块设计。针对采集到的图像信息以及其它传感器数据进行了信号处理,包括对摄像机所拍摄的图像进行图像增强,得到比较清晰的图像;对惯性测量单元采集到的数据应用卡尔曼滤波器进行处理,实验结果显示,设计的卡尔曼滤波器对去掉噪声是比较有效的。本文的研究工作可以为今后开发具有低能见度下的视觉增强功能的汽车安全辅助驾驶系统提供一定的参考价值。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUxrxda8r1Hmufi8P3AXLZmW3yvGeEJ9eqjObiP1aA45IgNAdS7suZXdAgxxzzxF5FmpZiDBbds0ei6eRrgmBkCaT-W1xPezHWUj1k32V3okybngjWo97bERQ8S8GhTm6dTCFqURFV2l5QkknBHsYL-SYt1ypZZrd5xE4WJnON6L_MpUNgrQlQr&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO/TR 25100-2008
+T1 智能运输系统.系统体系机构.ITS数据概念的协调
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2008-04-01
+ID ISO/TR 25100-2008
+K1 中央寄存器;通信;数据采集;数据交换;数据格式;数据传送;定义;货运;信息交换;信息系统;智能网络;道路运输;规范(验收);系统建筑学;TICS;交通流量;交通信息和控制系统;运输方式;运输;传输;运输系统;运载工具
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWfVMxIXFJMU7_vcVZxTxX1yqacST0R5lb1vmCqWrZ72WyAzTnvWatVDwljKpO18PRpc-R5St2WDjBGrPLxzSrSwFW_PY9RUR8SCSZ_CII3SiRhKULKI8ZXiWxOcZZyagO3kQCQWuQIqjdy1PK7OWevy2-uVnE5X9FLmzWNHWGccg==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Standard
+SR 1
+C1 BS ISO 24535-2008
+T1 智能运输系统.自动车辆识别.基本电子注册识别(基本ERI)
+A1 BSI
+PB 英国标准学会
+FD 2008-03-31
+ID BS ISO 24535-2008
+K1 数据采集;数据交换;定义;定义(术语);电子的;电子系统;识别;信息系统;信息技术;智能网络;注册;道路运输;安全性;规范(验收);运输;运输工具;交通信息和控制系统;车辆
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVggP3zU-d2LgP_E9pl4Q8I7ehWk8zTCBP5-ZeZ2U4UrAW-Mopq74Fh38Wte3xoh5A2K_40HpqpFYLUwl0HtctNe7X0bu6nXAWMBM3Gokj5gQQ4438HkZSR207ogkZ2TdbLPcS686xarLiBiQxhACEkXKPByR1KuWJ1QlIj4zHNgA==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Dissertation/Thesis
+SR 1
+A1 胡显辉
+A3 许伦辉
+PB 江西理工大学
+T1 基于DSP视觉交通信息采集系统的研究与设计
+CL 硕士
+YR 2008
+IS S1
+K1 ITS;TMS320VC5416;硬件电路;CPLD;视频交通检测
+AB 近年来,ITS(智能交通系统)产业在世界范围内蓬勃发展。本文所研究的视频交通信息检测系统是的ITS的重要组成部分。该检测系统采用图像处理的方法提取交通管理所需要的各种交通信息。视频交通检测技术已逐渐成为交通信息采集领域的主流技术,具有很好的应用前景。本文主要工作如下:1)本文论述了图像采集系统的总体设计及其具体实现,设计了基于TMS320VC5416 DSP芯片的图像采集系统的硬件电路,给出了主要的硬件电路图:DSP模块、视频解码通道、标准McBSP的串口电路、JTAG仿真器接口电路、Flash电路、CPLD电路、电源转换电路、复位电路等外围电路。2)编写了图像采集系统部分硬件模块测试程序、视频驱动等程序。3)对电源电路、复位电路、电路、SDRAM电路和视频输入通道进行了软硬件联调,本论文对调试过程和结果进行了分析,各模块工作正常,图像的采集和显示正常。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXpY3B-wOcj6Fa9AxZNVku1gJanUcKRI7Tq1FA2p_aCwQ9smUoU8GxFx40yeWzkc4AXlemZxvba0tlTTDUs3pGqvlM9NIZh3P1GEoinrRTWmnYz9TFFrlHudwtmWdfnE6Js6eYPTGwHmjzu4vaN01jCsYDB2nGIAhRAla4Mb-6viEA_1D19hzXx&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 郭继孚;温慧敏;高永
+AD 北京交通发展研究中心,北京交通发展研究中心,北京交通发展研究中心 北京100055,北京100055,北京100055
+T1 北京市动态交通信息服务系统建设及制约因素
+JF 城市交通
+YR 2008
+IS 02
+vo 
+OP 12-15+28
+K1 智能交通系统;动态交通信息;数据验证;信息发布内容标准化
+AB 为探讨当前我国动态交通信息服务的制约因素和发展方向,在北京市实际研究和建设经验的基础上,结合采集交通信息准确性验证、交通信息发布内容以及标准化和产业化建设这三个制约动态交通信息服务发展的因素,分别阐述其发展现状及存在的问题,重点提出浮动车数据验证方法及北京市部分验证结论、动态交通信息发布内容基本原则和发展思路、标准化和产业化建设的机制,为我国动态交通信息采集、处理、发布技术的研发和信息服务系统的建设提供参考。
+SN 1672-5328
+CN 11-5141/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13813/j.cn11-5141/u.2008.02.012
+﻿
+DO 10.13813/j.cn11-5141/u.2008.02.012
+﻿
+
+RT Book
+SR 1
+T1 基于GIS的体育场地规划研究
+A1 王雷
+PB 北京体育大学出版社
+FD 200803
+ED 1
+AB 体育是社会发展与人类文明进步的一个标志，体育事业发展水平是一个国家综合国力和社会文明程度的重要体现。北京承办2008年奥运会是我国综合实力的体现，并将对我国国民经济等方面产生巨大的影响。然而纵观历年的奥运会主办国，直至今日依旧在为奥运会“还债”。为此，对后奥运时期体育场馆及周边配套设施进行适时、富有前瞻性的规划，对提高奥运场馆赛后利用率、促进城市进一步发展具有重大意义。地理信息技术是在计算机硬件、软件系统支持下，对整个或部分地球表层（包括大气层）空间中的有关地理分布数据进行采集、储存、管理、运算、分析、显示和描述的技术系统。采用地理信息技术对体育场馆周边地域的空间数据及属性数据进行统一计算机管理，综合考虑资源配置、市场潜力、交通条件、地形特征、环境影响等因素，能更科学地考虑和利用城市现有资源，使之与城市发展、社区规划和市民需求结合得更紧。同时，可以对体育场地配套设施及周边区域进行生态环境管理，包括区域生态规划、环境现状评价、环境影响评价、污染物处理的决策支持、环境与区域可持续发展的决策支持、环保设施的管理、环境规划等，从而实现体育场地的合理布局和可持续发展。本文的研究对象主要包括地理信息系统、城市规划、奥运场馆建设与利用等，以国内外相关研究综述为逻辑起点，根据近年来国内外对体育场馆建设与规划的调查与统计分析，以中心地理论为基础，结合体育产业发展规划理论、体育资源整合优化理论，提出合理布局体育场地应遵循原则，通过对历年奥运主办城市的比较分析，归纳出奥运会城市的建设与规划发展趋势，采用层次分析法对北京奥运会体育场馆赛后的利用影响因素进行了分析和利用评价，以实现体育方面的评价因素与GIS的计算算法相结合，使得评价结果可以量化和计算，增强评估的客观性。同时依托地理信息技术理论，对后奥运时期体育场地尤其是奥运场馆的规划与利用、规划过程、规划模型的建立三个主要方面进行了系统研究，建立了二次规划数学模型，并提出了在体育场地布局中运用地理信息系统技术的建议。
+OP 164
+SN 978-7-81100-894-4
+DS CNKI
+
+RT Dissertation/Thesis
+SR 1
+A1 张周强
+A3 孙立军
+PB 同济大学
+T1 浮动车交通数据采集技术研究
+CL 硕士
+YR 2008
+IS 07
+K1 浮动车;浮动车数据;智能交通系统;交通数据采集;交通流理论;全球定位系统;地理信息系统;车辆图像识别
+AB 浮动车(Floating Car)的思想是通过密集分布在路网交通流中连续的浮动车来采集数据,我们把这个数据叫做浮动车数据(Floating Car Data,FCD)。与传统的采集方法不同的是,FCD可以在花费较少的情况下灵活的采集很多路段的信息,是智能交通系统(ITS)数据的采集的主要方式。本文的浮动车集成GPS、GIS和高频摄像头,利用这些设备来采集行程时间、行程车速、停车时间、交通流密度和交通流流量等交通参数。本文介绍了两种采集行程时间和停车时间等重要交通参数的方法,并用半自动的采集数据作为真值,与自动算法的结果进行比较,发现两种算法行程时间差别不大于6s的路段有84.7%,行程车速差别不大于5Km/h的路段有88.5%。我们可以认为本文的自动算法具有很高的精度和可靠度。分析研究了浮动车采集交通流量的算法。通过理论推导和对间断流和连续流的实证验证,提出了合理的交通流速度算法,并验证了算法的可行性。结合本文浮动车对图像识别的要求,并通过分析目前图像识别技术的特点,提出了适合本文的图像识别技术。还给出了本文浮动车的设备组成。最后,就本研究进行了总结和进一步研究方向进行了简要的讨论。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVbYlhf4QRf5xVIJsk4wWWRUIS4pzb3tabQo5ETpdnGMnshscLbFhuD8hsoSJbCptSzSa97EAD4dSAbovnaDKhlxUCo9uMQYAwWPmUVvs9nDJlGDwuqfENCezrOUsM661LUJS2QKs1eBI-RGasLok9uJ285L7BUmh6-Sev3C8y9aQ6hBOWKVKZe&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 赵温侠;王来翟;洪涛
+AD 西安公路研究所,陕西省公路局,陕西省高速公路建设集团公司,
+T1 陕西交通观测站试点工程的建设改造
+JF 中国交通信息产业
+YR 2008
+IS 02
+vo 
+OP 116-117
+AB <正>前言公路交通状况的调查是公路建设与管理的重要基础工作之一,其统计资料能够为公路项目的规划、决策、建设和养护管理提供依据。从2002年起,公路交通情况调查已被纳入国家统计制度,交通调查统计资料也被列入国家统计报表制
+SN 1672-3333
+CN 11-5033/F
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13439/j.cnki.itsc.2008.02.004
+﻿
+DO 10.13439/j.cnki.itsc.2008.02.004
+﻿
+
+RT Standard
+SR 1
+C1 ISO/TR 25102-2008
+T1 智能运输系统.系统体系结构.用例(Use Case)形式模板(pro-forma template)
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2008-02-15
+ID ISO/TR 25102-2008
+K1 体系机构;数据采集;数据交换;定义;描述;电子系统;信息系统;信息技术;智能网络;交互式的;道路运输;规范(验收);系统建筑学;系统;模板;TICS;交通控制系统;运输;运输工具;UML;统一建模语言;用户
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWpmP8V4gTBuzxXM-lVwjmwCSCRoawOeCQHtrXBIhIv5v1uHePvNx2AUexNxFOJfrAKS2UDFLut6vB3E0N3ti_FilUfX4395QNlcUcmvWFx5_GEQcp2RlHkSGqIOzexNy-yeXjDAZu-D8vrXp2ga_npfXchkWxkMbPOiNt8ce_aow==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 俞斌
+AD 湖南工学院 衡阳421008
+T1 基干虚拟仪器技术的智能交通车载信息采集系统的设计
+JF 电子测试
+YR 2008
+IS 02
+vo 
+OP 45-48
+K1 智能交通系统;虚拟仪器;车载信息采集系统;GPS
+AB 本文利用虚拟仪器技术对车载信息采集系统进行了整体设计和研究。该系统具有精确采集车辆位置、速度、加速度、姿态角等信息的功能,这些车辆信息为智能交通系统的应用提供了有力的保障。
+SN 1000-8519
+CN 11-3927/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVyiwT-tNva1PmKJrlviKkPh2amdFp3XCogYNzvZDKFo9sZVD9KXsWQl3ygNWCaXoEjDKBDODOG9fx1V3PYnvdDvMz4vbyrYG4PISKC58X6nVn9h7d6EcK8b87e5I_jMcPJRhY0Y-V42puT-5njELWnuyhYB7nNSwjTT34s0tqnwQ==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 傅常伦
+A3 董德存
+PB 同济大学
+T1 基于车辆定位系统的数据融合及其在城市交通中的应用
+CL 硕士
+YR 2008
+IS 07
+K1 交通信息;智能交通;车辆定位;数据融合;参数分析
+AB 交通信息是智能交通系统的重要基础。随着车辆定位技术、GIS技术、计算机技术的迅速发展,以GPS定位技术为代表的浮动车交通信息采集方式得到了广泛应用,弥补了传统交通信息采集技术中存在的数据质量差、覆盖范围有限等问题。然而从GPS浮动车采集的原始数据均具有不确定性并且带有噪声。因此,需要对获取的数据进行数据融合,以提高数据的精度和可信度。同时大量的GPS数据中蕴含着大量的信息,如何从中获取一些有价值的交通信息,也是众多学者关注的问题。本文就是在这样的背景下进行研究的。文章首先总体回顾国内外研究动态,对车辆定位、交通信息采集及数据融合相关技术进行介绍。然后对GPS原始数据进行转化处理,将原始数据导入数据库,进行进一步数据预处理和数据融合,去除噪音数据和不合理数据,为进一步分析提供可靠的数据基础。在数据融合的基础上,对出租车采集的GPS数据进行参数分析,分析和研究出租车数据的特点。最后对处理过的GPS数据进行分析,探讨基于GPS数据的出租车空驶现象。文章系统地研究了基于出租车作为浮动车的交通信息处理理论及方法,为其在城市交通中的实际应用提供了技术支持。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWR4N06wxp5XAzLYXR5FhByZGmpi48AAoEghZozpZmm35u09IcheeQWz454cDy9g2TjktxK4pj8-DjJw_mQP4rhC5WGV_XU7mmoDMNMgeOa5ajpS4HR-smo19jczzfIzcRSlquSIgcHcOWy8xfCki1rd1KicHujIdwaySFnkozDWb2MOtt5c2zx&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO/TR 25104-2008
+T1 智能运输系统.系统建筑学、分类学、术语学和数据建模学.智能运输系统结构的培训要求
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2008-02
+ID ISO/TR 25104-2008
+K1 数据采集;数据交换;定义;人名地址录;电子系统;可扩展标记语言;识别;信息系统;信息技术;智能网络;标记语言;参考模型;注册;道路运输;信号系统;规范(验收);系统建筑学;分类学;终端接口控制系统;交通控制系统;培训;运输;交通运输工具(施工工程);警告装置
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU8udnUE5HkN5KmeBhHtAYBPWX_6T-CSK4UmJX_Q4TFXf37EC-FOLelMgCkFg9kiQ5yHWzspXYhFkI1ReWJe09f_B0BMbBDLU_zejTFXY7ZAb86ahfkDfp71_PlafqKGNyGvlLygvMZ-9IHvdD05oHDzaNsgr4SKSEP6v9jOprGpw==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 朱丽云;温慧敏;孙建平
+AD 北京交通发展研究中心,北京交通发展研究中心,北京交通发展研究中心 北京100055,北京100055,北京100055
+T1 北京市浮动车交通状况信息实时计算系统
+JF 城市交通
+YR 2008
+IS 01
+vo 
+OP 77-80
+K1 智能交通系统;浮动车;信息采集;信息处理;地图匹配
+AB 为应用于复杂城市路网的浮动车系统建设,提出了利用浮动车数据实时计算路网速度的系统建设流程,包括GPS数据接收、数据预处理、数据在电子路网底图上的匹配以及路段运行车速计算。并从数据过滤合理性、地图匹配效率、路网覆盖率及结果可信度等方面验证了该方法的可行性与实际效果。经验证,原始GPS数据经过预处理过滤后能显著提高点匹配率,而改进的路径匹配算法能使过滤后的数据达到95%左右的匹配率,基本覆盖大部分北京市快速路和主干路。
+SN 1672-5328
+CN 11-5141/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13813/j.cn11-5141/u.2008.01.012
+﻿
+DO 10.13813/j.cn11-5141/u.2008.01.012
+﻿
+
+RT Journal Article
+SR 1
+A1 洪珺;张学聃;韦忠亚;任勇
+AD 北京清华大学电子工程系,北京清华大学电子工程系,北京清华大学电子工程系,北京清华大学电子工程系 100084,100084,100084,100084
+T1 交通信息移动采集关键参数估计方法
+JF 微计算机信息
+YR 2008
+IS 03
+vo 
+OP 1-3
+K1 智能交通系统;交通信息系统;探测汽车
+AB 依托散布在城市路网中的检测设备采集实时路况信息,是建设城市智能交通体系的必要环节。本文对移动采集节点在路况信息采集过程中的关键问题进行理论分析,给出信息采样周期、传输周期以及采样节点最小数目估计。讨论在突发事故情况下,传输信息周期的调整以及采样节点数量的下限。
+SN 1008-0570
+CN 14-1128/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXEC592qPl943FelmvUrhApHltoKYRwVfW5eefVt7FB2vNQzp0k9oVqTkfKo62PVoGTp5VKsQukEOAWy-f-0SfcQw1yULUsnrcG8KfY5laEd-Ev8cEiW6DuRIoe-yodwa646zPHk-qwPB4daXR2oXiU1qpy5qsW83M0oX2Qo6rUvA==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 吴霜华
+A3 林鹰
+PB 重庆交通大学
+T1 重庆城区智能交通设施建设技术规范指导研究
+CL 硕士
+YR 2008
+IS 10
+K1 智能交通;规范;项目选择;功能等级;模糊综合分析法
+AB 目前智能交通的理论、方法并不十分完整、全面。尚无指导智能交通项目设施建设的规范,因此在智能交通项目建设过程中易出现智能交通项目建设功能等级与实际情况不协调,设施功能过高产生浪费或设施功能无法满足要求的情况,最终导致巨大的浪费。针对这一问题,本文提出建设重庆市城区智能交通设施建设技术指导规范,依据交通需求,将智能交通系统按照功能、技术参数划分等级的理论。并给出了具体的算法和每个智能交通系统等级的内容。本文先介绍了目前应用的智能交通设施技术,以供智能交通项目规划参考。接着论述了在众多的交通参数中,选取哪些关键交通参数作为反映当前交通问题的依据。下一步根据所选交通参数,应用模糊层次分析法解决选择ITS项目的问题。然后给出针对已选定的ITS项目如何确定等级的方法,最后通过大量资料分析将智能交通系统按照功能、设施分成三个等级,并详细阐述了每一个等级的智能交通项目设施建设技术指标要求。智能交通系统总体结构复杂,本文主要为交通信息采集系统、动态交通信息发布系统、交通监视系统、交通事件检测系统、交通状态预测系统、交通控制系统、交通诱导系统提供对应的功能要求和技术指标参数。通过对重庆城区智能交通设施建设技术指导规范的研究,形成具体可操作的实施规范和要求,解决了在交通设施建设、改造的同时配套建设智能交通设施的有关问题。起到了节省成本、加快智能交通建设、提高交通管理水平、缓解交通拥塞的作用。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXysGQFUIkNaIBis5I2_9YAXkCK6haE_abmCTkwceLCZJXyAaKDCBTWkfXe84hipbjco2e3r44z8AHwaqVJLej7Q0sA6wf9dyru74VpSOGEe9IcI4kOua4raXwYdcqoAdBqmYWqThuD1KX4tru1Vv_ygakDCF7jfwrlFEHAtF2c9f9JlnTeuX4Q&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 城市道路交通信息采集与服务系统
+AD 宁波亿创信息技术有限公司
+FD 2008-01-01
+K1 城市道路;交通信息;采集与服务系统
+AB 该系统是宁波亿创信息技术有限公司与德国宇航中心、宁波市公安局交警支队合作,采用国际先进的FCD(Floating Car Data-浮动车辆数据,简称FCD)技术,通过采集出租车GPS数据,计算、分析得出实时道路交通通行速度,并用不同的颜色在电子地图上标注出当前城市道路交通速度分布,为交通管理与决策、道路规划与设计提供科学依据,为出行者提供实时交通信息与导航服务。系统体现了“为交通管理服务、为出行者服务”的全新理念。该系统是我国第一个采用该项技术实现城市道路大规模交通信息采集与服务系统,目前已在宁波市建成并投入运行。系统功能如下：城市道路交通速度、出行时间发布。系统根据采集的原始交通数据,计算出城市各道路的平均通行速度、最大通行速度,通过在城市电子地图上标注不同颜色等形式表现出来。城市交通状况分析与评价。能够对城市道路交通状况分时段、分区域进行综合比较、分析;对城市道路路面总体服务水平进行分析;对城市道路路口延误和路口拥堵状况进行分析和比较;系统根据各种交通数据客观评价城市道路交通状况分析与评估数据,进行城市道路合理规划、设计。交通信息服务。通过Web、指挥中心大屏、LED信息诱导屏、交通广播、车载终端、WAP、短信等方式,为出行者提供交通信息与导航服务。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 不依赖卫星的车辆识别定位平台及交通信息采集系统
+AD 上海都识数据服务有限公司
+FD 2008-01-01
+K1 车辆识别;定位;信息采集
+AB 该方案特别推出具有自主知识产权的不依赖卫星的低成本、高效益的新型车辆识别定位平台和交通信息采集系统。该平台的建设投资远小于相同规模的GPS平台,每车投入门槛低,便于大规模推广。规划得当,甚至可以利用该平台对非机动车辆及大型社会活动的车辆及人员进行有效管理。平台共享性好,增值服务潜力大,非常适用于公交车辆的自动化管理,也可以有效的为出租、危险品运输、银行运钞等特殊行业车辆提供相对定位监测服务,同时可以采集城市交通的有关数据,为城市交通的信息化管理提供高效的工具。增值服务潜力大、成本低。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 高广;张永强
+AD 乌兰察布市公路勘测设计院,乌兰察布市公路勘测设计院 内蒙古集宁012000,内蒙古集宁012000
+T1 公路养建规划与管理系统研究
+JF 内蒙古公路与运输
+YR 2007
+IS 06
+vo 
+OP 72-74
+K1 公路养护;公路建设;管理系统
+AB 针对我国当前对公路建设与养护规划的要求与发展趋势,分析了公路养护与公路建设的相互关系及公路养建规划与管理系统构建的目标与原则,将公路建设规划与公路养护规划结合在一起,体现"养建并重"的观念,并提出公路养建规划与管理系统的框架结构。
+SN 1005-0574
+CN 15-1157/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVj3eI2nDC3gSSVa39aZczo1yqBPu4-zkGd3BurtlzQrsuJ_yYiVmL0dJ0xrJPMRC3ZN_4KUmsH9dpk_nvCmSK1n--Ks--9J0bti7g6YxcXmV_MOdxMkNEzc1k8FwuftqajLFAXh0p-LpfxUnvMEVyHCLQ7-XvtW_OgsLHHXNzAjA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 黄征;宋焕生;王国强
+AD 长安大学信息工程学院,长安大学信息工程学院,长安大学信息工程学院 陕西西安710064,陕西西安710064,陕西西安710064
+T1 基于线阵CCD摄像机的交通信息采集和检测系统
+JF 电视技术
+YR 2007
+IS 12
+vo 
+OP 87-89
+K1 交通信息;线阵CCD;视频检测
+AB 系统采用成像控制和激光补光技术,使成像质量不受外界光线变化的影响,达到全天候工作和应用的要求。同时提出了一种检测车辆及其速度的算法,并将该算法应用到本系统中。实验结果表明,该系统可以全天候准确地检测出车辆及其速度。
+SN 1002-8692
+CN 11-2123/TN
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16280/j.videoe.2007.12.028
+DO 10.16280/j.videoe.2007.12.028
+
+RT Journal Article
+SR 1
+A1 朱周;路小波;魏运
+AD 东南大学教育部智能运输系统研究中心,东南大学教育部智能运输系统研究中心,东南大学教育部智能运输系统研究中心 南京210096,南京210096,南京210096
+T1 基于运动矢量的车辆实时跟踪系统
+JF 交通运输工程与信息学报
+YR 2007
+IS 04
+vo 
+OP 110-115
+K1 车辆跟踪;交通信息采集;视频检测
+AB 建立了基于摄像机、图像采集卡及计算机的车辆跟踪硬件系统。研究了基于运动矢量的车辆跟踪算法。作者首先进行背景初始化,然后,利用背景差法和检测线法对通过目标交通场景的车辆进行检测,进而根据三步法计算车辆的运动矢量,并进行车辆位置的更新和遮挡处理,实现了车辆的实时跟踪。
+SN 1672-4747
+CN 51-1652/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXtmJ_LZjfj3GHgLr3t_m86wh_CvdfTODKeFPLg4dzexqWVVKi76HhJIDRihUFlu4A4sLpnMxHadJWmE02TzPSLFW8nLt4YgKWX_072uKe85art0rEWVNXg1_QkMFyqgwuotYUEdE5frAJjgt-WnlmrlHB77an-8y0OF_UAv-QSGA==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 于泉;石若川;荣建
+AD 交通工程北京市重点实验室(北京工业大学);
+T1 基于近景摄影测量的交通信息采集系统
+JF 2007第三届中国智能交通年会论文集
+PB 科学技术部全国智能运输系统协调指导小组办公室
+PP 中国上海
+YR 2007
+OP 550-554
+K1 近景摄影测量;交通信息;信息采集系统
+AB 交通信息采集是进行交通研究的基本工作。本文在总结已有交通信息采集方法的基础上,建立了基于近景摄影测量方法的交通信息采集系统。该系统能够连续采集大空间范围内的多个交通物体的信息。实地应用的效果表明,该系统能够满足交通工程研究工作的需要,是未来交通信息采集的趋势。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUexamxgPPE2vDaAp59CrVok1HqCvswUuwf9JCvu1M0WpxxFTqym4pKF8kYGLsHhEc2o2-7upCTPg_EgvKgHmHfFCZzs4SqZwk3eBFGlICe1x_ubE1iBPMiIkfc5CZha8LX2UQyQIAxhGkQhDvH5FsYqEnIJsoYeCe_jgwshrx5HbL-wOi14nhE&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 柯刚铠;胡坚明;姚丹亚;张毅
+AD 清华大学自动化系;清华大学信息科学与技术研究院;
+T1 无线数据网络及其在交通信息采集中的应用
+JF 2007第三届中国智能交通年会论文集
+PB 科学技术部全国智能运输系统协调指导小组办公室
+PP 中国上海
+YR 2007
+OP 500-504
+K1 无线数据网络;智能交通;交通数据采集和处理;拓扑规划;信息协作
+AB 从交通信息采集系统获得准确可靠的实时交通数据是所有智能交通系统正确运行的基本条件。传统的交通信息采集网络存在着系统负荷高度集中,网络利用率不高,网络铺设受限制,运行成本惊人等缺点。为此,本文提出一种全新的城市交通无线数据采集与传输网络,在网络中实现对交通信息和环境信息的分布式处理。本文提出了无线数据网络的结构框架,讨论了系统实施可能存在的问题及相应的解决策略,并对该系统的应用前景进行了分析。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVocbD8WpsZuDVEn1JD2qez2aHLGq1VY-H5Y7UdejOV7_voByLRwDgYbh7REGBLP3F4xFN7lp3-pljh9ZaPKok1JWNYGaD5BekM_JZRGNXgQ6ZrhENkP6TvLDV_SeoVaou7v2aDX_S7mXvlrB3bcfLS2ss0InOruXNP_C2gds-7exkRtbQj6X0k&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 王夷
+A3 王东
+PB 上海交通大学
+T1 城市路网实时状态研究
+CL 硕士
+YR 2007
+IS 06
+K1 旅行时间; GIS;GPS
+AB 随着智能交通系统研究的发展,实时路网数据采集已经在智能交通领域越来越被重视。感应线圈、视频摄像头、微波雷达等对于动态交通流的自动检测手段也越来越普及。而这种基于固定检测器的交通信息采集方式受人力、资金等因素制约,交通管理部门仅在关键路段和主要路口进行了部署,其数量还不到所需的1/l0,导致城市道路路网上存在大量的信息“真空”地带。如何能够全面、准确地获取路网实时交通信息数据这个问题是我们面临的巨大挑战。本研究依托于上海市向电子信息产业发展基金申报的先进的城市道路交通监控与管理系统项目的一个子项目――城市路网实时状态研究,重点研究了基于浮动车数据的实时交通数据采集方式,并依靠出租车公司内部成熟的电召系统的实时车辆定位数据,提出了一套使用出租车实时定位数据进行路网交通状态估算的方法:对于出租车实时GPS数据进行定位,分析出租车业务逻辑的特性,抽取驾驶员行为特征,对于有效定位数据进行分析获得车辆途径路段的交通信息。通过这套方法可以有效的获取实时交通路况信息,并且投资成本和维护成本低廉,有相当的实用价值。本文首先介绍了实时交通信息采集的研究情况,包括电召系统以及相应的技术,分析了地图坐标转换、车辆定位数据匹配方法,然后根据驾驶员行车习惯重点分析了车辆定位有效采样对的获取并在此基础上进行单车路径旅行时间求取、时段内旅行时间求取的算法,填补了交通空白地带数据,并通过路上试验,说明该算法能够得到路段合理的旅行时间,能够描述路网的实时状态。最后介绍了整个系统的架构设计和实现过程。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUhLwzTTHmwQEzCOsfQR_3qvNfAgQUDRA2wqg88lwYdhw29uuvgakTr3NeY_Sbf3eJLYk_tXyZW9BRPUf98fk-tY_yCFROn7qJhDa4eV1ZPiyY3iA7ssv6RbiLMkeLZvcNzdUJSn5sGvPMFjMNn8DiHYp-bmXpyfBgv8Iqo8VBMr05x3ZQ3N-B_&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 贾森
+A3 邵春福
+PB 北京交通大学
+T1 基于实时信息的城市道路交通状态判别方法研究
+CL 硕士
+YR 2007
+IS 09
+K1 交通基础信息;交通参数;预处理;状态判别;模糊聚类分析
+AB 道路交通状态判别是智能交通管理系统进行路况信息发布和交通诱导的基础,目前我国各大城市的交通基础信息采集系统和交通诱导信息发布系统建设均已初具规模。然而在数据处理和实时道路交通状态判别中却还存在一些问题,亟待改进。本文主要从城市道路智能交通管理需求背景出发,首先对目前道路交通状态判别和诱导信息发布中存在的一些问题和不足进行分析。然后,结合国内外在基础交通检测数据的预处理、道路交通状态判别算法设计等方面研究的成果,改进目前城市道路交通的状态判别方法,构建面向实际应用的实时道路交通状态判别的方法和模型,并以北京市智能道路交通管理系统为例进行具体研究,论文的主要研究方法和成果如下:(1)研究综述了国内外交通基础信息采集、数据预处理以及道路交通状态自动判别方面所取得的研究成果,为论文奠定基础。(2)介绍了北京市交通基础信息采集系统的建设现状和目标,并且在综合考虑检测装置自身特性、交通参与者对不同参数的认知程度等多方因素的基础上,按照一定原则,确定了基本交通参数的选取。(3)改进设计了北京市目前数据预处理的算法和模型,使其能够为道路交通状态判别的模型提供更加科学、合理的输入数据。具体包括对实时错误数据的识别、修复以及历史突变数据的平滑处理两方面,并选取实际数据进行了验证。(4)改进了北京市目前使用的道路交通状态判别模型,提出了基于模糊聚类分析理论的模糊综合评价法,并利用采集到的快速路数据进行实例验证。具体而言,首先设计出基于模糊聚类分析理论的模型算法,便于得到不同交通状态的中心矩阵;然后基于实时采集的基础交通数据,利用模糊综合评价法对实时的交通状态进行判别。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWriPKXaCnlMZkYsmeFo2_uQ4gyMiqSpiL0aganiIBP9CvipI34XHdQ5aehCd9aedYtHxSCb0FEmU5O7Wdy4l4dt5vhbHGqbn8m2F4CsnF-aNva57v6ssmO9gn39JQeMW0rJJiuGNnATR4FDQ7qQ-IncrfaqRbU_g1fuDOabxNqvnNk6qMxn81S&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 张冬梅;石金峰;张继超;徐爱功
+AD 辽宁工程技术大学测绘与地理科学学院,辽宁工程技术大学测绘与地理科学学院,辽宁工程技术大学测绘与地理科学学院,辽宁工程技术大学测绘与地理科学学院 辽宁阜新123000,辽宁阜新123000,辽宁阜新123000,辽宁阜新123000
+T1 基于浮动车交通信息采集的虚拟仪器设计
+JF 交通科技与经济
+YR 2007
+IS 06
+vo 
+OP 54-55+58
+K1 浮动车;交通信息;虚拟仪器;智能交通系统
+AB 交通数据探测器由于其成本高、覆盖范围小等缺点,很难满足智能交通系统的需求,将虚拟仪器技术应用于浮动车系统可以基本上解决这一问题。介绍了虚拟仪器的概念和特点,并就应用于浮动车交通信息采集的虚拟仪器进行了设计。结果表明,虚拟仪器技术,尤其是与数据融合技术相结合的虚拟仪器技术,在智能交通系统中具有十分重要的作用和广阔的应用前景。
+SN 1008-5696
+CN 23-1443/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.19348/j.cnki.issn1008-5696.2007.06.021
+DO 10.19348/j.cnki.issn1008-5696.2007.06.021
+
+RT Journal Article
+SR 1
+A1 方志伟;魏丽英;黄志彤
+AD 北京交通大学交通运输学院,北京交通大学交通运输学院,西南交通大学交通运输学院,
+T1 浮动车技术若干问题研究
+JF 中国交通信息产业
+YR 2007
+IS 10
+vo 
+OP 133-135
+AB <正>交通拥堵的持续恶化让人们对实时准确交通信息的需要更加强烈。目前,越来越多的各式车辆开始装备无线通信系统和全球定位系统,成为了智能交通系统中的浮动车(FLOATING- CAR),它们在无需花费大量设备投资和维护费用的情况下保证了搜集交通信息的实时和准确。随着现代技术的发展,目前世界各国都认为未来的智能交通系统应该主要由卫星地面站、卫星通信系统、汽车自动驾驶系统、公路电子信息系统组成。其中,卫星通信系统主要实现语音通信、数字通信、画面传送等功能;
+SN 1672-3333
+CN 11-5033/F
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13439/j.cnki.itsc.2007.10.023
+﻿
+DO 10.13439/j.cnki.itsc.2007.10.023
+﻿
+
+RT Journal Article
+SR 1
+T1 浮动车交通信息采集系统:智能交通展现科技便民魅力
+JF 广东科技
+YR 2007
+IS 10
+vo 
+OP 58
+AB <正>目前,由广州交通信息化建设投资营运有限公司承担的"十五"国家科技攻关课题"浮动车交通信息采集关键技术研究"已在广州得到了很好的应用。作为交通的示范
+SN 1006-5423
+CN 44-1313/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LX0BqBkF0haTz05we1FTWepsGQG7P47Qg1YdN-VakTV7GcyMuIt8FHpYoPbg9I_FWrA4nVAmkPN-s8QoWF95FFAMPPJkE2zzRAa96JS1BKYznWotj1b3cRc52RDW8WK7iBNbyOoqaflsSbf3P-tdOWPmNs-JkgWI_S8YIu8Q02_yA==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 刘国彬;吴玉怀;于宿海;苏武平;刘涛;阎伟;肖惠亮;刘建军;黄兴
+AD 上海同是工程科技有限公司;
+T1 城市轨道交通建设安全远程监控预警技术
+JF 中国城市轨道交通新技术（第二集）
+PB 中国土木工程学会城市轨道交通技术推广委员会、“新型城市轨道交通技术”项目办公室
+PP 中国广东广州
+YR 2007
+OP 85-96
+K1 城市轨道交通建设;监控预警;监控管理系统;原始取得;空间数据库;空间数据模型;地铁车站;数据挖掘;上海轨道交通;监控系统;信息采集技术;地铁工程
+AB <正>一、简要技术介绍城市轨道交通建设由于地质条件复杂、工程庞大、建设周期长,又由于工程本身属于地下工程,存在很多不确定因素,因此建设中存在很多风险隐患。城市轨道交通建设往往存在以下几方面的问题：·工程建设监测数据存在很多误报、漏报、隐报、瞒报的现象,不能保证监控数据的及时、有效、准确,使得工程建设处于高风险的状态。·现场管理人员水平参差不齐,有时难以从监测数据中发现安全隐患。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWDzb4ViemQIZB-wy5wEYZOrhRBgbos08yoHkhbUy_3xF4GcnTF4IvUmBQ3H7KJMb1ZPndO4DtzNVaIeIISBXHPpgdk44e-_ltyj6_iZ6_xOF2_WC3v8QlDGxWvt84iWEzzN7MtJrd8KAmvNxUfFszkzrKxf3NVBZ1ATjRB8MEUAn8P_Y1Dl2Xj&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 基于无线通信网络实时交通信息采集系统
+A1 冉斌
+AD 美慧信息科技
+FD 2007-10-01
+K1 无线通信网络;交通信息;采集系统
+AB 1.课题来源与背景本系统通过实时采集、解析、分析移动通信网络中的信令数据,将手机移动终端作为一种有效的交通检测器,利用专有模型和算法,得到动态道路交通状态信息,为城市交通运输管理,提供有效的检测和监控手段,适用于相关政府交通管理部门,为道路基础设施规划和运营维护、交通控制和管理、交通组织设计提供决策支持信息,还可为导航企业、各种媒体的交通信息发布、车队调度管理、特种车辆调度管理提供交通信息源。2.技术原理及性能指标本系统把七号信令、移动通讯技术、计算机网络、数据库技术以及GIS、GPS与数据融合、交通流理论等技术有机集成,完成系统全部功能。1)通过对无线网络路测数据的分析和建模,利用无线路测数据训练得到虚拟监测器的检测点位置等相关信息。2)实时分析和过滤无线通信网络中有关位置信令数据,得到移动终端的可能行进路线和移动速度。3)对实时采集的交通状态信息和历史数据进行融合处理,得到高可信度的交通状态检测值。4)系统由主、从数据分发服务器、主控服务器、并行计算的计算节点服务器组成,实现硬件和数据管理的冗余。3.技术的创造性与先进性1)利用多种过滤器对海量数据进行分析,去除数据噪音得到不同交通状态、不同道路网络条件下的路段交通状态信息统计值。2)采用分布式架构和负载均衡技术,实现海量信令数据的实时处理,达到动态交通信息采集和应用的要求。3)基于Linux操作平台,采用灵活的模块化结构设计和数据库集群,实现了从数据采集、实时处理、数据监控、数据存储备份管理等一系列作业功能和要求。4.技术的成熟程度,适用范围和安全性项目已获得计算机软件著作权及软件产品登记证书,通过了上海市计算机软件评测重点实验室的软件产品登记测试,经中科院上海科技查新咨询中心查新检索,其综合技术达到国内领先及国际先进水平。5.应用情况及存在的问题项目经通乾信息科技(上海)有限公司应用,在使用效果、技术性能的稳定性等方面得到用户的高度认可,获得用户好评。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 王水波;郭亚;郑贵桢
+AD 长安大学信息工程学院,长安大学信息工程学院,长安大学信息工程学院 陕西西安710064,陕西西安710064,陕西西安710064
+T1 基于AT89C2051的交通车辆检测系统
+JF 工业控制计算机
+YR 2007
+IS 09
+OP 75-76
+K1 交通信息工程;车辆检测器;AT89C2051;数据采集
+AB 针对目前道路交通信息采集的应用情况,介绍了一种基于单片机的环形线圈车辆检测器系统,并分析了系统的结构和功能。该系统的硬件主体以AT89C2051为控制核心,实现了路面动态交通数据的采集,采集到的数据实时反映了车辆的通过或存在状况。该系统结构简单,操作容易,能较精确地检测出车辆的存在,可应用于交通检测和道路监控领域。
+SN 1001-182X
+CN 32-1764/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXsjhVdkQRWDihshTV2a29OI2FlN4Zf5AIS6Nqz3txsPiRtc5MJ7Id7OQprwNaT1Y8R0nEONY4Can0nkqNK8oHxmpL2-SpvuOcmS7GU_tYkxW-tFLlJEOeqbrladJVSOkOwWwhhiax0djUEN6fu-7AZGMt1MIN6eRf7uoz5g7Xs-A==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 吴薇;朱光喜;陈云峰;徐海祥
+AD 华中科技大学武汉光电国家实验室光通信与智能网络研究部,华中科技大学武汉光电国家实验室光通信与智能网络研究部,华中科技大学武汉光电国家实验室光通信与智能网络研究部,华中科技大学武汉光电国家实验室光通信与智能网络研究部 湖北武汉430074,湖北武汉430074,湖北武汉430074,湖北武汉430074
+T1 视频技术在智能交通信息检测中的应用
+JF 电视技术
+YR 2007
+IS 09
+vo 
+OP 71-73+96
+K1 智能交通系统;交通特征参数;交通信息采集系统;数字信号处理
+AB 论述了各种基于视频图像分析和模式识别技术的交通检测算法的实现思路和特点,及其产品化现状和发展方向。通过对各种检测算法的比较,采用了基于像素强度的图像差分法作为检测算法的基础,以本实验室的研究成果为例描述了一个基于DSP平台的嵌入式交通信息采集系统。
+SN 1002-8692
+CN 11-2123/TN
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16280/j.videoe.2007.09.037
+DO 10.16280/j.videoe.2007.09.037
+
+RT Journal Article
+SR 1
+A1 许铁;许钢
+AD 福建省交通职业技术学院;福州捷达星网科技有限公司;
+T1 位置服务(LBS)技术在出行信息采集系统中的应用研究
+JF 城市公共交通
+YR 2007
+IS 09
+vo 
+OP 35-39
+K1 位置服务(LBS);无线市话(PHS);居民出行;信息采集
+AB 位置服务技术(LBS,Location Based Service)指通过移动运营商的网络获取移动终端用户的位置信息(经纬度坐标)。本文针对目前居民出行信息采集存在的不足,通过对多种基于移动网络的定位技术比较,提出一种基于无线市话系统(小灵通)位置服务(LBS)技术的居民出行信息采集系统,实时采集居民的出行轨迹,为改善城市交通运行状况及各种决策提供信息保证。
+SN 1009-1467
+CN 11-4416/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWXE0bCwOivPpygNUwk4MInMLB8C4iXnPB8jUXCznKXRtnCxl3CS81QeocLL-N1KHW3cm-KVvxAjFEySpsBtrBN3ctGTvvarojqoQPRmihvfBJ7JIiJgVjsv2WKAxt_JAOBITyhKdqogaLyypaRXJSBnnpxfp8ynPohdg2YVrKm-w==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 唐汝磉;钱寒峰
+AD 同济大学交通运输工程学院,同济大学交通运输工程学院 上海200092,上海200092
+T1 智能交通信息采集中数据融合技术探讨
+JF 科技咨询导报
+YR 2007
+IS 26
+vo 
+OP 17-18
+K1 ITS;交通信息;数据融合
+AB 交通信息的采集是智能交通系统的关键技术,而数据融合技术通过对不同来源交通数据的综合处理可以获得更加准确的交通信息。本文首先介绍了智能交通信息的采集技术,对数据融合技术在交通信息采集中应用的必要性做了分析,最后探讨了在交通信息采集中,数据融合技术在事件检测和消除估计误差方面的应用。
+SN 1673-0534
+CN 11-5217/N
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16660/j.cnki.1674-098x.2007.26.015
+DO 10.16660/j.cnki.1674-098x.2007.26.015
+
+RT Conference Proceeding
+SR 1
+A1 杨栩
+AD 天津市中环系统工程有限责任公司;
+T1 天津市快速路智能交通诱导策略软件设计
+JF 第二十一届中国（天津）’2007IT、网络、信息技术、电子、仪器仪表创新学术会议论文集
+PB 天津市电子学会、天津市仪器仪表学会
+PP 中国天津
+YR 2007
+OP 115-119
+K1 智能交通系统;快速路网;总控中心;平台;诱导策略
+AB 为充分发挥天津市快速路网的功能,提高快速路网的服务水平,保证快速路网的安全与畅通,需要建立天津市快速路智能交通管理系统。管理系统由总控中心、信息通讯传输平台、交通监控子系统、交通信息采集子系统、交通信号控制子系统、交通诱导子系统六部分组成,各个子系统在独立工作运转的前提下,由总控中心集成。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWcwZG1f9DK5XE0LzJHeJiMpT3qiS8dw37y3a941vzJBIrPhA-NYggR1BHsx9wt8gIV_ixdxvQm70sT9wiiCChHrFP0HX6G9ChBLLdrt0DnxSbvrNWxOSY3NFd3fGrjo2EW3gan7wlA_IeNT3NESNEnEorFYEjS1UdGYA127CX0Zq6J75FJ2P3V&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO 24535-2007
+T1 智能运输系统.自动车辆识别.基本电子注册识别(基本ERI)
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2007-09
+ID ISO 24535-2007
+K1 数据采集;数据交换;定义;电子的;电子系统;识别;信息系统;信息技术;智能网络;注册;道路运输;安全;规范(验收);运输;交通运输工具;交通运输信息和控制系统;运载工具
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVRknW183lIRXPBEV7juX53vXfLeuQEb10M7FrqaABBeiZbEQsUapr3xFDU19bEajoLcIpCYfDLEAUqy-MeuBYF5XHIvbDoeJa4PmHMyI3haAQGpj_fuhPW6TntYbJ3AgdkxBaditBE_lnPj0fFowa8jyETUSHMKQ1CqK6yBqil-Q==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 施小春;叶加圣
+AD 安徽科力信息产业有限责任公司,安徽科力信息产业有限责任公司,
+T1 基于FCD技术的道路交通信息采集与服务系统
+JF 安徽科技
+YR 2007
+IS 08
+vo 
+OP 46-47
+K1 FCD技术;交通信息采集;平台
+AB 本文借鉴当前国际上解决城市道路交通问题的一般做法,针对目前我国许多城市已具有出租车GPS数据资源条件,提出建设基于FCD技术的道路交通信息采集与服务系统,重点描述了FCD道路交通信息采集系统的结构、功能和特点,并对FCD的深入应用进行了探讨。
+SN 1007-7855
+CN 34-1164/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVlNIGCIazG2FwXYqLOLijxN1CJFB5XzoX0OS1bnafMvmnE1s4GPlbUAAJS5bKXIkhVcNArtdBiJmsY6Y97TbYNiCqNcoqhcZVYCp1I7j9DFtYJ1An-HjpJ0Ny-0MAhDUbgghW5a2PLtb3nRW19gBDgXuAA0ZeTV8HWJqfIF7b_sQ==&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 BS ISO 24531-2007
+T1 智能运输系统.系统建筑学,分类学和术语学.在ITS标准,数据注册和数据字典中使用可扩展标记语言(XML)
+A1 BSI
+PB 英国标准学会
+FD 2007-07-31
+ID BS ISO 24531-2007
+K1 ASN.1;数据采集;数据交换;定义;电子系统;可扩展标记语言;识别;情报系统;信息技术;智能网络;标记语言;注册;道路运输;信号系统;规范(验收);系统建筑学;分类学;交通控制系统;运输;交通运输工具(施工工程);运输信息和控制系统;XML
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUU6hW06MzVKfAsMxGLbMKnLW5zW2rSsovOBsf_rT3mg7o-xrJV5RJmbujs4Sr_wnv1hNHzWW6Gt0NLgoHvBmlvvkRrUVXyg-B8wtKbEJV61_PE8sMx0UkqZhKHonmD8Q7njymNEyGhUptO7W7k4HemWQZUJ0uryyhNMLE3guZNTA==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 曹江中;戴青云;谭志标;邸磊
+AD 广东工业大学信息工程学院,广东工业大学信息工程学院,广东新粤智能交通研究院,广东新粤智能交通研究院 广州510090,广州510090,广州510101,广州510101
+T1 交通信息采集系统中的行人检测算法
+JF 现代计算机(专业版)
+YR 2007
+IS 07
+vo 
+OP 13-15
+K1 行人检测;视频检测;运动检测;目标跟踪
+AB 根据高速公路行人运动的先验知识,设计了一种基于视频检测技术的高速公路行人检测算法。该算法采用背景帧差分法获取运动目标区域,采用跟踪链实现运动目标跟踪,根据行人运动的先验知识在运动目标中检测行人。算法已嵌入到交通信息采集系统中,在高速公路上进行的现场测试结果表明,算法具有较好的实时性和实效性。
+SN 1007-1423
+CN 44-1415/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUqDZxKOUBtMAvoBPqPWxoExFxmVo25x6qmOK7aZJawo7aoaPMjhhhfrJnd0PqMuv0S9AZyJTEj4gpLISbplZ_mwKJcyrnTAhJQEmeWRGEL5-S18sm46RZFmwdCZ-NmShrYdYuFqccbV-50XaWuTHIbyYNHwx-wy8LKj7IpRpA6Hg==&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO 24531-2007
+T1 职能运输系统.系统建筑学、分类学和术语学.在ITS标准、数据注册和数据字典中使用可扩展标记语言(XML)
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2007-07
+ID ISO 24531-2007
+K1 ASN.1;数据采集;数据交换;定义;电子系统;可扩展标记语言;识别;情报系统;信息技术;智能网络;标记语言;注册;道路运输;信号系统;规范(验收);系统建筑学;分类学;交通控制系统;运输;交通运输工具(建筑工程);运输信息和控制系统;XML
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVa13H0M0UrnH8D8Wb4v7Pq93gegPhlis4f_z8gfYAfXNmirsWzjpifZK_bth_zptU7SIq6m3zuSSqfoBz24TH2eD5SIYDx1ll0bEYvxu1Mg5Q-tAjszOH4G4YC2YCWuih54hMzmoEIttPkQNhNfKgLgJfuJLKj4N-8uxhHKxP4WQ==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 Shuai FAN;Xin ZHANG;Wei-gang WU;Jian-nong CAO;Yong REN
+AD Department of Electronic Engineering, Tsinghua University, Beijing 100084, China;;WU Wei-gang, CAO Jian-nong Internet and Mobile Computing Laboratory, Hong Kong Polytechnic University, Hong Kong, China
+T1 WMN-based city traffic information acquisition system
+JF Elsevier Ltd;No longer published by Elsevier
+YR 2007
+IS S1
+vo 14
+OP 1-5
+K1 wireless mesh networks;real-time traffic information;probe vehicles;TN915.02
+AB Abstract(#br)Traffic information acquisition system is an essential part of the intelligent transportation system (ITS). This paper presents a novel traffic information acquisition system, i.e., a dynamic traffic information acquisition system based on wireless mesh networks (WMN). The system comprises of probe vehicles and wireless mesh networks. Compared to the conventional systems, it is independent of other network infrastructures and easy to implement. It can acquire the real-time traffic information correctly with lower cost.
+SN 1005-8885
+DS CNKI
+LK https://link.cnki.net/doi/10.1016/S1005-8885(08)60001-1
+DO 10.1016/S1005-8885(08)60001-1
+
+RT Journal Article
+SR 1
+A1 王少飞;关可
+AD 长安大学信息工程学院,长安大学信息工程学院 陕西西安710064,陕西西安710064
+T1 恶劣气象条件下的高速公路实时监控系统研究
+JF 现代电子技术
+YR 2007
+IS 12
+vo 
+OP 20-22+28
+K1 恶劣气象;高速公路;道路监控;交通信息
+AB 恶劣气象对道路交通系统有相当大的影响。在分析我国气候特点的基础上,对恶劣气象信息的采集、传输、发布、判断、处理做了必要的研究,并在现有的高速公路信息管理系统框架内设计出气象信息服务子系统。
+SN 1004-373X
+CN 61-1224/TN
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16652/j.issn.1004-373x.2007.12.008
+DO 10.16652/j.issn.1004-373x.2007.12.008
+
+RT Journal Article
+SR 1
+A1 张存保;杨晓光;严新平
+AD 武汉理工大学智能交通系统研究中心,同济大学交通运输工程学院,武汉理工大学智能交通系统研究中心 武汉430063,同济大学交通运输工程学院,上海200092,上海200092,武汉430063
+T1 浮动车采样周期优化方法研究
+JF 交通运输系统工程与信息
+YR 2007
+IS 03
+vo 
+OP 100-104
+K1 交通信息采集;浮动车;采样周期;频谱分析;智能交通系统
+AB 利用安装GPS设备的浮动车采集动态交通信息,具有数据精度高、覆盖范围广、实时性强等优点.阐述了基于浮动车的交通信息采集系统的原理和组成.针对目前浮动车采样周期主要凭主观经验确定的问题,提出了采样周期优化的理论方法:将浮动车瞬时速度当作随机信号,利用傅立叶变换对其进行频域分析,然后依据Shannon采样定理,确定浮动车的优化采样频率.结果表明该方法确定的采样周期可以获得较高的数据采集精度,满足实用要求.
+SN 1009-6744
+CN 11-4520/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16097/j.cnki.1009-6744.2007.03.018
+DO 10.16097/j.cnki.1009-6744.2007.03.018
+
+RT Journal Article
+SR 1
+A1 黄逊
+AD 广东新粤交通投资有限公司,
+T1 浅谈高速公路监控系统施工技术分析
+JF 广东科技
+YR 2007
+IS 06
+vo 
+OP 138-139
+K1 高速公路;监控系统;施工
+AB 本文简要的介绍了高速公路监控系统的工作原理、基本组成和主要功能,并针对高速公路监控系统的施工技术作了详细的分析和说明。
+SN 1006-5423
+CN 44-1313/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUb8rTQshWQqcgbyvbq_iw2oNYrhhyyFJNiPfgFYJW5yoBmpTsOt6o7iXMwwPaoXGppen0MruK5hDA9FI_Yi1fwK3dc9Teyr8jS8jsiXVb7M6XBRjwnSMl8y3Z8aXbYeU1aicCBjFCxtueKqjQ7PO6GWOhLldhKLty9WVMO1FplEA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 曹江中;戴青云;谭志标;邸磊
+AD 广东工业大学信息工程学院,广东工业大学信息工程学院,广东新粤智能交通研究院,广东新粤智能交通研究院 广东广州510090,广东广州510090,广东广州510101,广东广州510101
+T1 基于视频检测的高速公路交通信息采集系统设计
+JF 电子技术应用
+YR 2007
+IS 06
+vo 
+OP 115-117
+K1 视频检测;信息采集;车辆检测;车辆跟踪
+AB 基于视频检测技术设计了一种实时的高速公路交通信息采集系统。系统利用图像处理技术对交通视频进行实时分析,能有效地获取车流量、车速、道路占有率等基本交通信息。现场测试结果表明,该系统具有很好的实时性和可靠性。
+SN 0258-7998
+CN 11-2305/TN
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16157/j.issn.0258-7998.2007.06.056
+﻿
+DO 10.16157/j.issn.0258-7998.2007.06.056
+﻿
+
+RT Newspaper Article
+SR 1
+A1 陈汶鑫;陶健
+T1 魅力城市在和谐中攀高
+JF 解放日报
+OP 001
+FD 2007-05-16
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWouDZDWx7YSR8gsNz61tlCko2XxSxReQSdu_xK7hOH6MDg0gTvQ6jw7bVh-eA__oPBJbSETdi4RxRV31JnkWdvXE6dbuxtSb_3_kZqlRH4TBwggJfG7zZLh1Pif15Tqgd7Dh1ucyq1pMekXnIsbXuedAS6fJnJ1cR8JAxTHUnPe8z0Q1AEbS73&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 胡明伟
+AD 深圳大学土木工程学院 广东深圳518060
+T1 基于GPS的实时交通信息采集方法的研究
+JF 公路交通科技
+YR 2007
+IS 05
+vo 
+OP 121-124+134
+K1 智能交通系统;交通信息采集;全球定位系统;浮动车;平均速度
+AB 对基于GPS的实时交通信息采集方法开展研究,分别提出了利用GPS返回的经纬度数据和速度数据的两种路段平均速度估计算法。前者通过高斯投影,将WGS-84坐标系的GPS经纬度数据转换为平面直角坐标系的数据,从而计算平均速度。后者从GPS单点测速机理的研究入手,通过速度定积分计算距离得到平均速度。通过现场试验对算法和技术流程进行了验证,并利用实测数据对比了两种算法的计算结果,表明基于GPS的实时交通信息采集技术在实践中是可行和有效的。
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWZlJm8eEkg9Krke8uP5E3bPdPinpALqM-wqU8Vc8eYOm4sTYUxpovDzLUoBvJcNAtbMbSt4P-y6xGbnCk2d1Rxu_lDALazCIiG3hhxrtsDrW1MdMv2YrHzYxqQNTZlp_MjSi_xSIz7amUQ3Uua6ovRku5ukK4Myo6Ug-RTh6Nh9w==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 章威;徐建闽;张孜
+AD 华南理工大学交通学院,华南理工大学交通学院,广州市交通委员会 广东广州510640,广东广州510640,广东广州510030
+T1 基于出租车GPS定位技术的ITS共用信息平台实时路况信息采集及处理方法
+JF 公路交通科技
+YR 2007
+IS 05
+vo 
+OP 125-129
+K1 智能交通系统;动态交通信息;浮动车技术;ITS共用信息平台;J2EE
+AB 以广州市ITS共用信息平台的建设为背景,提出基于出租车GPS定位技术的ITS共用信息平台实时路况信息采集及处理方法。针对ITS共用信息平台信息采集范围大、准确性和实时性要求高的需求特点,具体研究队列方式的道路拓扑存储方法,利用出租车计费器进行奇异数据剔除的方法,分区搜索和边界矩形相结合的GPS地图匹配方法和循环队列与A*算法相结合的路况计算方法等一整套基于出租车GPS定位数据的实时路况信息采集和处理的方法,并提出了基于J2EE架构的平台数据处理服务器的实现方案。广州市ITS共用信息平台示范工程的实际应用表明,该方法具有良好的效果和广泛的应用前景。
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW4-kHGK7_U_WVYX_rc22Ml3T8o4ixTWGgd-63uchvKL0gMK9uerQIy0Z-4GpQ6CPWorxeIi_NN2BvGGY6L-ru7mVhGMs0jywniHH79g13bDE61oYZSnnb9egzK4m05_HyABwo4nvd4d_iRRIksZDMnjrx7sr-Gx4wo5doe80C5uA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 贾全明;梁国娟
+AD 广东新粤交通投资有限公司,广东新粤交通投资有限公司,
+T1 论高速公路交通监控系统
+JF 广东科技
+YR 2007
+IS 05
+vo 
+OP 158-159
+K1 高速公路;交通;监控;管理
+AB 通过在高速公路沿线、立交、收费广场等设置的摄像机,将信号传输至监控中心集中监控,从而实现交通状况图像监控;通过在沿线关键位置设置车辆计数器、车辆测速器、气象资料采集器,并把信号传输至监控中心集中处理,实现交通信息和气象信息的采集;通过安装于道路中央分隔带或路边的可变限速标志和可变情报板,从监控中心发布交通疏导和交通控制信息。随着道路文通智能化的发展,监控系统是高速公路交通管理中不可缺少的重要手段。
+SN 1006-5423
+CN 44-1313/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUfCciYr-noyGTpZWf_Aw_oBVL2hXYIF7H9pOHtIAo7WfiqhUOuGm0u8GiUoJdqVrDSW8gB_2khOKmcMztUWICj4pMwwsCcNpmtGYWa4VdsKZnUEf7GP7ag7C15TN1E3vqPKDK44f0lTaL1Ye5mhnG2eeAzRu9C_zOcYVtOdwTApQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 杨浩英;刘明宇
+AD 西安邮电学院电子与信息工程系,西安邮电学院信息中心 陕西西安710121,陕西西安710121
+T1 基于SMS的交通信息服务系统
+JF 西安邮电学院学报
+YR 2007
+IS 03
+vo 
+OP 60-65
+K1 蜂窝定位;数据采集;API;AT指令;PDU编码
+AB 针对目前交通信息查询机制(如GPS)普及慢的现状,提出了基于手机短消息(SMS)系统的交通信息查询系统,它结合蜂窝定位技术,短信息平台技术,地图引擎等易实现技术来充分满足驾驶员的一系列信息请求,诸如:路况信息查询,天气状况查询,加油餐饮娱乐医院信息查询,及求助或报警请求等。
+SN 1007-3264
+CN 61-1300/TN
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13682/j.issn.2095-6533.2007.03.014
+DO 10.13682/j.issn.2095-6533.2007.03.014
+
+RT Dissertation/Thesis
+SR 1
+A1 赵丹
+A3 徐瑞华
+PB 同济大学
+T1 智能监控及信息传输技术在道路交通安全中的应用
+CL 硕士
+YR 2007
+IS 07
+K1 智能监控系统;道路结构设施;实时;交通安全;传感器;数据采集;网络传输
+AB 随着交通的迅速发展,交通已成为人们出行的基本方式,交通安全问题越来越受到人们的关注,同时交通的设计理念不仅是出行,更是以人为本的“安全、舒适、环保、和谐”。在人、车、道路、环境因素里,道路结构设施的安全意识发挥着基础作用,道路结构设施的毁损会造成小概率大事故的结果,通过完善的结构设施安全设计及保障,来有效的控制改善交通安全,减少交通事故,减少经济损失。随着计算机技术的发展,结合信息技术的智能技术不断应用于各行各业,也为交通安全事业的发展开创了新的天地,信息化与交通结合形成智能交通系统,与监控技术结合形成智能监控系统,自动化、智能化的系统结合网络传输技术,做到资源及时得到分析共享反馈会诊,从而使系统实现安全监控、预测作用。在法国两年学习和实习的过程中,作者有机会进入法国智能监控公司,并参与了该公司对希腊希翁安提翁跨海大桥及葡萄牙一座跨海大桥的智能监控项目,在此过程中,通过对法国智能监控的整体全面研究,为我所用,对比分析我国对道路结构设施的智能监控。针对法国对影响道路交通安全的结构设施的智能监控及信息传输理论系统设计及技术设计:前端数据采集系统中,建立结构系统分类,进行风险分析评估监控对象,建立系统功能强大的数据库系统形成统一管理平台,对传感器采用技术分析处理并进行实验模拟。在网络传输中,通过实时监测系统的数据特性,针对网络通信协议的特点,选择适当的协议作为实时消息的网络层协议,形成平台来解决实时监控系统的数据传输问题,为实时智能监控系统提供实时、可靠、安全、高效的数据传输服务。从需求入手,针对我国与道路交通安全相关的道路结构设施数据实时采集及传输中的问题,从对结构设施智能监控及信息传输的功能要求出发,分析结构设施智能监控中两类信息采集方式的优缺点及改善方式,从经济上利用风险分析节约投资,建立数据库管理数据信息,形成传感器检测数据的关联与融合、检测数据的归一化处理,实现了数据高精度测量和数据类型的精确分类;建立有效的网络协议传输平台,实现数据远程网络传输,有效保证道路交通安全。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUqk4vJ1Zur6M1kzRvcetR1ItLfWSLSgDJ6_ObfVS7b63xn9S5CNOAj8vxMoGRCEg-eiC7thG_9eSZJeqGbzzgD6h9YXMoyOwRpNabRM6n6mna17wQTiaSjpa1N7wKnyjd7ocf-9UN5iHh3IVT8Td_lVMgL3JkX0ju0TmVilsZ1pc0Mh9TsQPVQ&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 钱寒峰;林航飞
+AD 同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室 上海200092,上海200092
+T1 动态交通信息的分类和采集方式分析
+JF 黑龙江科技信息
+YR 2007
+IS 08
+OP 60+81
+K1 ITS;动态交通信息;检测方式;组合应用
+AB 动态交通信息的采集是智能交通系统的关键技术,首先对动态交通信息进行了分类,然后对动态交通信息的采集技术进行了比较分析,最后探讨了动态交通信息各种采集技术组合应用的原则和步骤。
+SN 1673-1328
+CN 23-1400/G3
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUHGUc6Q7ABTtPh15W9GULS5n59-i1UGwwsgi1M8QYw2rH69Cy_BExDPD1z15mEhoKLFSLYsFpjoYYXTWo_PHr0ULBCo5L8ZXepYPXUbL8qKLNjKRTt8-R1uiEZooIdynSaeYLY10FE6SBVP33ZsVfNWBcerlYzVkAgvXMyVvsTgg==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 金江红
+A3 王珂;解冰
+PB 吉林大学
+T1 智能交通系统中基于RFID的城市出租车交通信息采集平台
+CL 硕士
+YR 2007
+IS 03
+K1 ITS;RFID;出租车;交通信息采集
+AB 城市交通的信息采集与处理是交通控制和优化的基础,也是城市交通控制系统的控制作用得以实现的保证。本文利用RFID射频识别技术来实现城市出租车的交通信息采集,通过GSM短消息通信技术和无线电台来搭建一个成本低廉、应用性较强的交通信息采集平台。本文依次论述了智能交通系统ITS的概念、RFID射频识别技术原理、交通信息采集平台硬件构造和软件流程。硬件部分主要设计了RFID射频识别阅读器中C8051F000微控制器的相关电路和基于TR1000射频收发模块的相关工作电路,论述了配套的各个功能模块中的应用,同时还选配了AT5110射频卡来用于出租车车载单元,还设计了GSM短消息通信技术中收发短消息模块TC35i硬件的部分功能电路。软件部分说明了出租车的数据采集流程,并给出了主要软件的流程图。文章最后论证了系统的易推广性和可行性。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUnzTCEvbZ18McH9Y1QacXOwfVW8OO5H9_wfPgBHo60hlqJ6lVk4SdeAsgePvadG7yUYB2RG-A7z70E_fey6Wu2i81RYHCdJCd7eW5dbnFYod8BG6aq_DGUiJezwIb_v0vzb_SP695ErsNRMSyzEn0ofJqxLz3_EaGPrmbeJGr9WnI8B_ki6QdO&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 郭璘
+A3 方廷健
+PB 中国科学技术大学
+T1 基于信息融合的交通信息采集研究
+CL 博士
+YR 2007
+IS 03
+K1 智能交通系统;交通信息采集;信息融合;路径寻优;浮动车辆数据;证据理论;Kalman滤波;径向基函数神经网络;遗传算法;梯度算法
+AB 智能交通系统(ITS)作为一个信息化的系统，它的各个组成部分和各种功能都是以交通信息应用为中心展开的，交通信息的质量直接影响着交通系统应用分析的可靠程度。因此，获取实时、全面、准确的道路交通信息是实现城市交通智能化的关键，也是ITS成功实施的重要前提和基本保障。本文以交通信息采集为应用背景，针对目前城市道路交通信息难以实现实时全面准确采集的问题，从信息融合的角度，对交通信息融合、交通信息预测以及FCD算法等问题进行了深入系统的研究。全文的主要工作包括以下几个方面：1)信息融合技术的理论基础研究。从系统的角度对信息融合技术的基础理论进行了研究，重点研究了信息融合技术作为一种系统思维方式的理论知识，这些知识是构成信息融合技术的基础。其主要内容包括信息融合的融合层次、功能模型、结构模型以及数学模型。2)基于FCD的城市道路交通信息采集研究。提出了一种基于FCD的城市道路车流速度估计算法，并应用到城市道路大规模交通信息采集中。首先，介绍了速度估计算法，它采用了一种改进的弧段Dijkstra路径寻优算法，在图的弧段-弧段存储结构中考虑了城市路网限制性交通信息的表达，并将路网的一些先验信息引入弧段关系结构中，提高了搜索效率和准确性。然后，通过地面跑车实验给出了算法的评价结果和讨论。最后，介绍了算法在城市路网进行大规模交通信息采集的应用效果。3)基于证据理论和Kalman滤波的交通信息融合研究。首先介绍了基于联合Kalman滤波的GPS／DR／MM／BB组合导航信息融合方法，用于提高GPS定位的精度和完整性。通过组合导航信息融合，既能解决城区存在车辆导航“盲区”问题，又能提高车辆导航系统的定位精度。然后，提出了一种基于证据理论和最小二乘支持向量机(LS-SVM)的信息融合方法，通过融合地感线圈所采集的交通流量信息，全面提高FCD系统交通速度信息采集的准确性和完整性。该方法从历史速度数据和流量数据中提取关联规则和可信度矩阵，并进行回归分析得到速度-流量曲线的临界速度参数，在此基础上通过证据理论进行信息融合。4)基于径向基函数(RBF)神经网络的交通信息融合预测研究。首先提出了RBF神经网络一种两步学习算法：遗传-梯度算法(Genetic Gradient Algorithm，GGA)，用于RBF(Radial Basis Function)神经网络的学习，在此基础上建立了基于时间相关和空间相关的RBFNN交通信息融合预测模型，并应用到交通速度信息预测中。GGA算法充分利用了遗传算法(GA)的全局优化能力和梯度下降算法的局部搜索能力，一方面加快了网络的收敛速度，另一方面优化了网络结构，并在一定程度上提高了网络的推广能力。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWmzZRQIS3AyurGuTfqMyqTsPsRf6O6kCwm36ckDIn6aEQE08gvai_grb47Qfrb5jLVvEYlUKoCiVhCUTI3YKMoNTn_ipzn3s84Vb06BMDNNPxaFq7tHOzlv4YxF-Hv7so1U6DavNIGChtQuwAxJpboA6IUw4uU6gXZZI5X_co-eK1BXnYuFTIK&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 隋晶
+A3 侯忠生
+PB 北京交通大学
+T1 交通流诱导系统信息采集及处理问题研究
+CL 硕士
+YR 2007
+IS 03
+K1 交通流诱导系统;车牌识别技术;信息采集与处理;扩展卡尔曼滤波;状态估计
+AB 近年来，随着交通的快速发展和交通需求的不断增长，解决交通拥挤与堵塞问题已迫在眉睫。智能交通系统(ITS)得到广泛研究，以期从根本上改变交通拥挤和堵塞的局面，最大限度地利用交通设施，改善车辆的机动性和安全性。交通流诱导系统是智能交通系统的重要组成部分，也是智能交通系统能够实施的关键技术。交通流诱导系统，是通过实时地采集和发送交通信息，适时地引导交通流量合理分布，从而达到高效率利用道路网络的一种主动交通控制方式。本论文研究了城市交通流诱导系统的信息采集与处理问题，主要研究工作如下。首先提出了基于车牌识别技术的信息采集及处理系统的设计方案和软件实现的关键技术，对系统的路边采集单元、数据传输单元、数据处理中心单元的功能及数据处理中心单元的软件实现过程进行了详细的设计和阐述。其次研究基于扩展卡尔曼滤波状态估计的信息处理问题，主要是对密度和速度的估计，并根据由车牌识别设备采集的信息计算出的路段真实旅行时间，对估计的速度结果进行一定程度上的修正。最后，在matlab平台上进行交通流仿真研究，包括基于扩展卡尔曼滤波的交通密度估计和修正后的速度估计，仿真结果表明修正后的速度估计更接近真实值，为实际应用提供一种简便有效的修正估计结果的方法。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUDRQfLzRsh0OPoZ4nfzxioHlKt219Z1TYsOD6no_fpOo_Mx_elqMyGra4m_s-vg-1G7MiKr8o4INgwBewBgQ5y9vaVk82qjKhDWZAQ-mJ3b8f5ym6JuZYPJPaqJzHJGyV_wiTmfa3AMt3ChNn0qvitIt5j8iCM4SvrHx3wvS30_SbmVmdCFJGk&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 李骐
+A3 苏燕辰
+PB 西南交通大学
+T1 基于并行打印接口数据采集和数据回写系统研制
+CL 硕士
+YR 2007
+IS 04
+K1 调车作业计划;并行口;旁路;PS/2总线;IAP
+AB 我国是一个幅员辽阔，人口众多，资源分布极不均匀的国家，因此交通运输对经济的发展有着至关重要的作用。而铁路运输具有运量大、速度快、安全、节能、环保等优点，在我国的运输行业中扮演着越来越重要的角色。目前我国经济正处于发展阶段，对运输业的运量和速度提出了很高的要求，加之公路、航空、水运等的发展，在运输业内部上演了越来越激烈的竞争。在这种情况下，就要求铁路网上承担集中办理大量货物列车到达、解体、编组出发、直通和其它列车作业的编组站具有高效率的运转能力。然而，我国编组站内的调车作业计划仍然由人工编制，受指挥人员业务技能水平的影响，编制质量差别较大，不能保证在现有硬件设施下最大效率的工作。为了提高铁路货运编组效率，需要对当前现车信息进行分析，通过对实时现车信息按照一定算法生成最优调车作业计划，并且，根据该算法编制的软件已在贵阳货运站通过现场测试，取得突破性进展。但是，由于诸多原因，通过直接访问数据库的方式获取现车信息比较困难，因此现在获取现车信息和回写最优调车作业计划均由人工完成。由于人工输入数据的准确性欠佳，一旦数据错误将会直接导致生产上的安全问题，不可预见的因素太多，不利于实际推广。所以，怎样获取数据库中的现车信息和回写最优调车作业计划，成为当前迫在眉睫的问题。本课题在此背景下成立，采用加入硬件设备的方式，成功解决了不通过数据库接口，直接获取TMIS系统中的现车数据和反馈调车作业计划数据的问题。论文通过详细分析，并在铁路货运部门实地考察，在保证生产现场原有系统安全正常工作的前提下，最终确定以下方案：让TMIS数据库通过计算机并行接口输出当前现车信息到打印机，在此过程中采用打印并行口旁路数据采集的方式，将现车信息截获，并且不影响系统打印功能；用单片机通过PS／2总线通讯协议，模拟人工键盘输入所生成的“最优调车作业计划”(包括英文字母、汉字、符号以及键盘控制命令)；通过串行总线完成数据接收和控制命令接收，并用IAP技术完成程序的维护升级。本课题中硬件核心采用SST89E564，芯片内置串行口，拥有外部中断、定时中断等丰富的硬件资源，特别是IAP技术的应用，使得整体硬件的开发、升级和维护都有了长足进步。通过本文对基于并行打印接口数据采集和数据回写系统的研制，积累了大量关于计算机接口的综合应用编程、单片机外围电路设计的经验，以及对IAP技术的掌握。为以后这方面的开发打下坚实基础。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW00jZm8RkKv5oqlWo6GX6LFHRz-2OkGLMt0DYjTu8lQ8GmvmlbDj8aBze4vJg1p2dfW8WkXx9k5kvmLmBfGeP7GAled0-pqmQAb2WFpMeHliURGvx54CP4ZK0dPPmG3NWY-7Zbo3XdiBozevKm_UzYi_QztwKQrw9Lvnc5q33qIpq3FgTJg9BA&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO/TR 17452-2007
+T1 智能运输系统.用统一建模语言(UML)定义和记录智能运输系统(ITS)/运输信息和控制系统(TICS)接口
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2007-04
+ID ISO/TR 17452-2007
+K1 数据采集;数据交换;定义;字典;电子系统;可扩展标记语言;识别;信息系统;信息技术;智能网络;接口(数据处理);道路运输;规范(验收);系统建筑学;交通控制系统;运输;传输工具(工程) ;运输信息和控制系统 ;UML;统一建模语言;XML
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUCNTv6PsxEx3W3rCQKgvKz23_t9onrY6S77sVjC6mc4kK7HPeBNAkd_OmGW22EQG3vXIbDduietvjqVuwKtZ0yI48qk74F2iAZyDKBenq8BgRyadp-ENgAOf3JTVHicZumMWKigpLmH2iSDl2GCH_XpcpeX9D4VrXCDBlWtlMLOg==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 安新
+T1 新一代智能交通控制系统技术课题列入国家“863计划”
+JF 道路交通管理
+YR 2007
+IS 03
+OP 23
+AB 新一代智能交通控制系统技术课题从系统出发,涵盖交通信息采集、控制策略、系统集成、系统仿真等多方面的理论和技术研究,为形成新一代智能交通控制系统技术体系和可供推广应用的交通控制系统奠定基础。
+SN 1004-504X
+CN 11-3021/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWIRo0u7U6lV8shWsLkLIZxMgB_m4eVfxiEspxSHkKsk1NO2mdcLHaQ3hJKXzj4b8o0RvvdoO4b67wsyRMH6g7ShNkG2Ol-6jqC6t4TU7YDz8m7o3ud-8nmZ7voHB6MT4nqExOK11H2eQyzphYO2s2cxK5PWwuwyRtT7CRP0r9pFg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 俎振山;韩凤春
+AD 中国人民公安大学研究生部,中国人民公安大学交通管理工程系 北京100038,北京102623
+T1 交通监控系统信息采集问题及应对方法研究
+JF 中国人民公安大学学报(自然科学版)
+YR 2007
+IS 01
+vo 
+OP 94-97
+K1 交通监控系统;数据异常;数据丢失
+AB 交通信息系统信息采集是交通监控系统运行的基础,在信息采集的过程中经常出现采集的信息不完整、不准确等情况,给交通监控的有效实施造成不利的影响。为了确保所采集交通信息的完整性和有效性,可以通过两种方式来实现,一是进行检测器的优化设置,包括纵向设置和横向设置;二是对所采集的信息进行错误数据剔除和丢失数据修复。
+SN 1007-1784
+CN 11-3933/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWIRo0u7U6lV8shWsLkLIZxMgB_m4eVfxiAGc4GrBzfRsGBZtFcuMcNulvCzluDLsrZDK4Sag-MNIkBEWhIoCAKMXKjaXlknXDqLZGhF7E9FxMfDlL5L7USZBhhXvk-f5zoFy1xBTp4RNX_w8ZAZMhxeUHxe1t2qlSkeymQGellnw==&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 浮动车交通信息采集系统研究
+A1 郭继孚
+AD 北京交通发展研究中心
+FD 2007-03-19
+K1 浮动车;交通信息采集;地图匹配
+AB 该课题是在交通信息采集新技术研究和应用领域的重要课题之一,浮动车交通信息采集系统(简称浮动车系统,FCD)是伴随着ITS新技术应用而在近几年发展起来的动态实时交通流信息采集技术,对提高交通管理和信息服务水平起到关键作用。课题通过对浮动车交通信息采集系统的深入研究,实现了在基于浮动车数据的实时地图匹配算法、旅行速度估算算法、基于浮动车数据的应用技术、浮动车数量规模估算、实时交通信息发布等方面的创新,成果具有良好的推广应用价值,可直接支持北京市及其它城市建立、实施浮动车交通信息采集系统。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 周武
+AD 广东新粤交通投资有限公司,
+T1 高速公路隧道交通监控系统分析
+JF 广东科技
+YR 2007
+IS 03
+vo 
+OP 28-29
+K1 高速公路;隧道;交通监视与控制系统;信息采集系统
+AB 本文是作者在高速公路机电工程中,针对高速公路隧道交通运行中存在的问题,提出了交通监视与控制系统这一解决方案,并介绍了该系统的组成、特点及控制策略,论述了监视与控制系统的发展方向——智能运输系统(ITS)。
+SN 1006-5423
+CN 44-1313/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXLMvcNilvoEmYneUdCZYcwIX4bLVdIfVq8YtJt8hxPbcvIhtJogoj5laiMUBsi83kontuQC0XWz6kfKUJXJg2v53jHJH0NwWDnLOdM1JI9_cnukWJWaSkK2qwmeQxalDx9UJXbCnsdsNFAaktlBOoODMo-zH9vFfukytobo5wtEA==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 纪铮翔
+A3 陈小鸿
+PB 同济大学
+T1 道路交通运行状态评价关键指标研究
+CL 硕士
+YR 2007
+IS 07
+K1 交通运行状况;年报月报指标体系;交通拥挤;可靠性
+AB 交通拥堵,正在成为困扰中国城市发展的突出问题。正如医生治病需要诊断出“病根”一样,解决城市交通拥堵问题亦需要找到城市交通发生拥堵的症结所在。因此,评价道路交通的运行状况成为帮助城市发现产生交通拥堵原因、研究城市交通运行特征规律的关键手段。对城市道路交通运行状况的准确评价,能为城市交通管理中制定交通改善政策和措施提供准确的基础数据支持,能为城市交通的规划设计提供指导作用,甚至能为城市规划的决策提供依据。本文在总结国内外现有各种交通运行状况评价方法的基础上,依托现代交通信息采集系统的基础数据,根据两类交通流的运行特点,在深入研究各个评价指标的适用性之后,建立起一套多种类、多层次的年报月报评价指标体系。同时,依据交通流的运行特点,借鉴网络可靠性分析理论及方法,提出评价城市道路交通运行可靠性的指标,并提供了两种不同的的计算方法,应用于深圳市的交通走廊运行评价之中。最后,本文选取了上海市道路交通运行年报和深圳市城市交通仿真系统的实例进行评价分析,验证了论文建立的评价体系的可行性和实用性。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUYZABBxPXYp9rh1qQfdray3wMOzoHv1BxSRtb_wysXyj_pxUK-cz7sGkBlRHQ6SX-tpEawW2nomblNYWPGGxDNRC1D7x5uxhcKCbxQgoGJU95IbCl6nm5dA_XIuZnoleASV9UfqA5PpAWAX0aRXtAL7ogXEltRVuvloP596KXyPdmnViuPxZMg&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 李纪奎;向怀坤;胡泓;曹泉;刘建伟
+AD 哈尔滨工业大学深圳研究生院,哈尔滨工业大学深圳研究生院,哈尔滨工业大学深圳研究生院,哈尔滨工业大学深圳研究生院,哈尔滨工业大学深圳研究生院 深圳518055,深圳518055,深圳518055,深圳518055,深圳518055
+T1 基于uCOS-II的视频动态交通信息采集系统研究
+JF 哈尔滨工业大学学报
+YR 2007
+IS 02
+OP 306-309
+K1 DSP;uCOS-II;视频动态交通信息采集系统;智能交通系统
+AB 设计提出基于uCOS-II操作系统的嵌入式视频动态交通信息采集系统的研发方案,介绍了该系统硬件平台的核心器件Ti5416DSP和嵌入式实时操作系统uCOS-II的主要特点,详细阐述了该系统研发的关键问题,给出了系统的硬件设计框架图,论述了基于uCOS-II操作系统的视频动态交通信息采集工作流程,最后给出了该系统在uCOS-II下的软件实现.
+SN 0367-6234
+CN 23-1235/T
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXKpAdeIl062QZLNhgLC3_AbuY70PPkqpGOtVdl68oEjIJGPGL-BBTyJKUnvTHq3-GYuXx8yQgkMJuQD0oRmd52-tOZjS3YLLxzTuQurrq9V5xdY9tgss80sqetN7VsAtrznZj_0wWblMgtW1HitjKZKNWGMijKIOv6JotlhCPrRw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 张周强;杜豫川;孙立军
+AD 同济大学,同济大学,同济大学 上海200092,上海200092,上海200092
+T1 基于GPS/GIS的交通数据采集方法
+JF 交通与计算机
+YR 2007
+IS 01
+vo 
+OP 119-121
+K1 全球定位系统;地理信息系统;坐标转换;地图匹配;交通数据采集
+AB 介绍一种基于短周期(1s间隔)的将探测车采集的道路交通数据——GPS数据转换为GIS电子数据的方法(简称为采集方法),主要包括坐标转换、地图匹配和道路交通信息统计。通过对GPS点进行跟踪匹配,可以准确地将GPS点匹配到各个路段上,从而获得准确的交通数据。
+SN 1000-8837
+CN 42-1114/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW5gdVG94zEUgSlW61czuzqUcIyGXGjEudYMtjBxnnJC1E9jHFmiQj08g1mLrh1t_lNqOHrskQF--zMHhZW7XXhDYE3T7XvCW5GzOqt6iOE6vD7FxEPpY9bu6Yondf1nfTWtapnlESw1o1huR5OgKNp6JG9STzgChA2ZRSbgyspxw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 王炼;孙艳;伯绍波;何凌
+AD 长安大学经济与管理学院,长安大学经济与管理学院,长安大学信息工程学院,长安大学经济与管理学院 西安710064,西安710064,西安710064,西安710064
+T1 面向决策支持的交通运输信息平台研究
+JF 交通科技
+YR 2007
+IS 01
+vo 
+OP 81-83
+K1 交通运输;信息采集;数据挖掘;数学模型;决策支持系统
+AB 传统的交通运输信息类网站存在着作用的局限性以及收集信息与参与决策的弱关联性,通过对信息采集、数学建模、数据挖掘等知识的研究,提出了一种面向决策支持的交通运输信息平台解决方案。该方案利用网站发布信息,结合信息采集技术收集信息,并根据后台构建的数学模型和数据挖掘技术对信息进行整理并归纳出其隐藏的知识和规律。通过实验室的使用,可以看出,该方案可以有效地对信息进行收集、整理、建模,为交通运输行业构建科学的决策支持系统提供支持。
+SN 1671-7570
+CN 42-1611/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LX3NIVFEVdCGPqpXuAuIcv0TdhVEBgKuzJ09JnX6X8tHGWxnibS3Tgt2HUO_xfn6WcODN99xxCR0FojsfGEwh21S9Dff8I1WHDBY5AihFrXNg6LZuDDPVLQMdpZtMVKL5FEvVlrVwoUSqsw_wkRjjGY4DU_Z8vb8tiTnezaqnArAw==&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 廖雪梅
+T1 我市全力提高公共交通效率
+JF 重庆日报
+OP 002
+FD 2007-02-02
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUR8K7M5S3k_ghxffPSU6mnww7oSfdeeLV4yaAwVvtmgIqhLn2o2Huk80EPTXnGLjpIjwnYH-l_HtHRkyom2XporBRf6gUcDfeoneg9EYQauI-Idknw9_7sNWZnRgIeWst9-Q9EkRjyYZxU4-03hILpyxvQ3XR6EoMPA1BtEnjsaU9WRq567NO1&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 王昕
+A3 徐展琦
+PB 西安电子科技大学
+T1 智能交通系统的信息网体系结构及其信息处理和路由算法
+CL 硕士
+YR 2007
+IS 07
+K1 智能交通系统;交通信息网;信息采集;综合选路算法;OPNET仿真
+AB 智能交通系统(ITS, Intelligent Transportation System)是运用先进的信息、通信和控制技术对传统的交通运输系统进行改造,形成的一种智能化、社会化的新型交通系统。智能交通系统主要由五部分组成:先进的交通管理系统(ATMS)、先进的交通信息系统(ATIS)、先进的车辆控制系统(AVCS)、先进的公共交通系统(APTS)和先进的电子收费系统(AETS)。本文主要对智能交通的两个方面进行了研究:一是结合现有无线通信网络技术,提出一种基于主动式交通信息采集和发布、交通控制和诱导相结合的分级智能交通信息网络;在Server/Client模式下,运用Winsock接口和MFC Winsock类编程实现一个Server与多个计算机之间的通信,模拟实现车辆和信息采集设备之间的信息传送;二是依据提出的综合费用函数,设计了一种综合选路算法;该函数结合我国交通实际情况,在现有路阻函数的基础上,综合考虑道路的多种因素;在OPNET环境下评估该综合选路算法的性能,仿真结果验证了综合费用函数中的路段时延和燃油费用两项是密切相关的。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVpaCoKUSdYH-lW_wqJA-TXLxYhY5INxH59N7coBL7AOL9_xNMoHH3YVz-M1HnPNB_acDFEeYxXvcrOhx7iBvYsFS_tCGVJJ8tVSgZ1TyULdGew0sdFWZxey0TZ6uxSN7NZVNsHBoq4mamxoc02ZDAu8DJ9nBUWjMQc7rVz9elM-ZTwenYVWOYl&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO 15628-2007
+T1 道路运输和交通信息通讯业务.专用短程通信(DSRC).DSRC应用层
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2007-02
+ID ISO 15628-2007
+K1 应用层;数据采集;数据交换;定义;信息系统;道路运输;规范(验收);TICS;交通管制系统;运输;交通运输工具;运输信息和控制系统;运输业
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXNsyGJQqIXyncsI-enQ0bVFVMeQFHqfLQR9yx_i5CzrGVOFlgF5_JZIYQlkSBNcy_0QItbktWuS6_BFvC2GXMpJO0I12YFzcelVqh-7Jlek43g8Gtc7ol4Z5MFWBr1clVI7yidU1jV2LyKZg3lKnQx5Oz6R72JcaJq_ZXpoUnoUw==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Other Article
+SR 1
+T1 JYY-JXC-IV型交通信息采集分析系统
+A1 王彤
+AD 丹东电子研究设计院
+FD 2007-01-27
+K1 交通信息;信息采集;分析系统
+AB 该产品是一种全自动的交通量检测仪器,不仅能对过往车辆进行精确的计数,而且还能准确地分出车型,并且实现了客、货分离的目标。该项目采用的是技术成熟的感应式环形线圈和车型模糊特征识别技术,可以大幅度提高车型识别的精度和智能化程度,并且达到了客、货分离的技术水平。该项目产品主要应用于公路管理部门的交通流量观测站及高等级公路收费站,还可应用于城市交通,具有显著的经济效益。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 郭超;冀小平
+AD 太原理工大学信息工程学院,太原理工大学信息工程学院 山西太原,030024,山西太原,030024
+T1 基于DM642交通信息采集系统的硬件实现
+JF 科技情报开发与经济
+YR 2007
+IS 02
+OP 204-205
+K1 DM642;交通信息采集系统;智能交通系统
+AB 从系统核心、存储器、视频接口、以太网接口、音频接口等方面介绍了DM642交通信息采集系统。
+SN 1005-6033
+CN 14-1157/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUcP3jgHqTM9BZadqQAqh24OMVEqO1crRCd8fmUSUyn9GlmTFfDrMfHeT2YkQLmG55RovJHTh072TglmPwPOz0veDczFCvyw5_eGsIugHDhhelBySnmblyf2fTeOFfjrECX-dVNYy8eJbvx7w7KcbSVAXK2uV21cbdnqmcr9xR_8A==&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 视频交通动态信息采集系统
+AD 深圳市哈工大交通电子技术有限公司
+FD 2007-01-01
+K1 视频采集系统;交通动态信息;交通信息采集
+AB 该系统是利用视频技术、计算机技术、现代通信技术等,实现对城市道路交通动态信息的快速采集、可靠传输;将所观测路段的交通数据,如：车流量、车速、车辆类型、车队长度等,及时上传到交通指挥中心;指挥中心迅速采取决策,疏导、管理该路段的交通状况,有效提高道路使用效率,缓解交通拥堵,减少停车、排放所引起的环境污染。该系统的应用将大大提高道路交通管理的信息化水平,对人们出行、物流运输管理、规范交通秩序有重要意义。该系统的技术特点是：视频传感器所获得的交通信息量大、分辨率高、安装容易、安装时不影响交通、不破坏路面,视野广,一个镜头可检测整条马路中50～100米范围内的交通状况,使用寿命长、维护方便、可靠性高。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 郝媛;徐天东;干宏程;孙立军
+AD 同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室 上海200092,上海200092,上海200092,上海200092
+T1 城市快速路交通流特性研究
+JF 交通运输工程与信息学报
+YR 2006
+IS 04
+OP 21-27
+K1 城市快速路;动态特性;横向分布特性;交通流模型
+AB 本文利用我国城市快速路交通信息采集系统的实时交通检测数据,对城市快速路交通流的动态特性进行了分析;对比了多车道交通流量、密度、速度的横向分布差异;最后比选了适用于城市快速路的稳态交通流模型,并标定了模型参数。本文的研究成果将对城市快速路的规划、设计、运营、管理和评价提供科学依据和数据支持。
+SN 1672-4747
+CN 51-1652/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVEaJzMgszf_lnjC9ONCQEYB7gEAQoaQGzUs0-B585iXKpdyRfzN320VfCeolXPMUntT8Xjxtx-WcfJESkK_pQMudVZJBnfo4rs5D9JyB0fU_6SgyfYGBPEb8ovjG4oIHlRfqD3XfoRuJRQFDjx3eSrFDDk5nvVOZ1OqgWeRs-xzw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 余田;刘建伟;曹泉;向怀坤
+AD 哈尔滨工业大学深圳研究生院,哈尔滨工业大学深圳研究生院,哈尔滨工业大学深圳研究生院,哈尔滨工业大学深圳研究生院 深圳518055,深圳518055,深圳518055,深圳518055
+T1 基于单线圈的车速检测算法研究
+JF 交通与计算机
+YR 2006
+IS 06
+OP 68-70+73
+K1 车速检测;环形线圈;交通信息采集;智能交通系统
+AB 简述了基于环形线圈车速检测的基本原理、目前利用单线圈检测量进行车速估计的方法。在此基础上,提出了一种利用单线圈进行车速实时检测的算法,并设计了一套基于单线圈的车速检测系统,通过采集系统在实验中的数据,运用M atlab6.5对该检测算法进行了仿真分析,结果表明,算法基本符合设计要求。
+SN 1000-8837
+CN 42-1114/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXSiCWj81uyTExcXvUgiseVSDlruoEBKG-nrRQgTvxRlBW2gaxUqSfFM5orinTPULlGTGe-e5E5ELuq-ey1l-UOr60-GuaIbjqsrqPyBVJAg_Oxo4BdQYrEoBWbZe9xfHop0Lkli7QzztH0xtLCn_rIzZxSjenwwthS2P7BOwIqGg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 白旭;曾胜男;杜豫川;孙立军
+AD 同济大学道路与交通教育部重点实验室,上海市公路管理处,同济大学道路与交通教育部重点实验室,同济大学道路与交通教育部重点实验室 上海200092,上海200063,上海200092,上海200092
+T1 城市快速路自由流车速研究
+JF 交通与运输(学术版)
+YR 2006
+IS 02
+OP 28-31
+K1 自由流车速;城市快速路;服务水平;正态分布
+AB 本文对快速道路服务水平评价的重要指标——自由流车速进行了深入研究。根据上海市城市快速路交通信息采集系统所积累的大量数据,取在单位时间内通过检测断面的车辆数为1,占有率<3％的情况为近似的车辆自由流行驶状态,分析该状态下断面或车道的车速情况。通过数据统计分析发现:车辆在自由流行驶状态下,速度在检测断面和车道上的分布形式均满足正态分布。利用正态分布的特征值,本文定义了基于实测数据和统计学方法的自由流车速。
+SN 1671-3400
+CN 31-1476/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWiJD1h_lVFw2tj-vuEGysOaudpmGVsQlPkn7nv7G15sFyJo7lnvncF-rLogDG7cq2uPxAeiU1xJpb7nxSgg9ayrbXCJfs8LfadWN0scImGFV1bp8NBYuQUsk6bTvDmIDyk2tomWEQ-po1LG8PBZMuwRC_rY1nWpia_cdi72gf2ZQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 常雄;周旭
+AD 哈尔滨工业大学,中兴软件技术有限公司 黑龙江哈尔滨150001,四川成都610041
+T1 基于GPRS的信息采集系统智能终端的设计
+JF 计算机技术与发展
+YR 2006
+IS 12
+OP 153-155+158
+K1 智能交通;ITS;GPRS;A-GPS;智能终端
+AB 介绍了基于GPRS的无线传输技术在智能交通信息采集系统中进行数据传输的优点和A-GPS技术,分析了信息采集系统的组成结构及其工作原理,并重点介绍了中兴通讯P800智能终端硬件和软件的设计;另外,在对采集来的视频信息进行传输时,为了提高视频效果清晰度,给出了视频图像压缩的数据处理流程。最后,阐述了基于P800智能终端信息采集平台在移动奥运的应用。
+SN 1673-629X
+CN 61-1450/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUD8z1Ik0EY4DE-yfk-qW1htvbeB1j2ZOSjmlOVt-fmEIzGzQ5McaB1LLD4diVoKiewE8UNHCXvofMgDhERlc4oizIjSeTTufjts7QJ3RykHBkJiE7ennzHJ7V9GmHzSWi1Qiq6VhBgoYcL6R8iMsIszlM3bPEOgrctZnxrPy2Xog==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 葛伟民
+AD 上海社会科学院部门经济研究所 博士、研究员、博导
+T1 上海交通领域信息化建设——上海城市管理信息化研究系列之三
+JF 网络与信息
+YR 2006
+IS 12
+OP 5-7
+SN 1008-0252
+CN 21-1380/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUD8z1Ik0EY4DE-yfk-qW1htvbeB1j2ZORbJtG_fKzd5pVgFNb51CGORY57lBfr9ZnnqiSdwfAMGvUovfDD3cD2OdDmWr4cx5pZAoUE6ZB0cRKcDwj40I8gwgWUnXAKGCBul6-HIu0ULPEZ2sjo7azN62ro-WBztoDjBu9v5Ivzjg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 岳晓溪;陈福利;刘力伟
+AD 唐山人民广播电台,唐山人民广播电台,唐山人民广播电台,
+T1 如何构建地市交通广播路况信息采集系统
+JF 中国广播
+YR 2006
+IS 12
+OP 47-48
+AB <正> 路况信息是交通广播的品牌节目,也是交通广播的有效区隔,分信息采集、组织、播出三个流程,三个流程之间相辅相成,其中关键是信息的采集。对地市交通广播来说,如何构建路况信息采集系统是一个迫切需要解决的共性问题。路况信息采集系统受制于地域经济和信息技术发展应用水平,要因地制宜路况信息的采集主要是通过两个渠道:一是依靠城市智能交通管理系统。二是利用现有资源,自行构建路况信息采集系统。前一种,直到目前为止,在国外只有德国、日本等少数发达国家才有成熟的运营模式;在国内,仅有北京等为数不多的几个大城市具备
+SN 1004-9061
+CN 11-3074/G2
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWX_2ihKy0zdD9z1OSw1FbVGUjIQV6aFmygUXmdYt0sT0mZAoWouw8PaZHh4HvSpm93t2Y5AvUv-hSFCT_eGk_knFXZzt3zy2yzGTr4V88M8XEymBX-VCbJodajKYAOMggS8Ei0QZkSRYqPugZnA2A821ceUJH2d8Jo8kL-rk4knQ==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 张存保;杨晓光
+AD 同济大学道路与交通工程教育部重点实验室;同济大学道路与交通工程教育部重点实验室;
+T1 基于浮动车的道路交通信息采集系统研究
+JF 第二届中国智能交通年会论文集
+PB 科学技术部全国智能运输系统协调指导小组办公室
+PP 中国北京
+YR 2006
+OP 116-120
+K1 交通工程;浮动车;智能交通系统;ITS
+AB 随着 GPS、GIS 和无线通信技术的广泛应用,利用安装 GPS 设备的浮动车实时采集交通数据,已成为一种新兴的交通信息采集方式。论文介绍了基于浮动车的动态交通信息采集系统的组成、数据处理方法等,重点阐述了实时交通参数如平均速度、行程时间、OD 矩阵等的估计方法,并利用 VISSIM 仿真软件进行了验证。结果表明,本文中的交通参数估计模型具有较高的精度。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVmwTAwgo9Bzq_9hlYFwms2gSw7_L0zXdzs6xAINy2MMRAZWm1ww1JLDbHXIii4rRkQNF1G4Xv6jk2bUV78VBHYlMNvg8wtUDlMVVYp4l1Vb68D5RJCVlGgXafAFGM2tMtRJOLD5N8RTrS-37Waggy0DrRCrOdiiOJiBq8tMor8MQrCDA7bostB&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 倪维健;康叶伟;赵海山;黄亚楼
+AD 南开大学软件学院,南开大学信息技术科学学院,南开大学信息技术科学学院,南开大学软件学院 天津300071,天津300071,天津300071,天津300071
+T1 一种智能交通信息采集系统的设计与实现
+JF 计算机应用研究
+YR 2006
+IS 12
+OP 271-274
+K1 智能交通系统;串行通信;传感器;通信协议
+AB 介绍了一种智能交通信息采集系统的设计方案,对数据的检测和传输分别建立了数学模型;在此基础上,从交通信息的采集、传输和实时预处理三个方面介绍了本系统的设计和实现。经测试,该系统工作性能良好,适合进一步推广。
+SN 1001-3695
+CN 51-1196/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LV0GKI96yJ0TKXaA-tQUK3Hl7DAV5veBHNMdxNVBd1MdYDkd7AB8YnZDdTMQpnv_MUXVcDvCDZlaUwtywrX2FhEZErT5xxfEGY3W1SjK8qdPu5ttqz5sbgSJsuPGyovD3HNOpbqvRIvwcHVoLLjcw2VANR9XhLpF0sygJkQmiFDlw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 秦玲;朱玥季;王春燕
+AD 交通部公路科学研究院,交通部公路科学研究院,交通部公路科学研究院 北京100088,北京100088,北京100088
+T1 动态交通信息采集与处理系统设备开发及关键技术研究
+JF 公路交通科技
+YR 2006
+IS 11
+OP 38+42-43
+K1 动态交通信息采集;浮动车;数据融合;微波交通检测器
+AB 文章描述了动态交通信息采集与处理系统设备开发与关键技术研究项目实施的背景和意义,概括了该项目的主要研究内容,介绍了创新性的研究成果,并简要说明了后续要开展的一些研究工作。
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVIagE5zW6mIdebUSucNBZS-djk8U0wJFOD5SikzitTjT-SxU3CJt3rvJmcFnGH232N_LOO-RMVTnAtehCuSnr67verXS9mbyuxULNgByA-vF6gWwa-d-Oo9IJBWYPgKI7qoanQT_H4HudjczHzsRSvr7AJhTEzSL9g8uaM2dLdbw==&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 DIN ISO/TS 17261 Berichtigung 1-2006
+T1 智能运输系统.自动车辆和设备识别.联运货物运输体系和术语(ISO/TS 17261:2005)
+PB 德国标准化学会
+FD 2006-11
+ID DIN ISO/TS 17261 Berichtigung 1-2006
+K1 建筑设计;自动;传播方式;合作;数据采集;数据代码;数据编码;数据交换;数据介质;数据传输;定义;编码;英语;货物运输;货物交通;识别;信息交换;信息技术;界面;作标记;物料装卸;实体分配管理;程序描写;程序陈述;无线电频率识别;无线电通信;RFID;道路托运;道路运输;安全;规范(验收);系统建筑学;远程信息管理;远程处理;术语;交通业务;传输协议;运载工具
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUTdywcNdCsBSrDe0ooWu1qptsvOsGOe55F07k8M0VaUx9h70o7U2CPW_n6SzbMoUwswe0QYtCzux8LiAA0mq5r9rId7jj0sh9rI53YfArzVpJzM4bOadBZGuXppe_uNOdKqZ_vYLJNG7rOlG9XW6-C-WVub2yQJqq76_JAplEOKg==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Other Article
+SR 1
+T1 深圳市智能交通系统(ITS)试点实施工程之交通信息采集及共用
+A1 曾令艳
+AD 深圳市交通科学技术研究所
+FD 2006-10-31
+K1 深圳市;智能交通系统;试点;交通信息采集
+AB 共用信息平台完成各类原始交通数据的收集,实现交通基础数据的标准化清洗加工、多源数据融合、分类管理,同时提供分类数据共享发布服务,为包括交通监控、诱导、分析决策在内的各类高级应用,以及部门、系统间的协调运作提供强大的基础数据支撑。在建设过程中,实现了数据接入、融合加工、分类存储、数据发布、查询统计、运行保障等基本功能,创新性地创建了以交通单元为基础的路网数据管理机制,基于信息分类管理理念,并结合现有可收集信息范围,构建了以交通检测数据、交通事件数据、停车诱导数据为主的基本信息分类结构等。该共用信息平台运用了现今最成熟的数据库技术、软件开发技术、通信技术,功能齐全、布局合理,并采用可灵活拆卸的组件式软件结构,保障了共用信息平台的适应性和可扩展性。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 深圳市智能交通系统(ITS)试点实施工程之交通信息采集及共用
+A1 曾令艳
+AD 深圳市交通科学技术研究所
+FD 2006-10-31
+K1 智能交通系统;信息采集;信息分类管理;分类数据;共享发布
+AB 该研究搭建了一个实用的具有可扩展能力的共用信息平台框架,实现了数据接入、融合加工、分类存储、数据发布、查询统计、运行保障等基本功能;创新性地创建了以交通单元为基础的路网数据管理机制;基于信息分类管理理念,并结合现有可收集信息范围,构建了以交通检测数据、交通事件数据、停车诱导数据为主的基本信息分类结构,完成了现有ITS系统的交通数据接入、标准化清洗加工、数据融合;对外,向干线诱导系统实现了以交通事件为主的实时数据发布服务;实现了可灵活定制的检测数据、事件数据等分类数据的查询统计,为交通管理者、交通决策者提供了基础统计分析报表;同时,针对共用信息平台的自身进程及数据库表空间等对象,实现了状态监控、故障报警等功能;共用信息平台运用了现今最成熟的数据库技术、软件开发技术、通信技术,功能齐全、布局合理,并采用可灵活拆卸的组件式软件结构,保障了共用信息平台的适应性和可扩展性。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 张存保;杨晓光;严新平
+AD 同济大学,同济大学,武汉理工大学 上海200092,武汉理工大学武汉430063,上海200092,武汉430063
+T1 基于浮动车的交通信息采集系统研究
+JF 交通与计算机
+YR 2006
+IS 05
+OP 31-34
+K1 交通工程;信息采集;浮动车;智能交通系统
+AB 阐述了基于浮动车数据的实时交通参数如平均速度、行程时间、OD矩阵等的估计方法,并利用V iss im仿真软件进行了验证。实验结果表明,笔者提出的交通参数估计方法具有较高的精度。
+SN 1000-8837
+CN 42-1114/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU4-TjoPtvzf6SdZh0dAr5J5XOFAf1o6a7uVjD0cDZCi-QQsZs7VeYdPEMSIadz5UQdIl3mE-DqbGYIfixX92fEs-wnQh2T3vpZTC_EiFvxW4mSEVCvKypA8cTdVwOCwgf4dXGP9HafnIbkVKb_ldir2iFhYseP7yALriUZ7XjtnA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+T1 计算技术与计算机及网络设备其它计算机与系统
+JF 电子科技文摘
+YR 2006
+IS 10
+OP 159-160
+SN 1009-0851
+CN 11-4388/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXwx4vq-NWY5h3Ucu3hqT_5xNmVifLg2XfbL2MEm66Oz7AEu71OaUjlIVSns8pL8TYmaiFndFmeijRFn_hXIKIYEP_66O7QVH-VtQ9RNuKARHVA82PGR3SiYZbHB1gDQSlNmCg3TvNYn3FhWuHCiB2JQDlnrzo29-hHj51un5q5-Q==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 崔中发;李淞;刘其峰
+AD 上海宝信软件股份有限公司,上海宝信软件股份有限公司,上海宝信软件股份有限公司 上海 201203,上海 201203,上海 201203
+T1 全方位的实时交通信息服务系统
+JF 宝钢技术
+YR 2006
+IS 05
+OP 25-27+42
+K1 数据采集;信息融合;实时发布
+AB 随着城市化进展不断加快,汽车普及率持续提高,城市道路交通的矛盾也日益加剧。由于城市可供修建道路的空间有限,因此仅靠加大基础交通设施的投入已不能缓解日益严重的交通问题。利用信息技术,向公众提供实时的交通信息,供出行者参考以选择合适的出行线路,从而提高路网的通行能力,成为缓解交通拥堵的一个重要手段。介绍的实时交通信息服务系统,通过采集实时的交通信息,融合处理后向公众发布,将有效地提高路网的通行能力。
+SN 1008-0716
+CN 31-1499/TF
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUHlQ24lI1FUEI3UmC9SIPg6kV6cqerftdv85IOrZR1bEP-51ITQFpIYEGGesouwTU7tdUHJrGBkraXE_okHZnDVpKRcnrV5vt5M1VJ2K1Itr98T7AoapXe0sQlG3TQBgQLhRwRy30zdpIO9KCuAFCEvofA0HnQ06Mo1KLFDupezw==&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 孙巍峰
+AD 计世资讯;
+T1 智能交通能否缓解交通拥堵？
+JF 计算机世界
+OP A34
+FD 2006-10-16
+PB 计算机世界
+LA 中文;
+CN 11-0132
+DS CNKI
+LK https://link.cnki.net/doi/10.28470/n.cnki.njsjw.2006.003838
+DO 10.28470/n.cnki.njsjw.2006.003838
+
+RT Journal Article
+SR 1
+A1 曾顺民
+AD 上海国际机场股份有限公司,
+T1 浅谈道路交通事故信息采集及再现分析系统
+JF 上海汽车
+YR 2006
+IS 10
+OP 41-43
+K1 道路交通;事故;分析
+AB 对道路交通事故信息进行实时采集和分析,研究交通事故的人—车—环境的特性、交通事故的发生规律与影响因素,对预防和减少事故伤害具有十分重要的现实意义。文章主要介绍的是同济大学在上海嘉定区建立的道路交通事故信息采集系统尝试,及事故再现分析的主要工作流程。
+SN 1007-4554
+CN 31-1684/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXzIbHOWgUUi7Oa6vWBbev_Ys1xGZ58N0-ldk2nmlUwp0kVJHEIl9kpesJ6nhWUFU1cG4JIRqUu8-FGzuCY6BzZIWF1gVooEB0UF7V7fAB4k-O9HLDFAnhJxP9Wx0vtIApW6O4le6pZgkyR2vXD_7XdIYSJw3JFw1BN0dZqYg-OBQ==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 李昊
+A3 罗霞
+PB 西南交通大学
+T1 中心城市公众出行交通动态信息采集、处理及共享技术研究
+CL 博士
+YR 2007
+IS 04
+K1 公众出行交通信息服务;信息采集;数据处理;浮动车信息采集技术;面向服务架构技术
+AB 随着世界各国对智能交通系统认识的不断深入，关于先进的交通信息服务系统(ATIS，Advanced Transportation Information Service)的研究也越来越被人们所重视。研究的热点正逐步从理论和技术转向实际应用，各种ATIS系统的建设也逐渐开展起来。ATIS是ITS(智能交通系统)的核心部分，它建立在完善的信息网络基础之上，通过对各类信息加以处理后，向社会提供实时的道路交通信息、公共交通信息、换乘信息、交通气象信息、停车场信息以及与出行相关的其他信息，出行者可根据这些信息确定自己的出行方式和选择路线。公众出行交通信息服务作为ATIS的一个重要组成部分，主要由三个部分组成：信息采集、数据处理和信息发布，而信息采集是实现公众出行交通信息服务的前提条件。实现先进的公众出行交通信息服务的前提是能够实时、准确地识别道路交通运行状态，这就需要获得实时、充分、准确的道路网络的动态交通流信息。出行大众不仅仅满足于对单一的静态交通信息的获取，而是要求在出行前能够获得“点到点”式的交通决策信息、出行中“随机应变”的动态交通信息、出行后“行之有效”的交通反馈信息，而现有的交通动态信息采集存在着设备单一，基本上是通过一些固定的信息采集设备和人工方式获得的，采集到的信息孤立单一，没有很好的整合起来，覆盖面率低；而基于浮动车的交通信息采集技术作为目前国内外研究的重点，是对现有的动态交通信息采集技术的一种有效补充和完善。实现先进的公众出行交通信息服务除了需要实时动态交通信息之外，还必须实现从各交通信息化子系统中集成共享相关的出行服务信息。现有的各交通信息化子系统由于是在不同的时间、针对不同的业务需要而开发的，因而可能采用了不同的开发工具、编程语言、不同的操作系统平台、软件架构和通信协议以及不同的数据库平台等。由于一个业务请求很难在不同开发平台实现的子系统间实现有效的调用，由此产生了大量的信息孤岛，并将有用的数据信息封闭在了一个个子系统当中。在此背景下，基于面向服务的架构(SOA：service-oriented Architecture)应运而生，它通过把子系统能够实现的功能划分为粒度不同的服务，子系统之间的功能调用转换为对服务的调用来实现信息共享。本文正是从成都公众出行动态交通信息采集技术、信息共享技术、数据处理及信息发布的关键技术和系统实现的角度来进行研究与探讨的。本文的主要研究工作和创新性成果包括：(1)在对浮动车信息采集技术和基本原理、优缺点和组成结构等进行详细阐述的基础上，提出了浮动车数据采集地图匹配算法及路段行程时间算法，并通过具体实例验证了算法的可行性和优越性，较好地解决了基于浮动车技术实现动态交通信息采集和处理的问题。(2)针对浮动车信息采集技术在实际应用中存在的可靠性不高的问题，首次设计并提出了最小浮动车样本数量确定方法和“道路覆盖率与更新周期的关系模型”，并通过具体实例验证了方法与模型的实用性和有效性。(3)深入研究了成都市公众出行交通综合服务系统的信息来源，针对系统的异构性和信息共享实际需求，首次提出了基于SOA技术的“基于局部中心库与Web服务相结合的体系架构模型”和异构交通信息系统共享技术方案。成都市公众出行信息系统开发实践表明，该技术方案较好地解决了不同系统之间数据共享和应用互操作难题，同时，与其他技术方案相比，基于SOA的技术架构具有系统耦合度低、扩展性好、与平台和开发语言无关等诸多优点，是解决异构信息系统集成的理想选择。(4)通过对成都公众出行系统中交通出行数据处理和信息发布的关键技术研究，首次提出“基于蚁群和专家系统的多模式行程规划算法”以及“推／拉两种交通信息服务模式”，并首次提出了“基于神经网络和专家系统的智能化拉式服务模型”。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW2-rVq8SlSZPTjeJso63mhDxegGP_pZg1gSI0VOV_iDVq4fAIZytwpbAeDNRVNqD6KtHQExZtx-_gvTCiRdfmbHS1qGRQsJ5HOgy3Zm8iRI5gAmENbbP65yjqIra0Q2dK2WEU5yMnozq0CQa6qt2hsey8EbNxK5ZeinQBdjobN3cLbwZbH7kUe&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 肖维;徐任婷;陆林军
+AD 三江学院土木工程学院,东南大学交通学院,东南大学交通学院 南京210012,南京210096,南京210096
+T1 基于RFID的智能化城市公共交通系统——信息采集与发布系统
+JF 道路交通与安全
+YR 2006
+IS 09
+OP 25-28
+K1 智能运输系统;城市公共交通;无线射频识别技术(RFID);电子站牌
+AB 我国城市智能化公共交通发展迅猛,将无线射频识别技术(RFID)引入城市公交系统有着重要意义。首先说明了RFID的基本原理和国外应用实例,其次阐述了基于RFID的智能化城市公共交通系统的框架,并对其信息流进行了设计,最后简要介绍了RFID用于南京市智能运输系统示范工程的具体设计。
+SN 1008-2522
+CN 11-3911/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LV4abL60U1MjWC6h16hkDR3_FatR41vetjxuggLXuEoXhDMbSX1x1rna7OCU3eOZPPzg0v9prfk5vRwdXPNCyn7EuWK5xwN6Y3Tk2icZ-Jd7jIvm985sKAQFmFHu_QjseiqmJpQharu77S58rWeNCnkKr5K3p0DK2l70tWmGQ8bOQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+T1 综合信息
+JF 交通建设与管理
+YR 2006
+IS 09
+OP 91-96
+AB <正>全国沿海港口统一布局2010年前,沿海港口的建设主要围绕煤炭、原油、铁矿石、集装箱四个运输系统进行。招商证券的港口业分析师文斌认为,《全国沿海港口布局规划》的出台显然是为了解决目前港口项目重复建设、区域定位分工趋同、市场运力过剩、互相杀价等问题,对目前的港口重复投资和重复建设将起到明显的限制和制约作用。近年来,随着国家港口管理权限的下放,沿海港口建设规模骤然升级,一些地方的港口设施档次远远超出了区域规划和定位。另外,不断攀比升高的港口建设热如今已成为新形势下地区间显示“诸侯经济”实力、“掰手腕”比拼政绩的另一种方式。各大沿海城市纷纷提出
+SN 1673-8098
+CN 11-5564/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU0V-yC3KZi3kkY95ybDAiHWdDvC5izqL51_fvUa6LQDNEjn0U6qjbGrfGsfACbFfDXHuqUQ6rD1eJ4NkoaYE5fIGANpSDXXEIh15uOAmkv-byetITbEi7kpxol200lpYZgo4YweGzYKYH1ZDVwC0DPueP3yqyLnKSUkrjyy3s6dQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 寿仕敏
+T1 信息平台引领交通信息化
+JF 中国交通信息产业
+YR 2006
+IS 09
+OP 27-29
+AB 交通信息平台的建成和成功运行．不仅实现了上海市道路交通信息采集,发布从无到有的一次跨越．也是全面实施道路交通信息资源建设的一次尝试．同时还带来了巨大的经济效益和良好的社会效益。不仅为我国其他一些大型城市解决交通拥堵问题提供了很好的思路,同时对提高高速公路路网运行管理的能力有着借鉴作用。
+SN 1672-3333
+CN 11-5033/F
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13439/j.cnki.itsc.2006.09.005
+﻿
+DO 10.13439/j.cnki.itsc.2006.09.005
+﻿
+
+RT Other Article
+SR 1
+T1 Road-TICS公路交通信息采集管理系统
+A1 杨新洲
+AD 中交远洲交通科技有限公司
+FD 2006-09-23
+K1 公路交通;交通信息采集;信息管理系统
+AB “Road-TICS公路交通信息采集管理系统”是由现场测控单元、数据无线传输网关和中心计算机处理系统组成的车流量自动检测系统,其总体设计合理、方法科学、技术可行,并有效提高了交调数据的有效性和准确性。该系统主要用于高速、国道、省道交通信息的实时采集和管理,方便了公路规划、建设、管理部门制定公路交通评价、决策方案。经用户使用,系统运行稳定、可靠,居国内领先水平。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 王伟;李志鹏;刘允才
+AD 上海交通大学图像处理与模式识别研究所,上海交通大学图像处理与模式识别研究所,上海交通大学图像处理与模式识别研究所,
+T1 交通信息实时视频检测系统的实现
+JF 微型电脑应用
+YR 2006
+IS 09
+OP 25-28+5
+K1 视频检测数字信号处理器虚拟环模糊判断
+AB 本文介绍了交通信息实时视频检测系统的实现方式,并从硬件设计和软件算法两个方面提出了为满足视频检测的实时性和准确性所采用的方法,即在硬件设计上采用以德州仪器公司的TMS320DM642(DSP)芯片为核心的视频检测系统未完成复杂的视频检测算法以满足实时性要求,在软件算法上采用虚拟环检测和模糊判断来提高视频检测的准确性,从而使得整个系统满足了交通信息实时视频检测系统的需要。
+SN 1007-757X
+CN 31-1634/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXGVTr2v6ADrMHVuhohQJwWv7SifILso0XyzPBBjOkP63uYnb6y9ZbNqOLi174fUSUjCyLkvsx9AU_fORvWBB38CFoS-sJ6lGCFHuDYq5cNfRRMVefgcj9B3ZMBUydhi-h5w5hadVhrJOSdvkurUn3k6rG1KvH-8xMD_lCZvxq_yA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 杨楠;王媛;管青;陆娟
+AD 吉林大学机械科学与工程学院,吉林大学ITS研究与开发中心,吉林大学ITS研究与开发中心,吉林大学ITS研究与开发中心 吉林长春130022,吉林长春130022,吉林长春130022,吉林长春130022
+T1 车载路径与导航系统实例研究
+JF 公路交通科技
+YR 2006
+IS 08
+OP 130-135
+K1 车载信息系统;车载路径与导航系统;行程时间预测;诱导方式
+AB 提出了车载路径与导航系统的框架,给出了该系统在长春试验的详细报告。在本次试验中,课题组验证了该系统的几个关键部分的可用性,如行程时间预测,最优路径规划和引导,GPS/DR/MM组合定位和诱导方式等。试验结果是有益的效果与问题并存。最后,分析了这些问题的原因与解决方法以及车载路径与导航系统在中国的发展前景。
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXLHKgXq0cT9eDTbxEsSdA0v9yfG2S6bGZ-EWdOVUQpvQOd8Uil81uoYaWnNViu88WpQSR0bndO4jyBq9gz1V7vE5AYaXdX5Kgzun59SX9tHiHQEZ3g2VdIeVA1kRvy0P1BThBoEckTsnXx_mmvTjbxeVn4st2b6H_wkb3Sj1Cunw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 杨志清;齐莹菲;柳本民;郭忠印
+AD 同济大学,同济大学,同济大学,同济大学 上海200092,上海200092,上海200092,上海200092
+T1 服务于道路安全管理的信息技术研究
+JF 交通与计算机
+YR 2006
+IS 04
+OP 48-52
+K1 信息采集技术;信息发布技术;道路安全;高速公路信息系统
+AB 从道路安全管理出发,介绍了多种信息技术。针对不同的信息采集对象,从气象、交通和紧急事件3个方面介绍了相应的信息采集技术;针对不同的信息发布需求,介绍了目前各种先进的信息发布技术。对各种信息技术的优缺点进行了评价和比较,探讨了信息技术的研究现状和发展趋势。
+SN 1000-8837
+CN 42-1114/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUD-iTra72SaRRTHonm1gPL7N9jALSKkXRuDVLW2z_rCh7chBCvMGdL21_zVjnu2zLJeYTQUAcKvYWgJE_JLUBBIeXM5yqxrRFtidqal5mq-yy-W2-M6mr18IQMOFPyZ1Xhjkc4X3sWk07xAHe6TzQuntjem_72H_aY_cKz3BjJ_g==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 储浩;吴志周;杨晓光
+AD 同济大学交通工程系,同济大学交通工程系,同济大学交通工程系 上海200092,上海200092,上海200092
+T1 基于城市公交探测车数据的分析和处理方法
+JF 系统工程
+YR 2006
+IS 08
+OP 113-118
+K1 公交探测车;GPS数据分析和处理;智能公交系统;交通信息采集
+AB 将智能公交系统的智能车辆作为交通移动采集的一种方式,详细分析了智能公交系统的数据流程及公交车作为交通探测车的可行性,随后本文根据公交探测车GPS数据的时域图和“时间-距离”图分析了公交车的运行状态,并详细推导了基于公交探测车数据的行程时间估计算法。
+SN 1001-4098
+CN 43-1115/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU4Tfl4usIeBVTe3B_04GkA9yAA5vvXnkTCWuIvBzhnKoUwV4HTn4Z4hciyc12RPDfKlF-Ys6K-Sm0vuw3Tv1caaxhA1T57B_O93Eysqp6PmTUdcGgtU-Yzga8mOPIIEvlHt63UiBnYmwTwtmq9W6hNs_ARDNHKhjrT1B7eBz_M7Q==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 白旭;姬杨蓓蓓;杜豫川;孙立军
+AD 同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室 上海200092,上海200092,上海200092,上海200092
+T1 2005年上海市中心区高架道路运行状况评价
+JF 中国市政工程
+YR 2006
+IS 04
+OP 4-6+10+104
+K1 高架路网;运行状况;评价
+AB 分析了2005年上海市内环以内高架路网的交通数据,从服务水平、主线流量、平均运行车速和流量、拥挤的空间分布等方面对上海市内环以内高架路网的运行情况进行了初步评价。可看出中心区高架道路在工作日服务水平已处于全面拥挤的临界状态,特别是南北高架,全面拥挤,尤其上午8:00￣10:00和下午2:00￣6:00形成明显的最差时段。从周变分析,周五为拐点,服务水平最差。
+SN 1004-4655
+CN 31-1523/TU
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVTI-fY5bb51CrL-6gAUgP2BpafkVt4gOlPlKoKjicGbtchGXFfWLBmvX2m6Zo-173NT35yPT1iMQDIWL0Q8liVlbR1XWtTVkn_83Z718h9jpJyXyPTaCRjut5TfFpwiiDidmf6aHqMjQmWAoKhytR-isk8x-t_m7Y57SvK7JqUig==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 周永华
+AD 北京交通大学电子信息工程学院 北京100044
+T1 移动交通信息服务系统的体系结构与关键技术
+JF 计算机工程
+YR 2006
+IS 16
+OP 280-282
+K1 移动信息服务;智能交通系统;设计;关键技术
+AB 阐述了移动交通信息服务系统的功能目标,设计了系统结构,提出了基于移动网络、移动定位、交通地理信息系统、交通流数据采集与处理、基于XML的交通地理信息组织与应用、网格计算、流媒体服务等关键技术的解决方案。提出了基于预测控制的车辆导航技术,并以此为例,分析了所设计系统及关键技术的应用。
+SN 1000-3428
+CN 31-1289/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW8XzzgNo2Kjru2IySt8Zese_heG2rSSy2RakFGAe382Wh41zAr-ei6OCrovm27S0E2rIHeqYpMjxHKOO5gGHnZimKOIfTMccyBi8L1n2sSAzILstOrUZTeDecbNm7jPXWmiM9Ey3C5GTpQubJzlH61XG3ua05PgWPtdj7UjwGDSQ==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 南振岐;范亚君
+AD 兰州南特数码科技股份有限公司;兰州南特数码科技股份有限公司;
+T1 GIS技术在城市交通应用系统中的技术准备
+JF 第四届海峡两岸GIS发展研讨会暨中国GIS协会第十届年会论文集
+PB 中国地理信息系统协会、云南省政府信息化领导小组办公室、云南省测绘局
+PP 中国云南
+YR 2006
+OP 572-579
+K1 GIS;城市交通;技术准备
+AB 本文对GIS在城市交通应用系统中的技术准备作了系统描述。文中分析了GIS技术应用的特点及结合的方法,着重阐述了城市交通应用系统中设计原则与用户需求特点。将GIS作为城市交通应用平台软件核心部分,为整合各种系统信息资源,实现部门间信息共享,为各相关部门制定交通运输组织与控制方案和科学决策提供依据,并为公众提供实时交通信息发布的平台系统。功能的重点围绕着整个系统的数据采集、数据管理、数据处理、数据发布、数据维护几个主要功能。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWZGVfD6j27-wRbAMbEgCgQH5VGMmlBx0XCNVBh1sJ5JUTuqTg-wVHmxHTtX3IAs-XKZbMrWir2OiuesGYoYjY02XYQcZ2q0i8C3UCATRTctIcWKc7NmTDxr6AZXbPQ3Hdn1BL_8l4V_KVpXc5ScqmwThteQFj09KXxN8pQV_XbP0GC7Z2xi41y&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 BS PD/ISO TR 24532-2006
+T1 智能运输系统.系统建筑学、分类学和术语学.在ITS标准、数据注册和数据字典中用公用对象请求代理调度程序体系结构(CORBA)
+A1 BSI
+PB 英国标准学会
+FD 2006-07-31
+ID BS PD/ISO TR 24532-2006
+K1 数据采集;数据交换;定义;词典;电子系统;延伸制作语言;识别;情报系统;信息技术;智能网络;注册;道路运输;信号系统;规范(验收);系统建筑学;分类学;交通控制系统;运输;交通设备(结构性作业);交通信息和控制系统
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXDa0_-hm1c0SfKXj1w92JDNxigS6NtJwL8A5pvSzPCEKoOu-3HfVBXe72eZw3bnAi3EViNsS0f9dU-qkSykYrVI0fUX0f3lBaKCop0_lj7dmL_K3c9PKR4I65D7j7QNMxvKLg83icjTpsKmRq-0NWHNthmu0Zw5-u_3dQp_-B9Ag==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 蔡宗荣
+AD 广东交通电讯有限公司 广州510111
+T1 交通流诱导信息的生成及实现
+JF 科技经济市场
+YR 2006
+IS 07
+OP 52-53
+K1 交通流诱导;信息采集;结构框架
+AB 本文在总结和借鉴国内外交通流诱导系统研究的基础上,概述了交通流理论的现状与发展。简述交通流信息的采集技术和诱导系统的结构框架。
+SN 1009-3788
+CN 36-1122/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LULYU_KnDzO5zm3riTp3O1kzO1G5jxB6FTRARJ4rhYivCjpwWPFzAUEO30w8K3cv1dkOevrX0HpuNopVvuuBjedvvnsz31-YaPNLSgL7xFgWzrCKouqe2Za764FdtA3xBeCUQ2s9UcETY0C2lIOHM2I-v1rTtHmJUCXiVsEyS5_AA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 彭振中;甄兆聪
+AD 广州市城市规划勘测设计研究院,广州市城市规划勘测设计研究院 广东广州 510060,广东广州 510060
+T1 移动测量系统在交通地理信息系统建设中的应用
+JF 科技资讯
+YR 2006
+IS 21
+OP 176-177
+K1 移动测量;交通地理信息系统;数据采集处理
+AB 移动测量系统是目前测绘科技发展的前沿课题之一,本文阐述了移动测量系统数据采集的原理和数据处理方法,并结合交通地理信息系统功能设计对数据信息的要求,介绍了移动测量系统在交通地理信息系统建设中应用。
+SN 1672-3791
+CN 11-5042/N
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16661/j.cnki.1672-3791.2006.21.169
+DO 10.16661/j.cnki.1672-3791.2006.21.169
+
+RT Journal Article
+SR 1
+A1 李伟;宋靖雁
+AD 清华大学自动化系系统工程研究所,清华大学自动化系系统工程研究所 北京100084,北京100084
+T1 基于无线定位技术的交通信息获取方法研究
+JF 计算机应用研究
+YR 2006
+IS 07
+OP 80-82
+K1 智能交通系统;交通信息采集;无线定位技术;移动检测技术
+AB 在分析基于无线定位技术的位置跟踪研究的基础上,提出了一种基于无线定位技术的交通信息获取的新方法,阐述了该方法的主要思想,并给出了该方法的结构框架。该方法能以较低的经济代价实现大范围交通信息的获取,是一种有效的交通信息获取方法。
+SN 1001-3695
+CN 51-1196/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWl-4IyC2zXOaKooAAVrunx4iKz6tcFZDBFbFrSlNExfDCwhBkSV94x5w5Ncs_xzd24BMTQCbmihDaBx8rRgb7Xv4iCK66pKhmtfQ59Fks0F1QkHzEfDwxTzf15x8PZLDnZXmIZhO8PGqseL8QfbzDX7y55tim-CQVxCJluSeDDGA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 张百辉
+AD 上海路网智能交通技术研究所,
+T1 协议族在智能交通系统中的应用
+JF 上海公路
+YR 2006
+IS 02
+OP 67-70+8
+K1 协议族;智能交通
+AB 信息交换是智能交通中必不可少的部分,信息交换离不开通信协议。随着智能交通系统的发展,信息交换的范围不断扩展,复杂度不断提高,对通信协议的专业化应用以及通信协议的需求也不断提高。协议族是灵活应用已有通信协议,并解决通信协议标准化的合理方法之一,NTCIP是协议族在智能交通中应用的典型例子。本文以NTCIP为例,分析了协议族在智能交通应用的优点,并讨论了协议族在原始交通数据采集中的应用。
+SN 1007-0109
+CN 31-1712/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWFF4ud_tTiiK5wANDmeHJPkNSNovPWAz1JEdM89cKxzJTbwFjyenl5CQakBO_2rl75xt3pJI7K7Br_l9CAdo5xjC7x59rI74RGiASl0Ey8d7TNStObr3mlaMVdADyIMjJF5DAB0tmz_EkWKyArtcOlTABEFWw2pWFZEabKcrWU-g==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 何晓林;季常煦;梁谦
+AD 北京交通大学交通运输学院,北京交通大学交通运输学院,北京交通大学交通运输学院 北京100044,北京100044,北京100044
+T1 综合交通信息服务系统结构分析
+JF 公路交通科技
+YR 2006
+IS 06
+OP 148-150
+K1 综合交通信息系统;ITS
+AB 综合交通信息服务系统是智能运输系统IT重要的一部分,主要提供公路铁路航空出行的相关信息。建立综合交通信息服务系统的目的就是要通过全方位的信息采集、可靠的信息传输、高效的信息处理、获取方便的信息发布,为出行者及潜在出行者及时、准确、可靠、方便、全面、实用地提供出行的相关信息。文章研究了综合交通信息系统的信息需求,提出了总体结构框架。
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUCBtGYU_L-YZP19YpG1zMWkjmcHyAhtMdm4SdXLTeZ3P_A7PpbEBSFz1mGV5HuGjZukSuQsxOh6kXELIAAY5kN1LGK9BHwPgDPdcOil67sZSzSmMeOnAaJqUb--o175rVtrLY1D0Bz1RGe6sn5OA7PGurkvLBZtpjVFjPWsEkU5Q==&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO/TR 24532-2006
+T1 智能运输系统.系统建筑学、分类学和术语学.在ITS标准、数据登记和数据字典中使用CORBA(公用对象请求代理调度程序体系结构)
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2006-06
+ID ISO/TR 24532-2006
+K1 数据采集;数据交换;定义;词典;电子系统;可扩展标示语言;识别;情报系统;信息技术;智能网络;注册;道路运输;信号系统;规范(验收);系统建筑学;分类学;交通控制系统;运输;运输工具(建筑工作);运输信息和控制系统;XML
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWQg8Z_fBSr1_he5tyZrk9ef01UhhJEXj77EIoTYRjxJvOq67ruZ1mUkvCjSJ33GMHE7uzKrSnetsW2byG_cIVD_1nuxZxeUkxVT_Z1aGvN6YYUdOaqwGK2JWJbUJtUHo9Rph61EZ7oJvLNDyln8i-Ul8VhJXhYqpTQLujuYqKPJw==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 赵祥模;李娜;王国强;关可
+AD 长安大学信息工程学院,长安大学信息工程学院,长安大学信息工程学院,长安大学信息工程学院 陕西西安710064,陕西西安710064,陕西西安710064,陕西西安710064
+T1 基于GPS的公路视频影像信息系统
+JF 中国公路学报
+YR 2006
+IS 03
+OP 87-91+105
+K1 交通工程;信息系统;全球定位系统;公路视频影像;视频采集;视频压缩
+AB 为了提高公路路况管理及路产管理的效率,开发了基于全球定位系统(GPS)的公路视频影像信息系统。通过视频影像的实时采集压缩和GPS定位,系统可实现基于里程和道路设施的多种视频影像搜索和定位功能,同时可根据电子地图快速定位到相应的视频图像帧。在论述了系统的体系结构后,推导了利用GPS坐标推算里程的算法,该算法通过录入关键帧对应的里程,内插出每帧的里程数,并对其进行修正。实践证明:该算法可有效地控制图像帧的里程误差,该系统可有效用于公路路况管理和公路路产管理。
+SN 1001-7372
+CN 61-1313/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.19721/j.cnki.1001-7372.2006.03.016
+DO 10.19721/j.cnki.1001-7372.2006.03.016
+
+RT Journal Article
+SR 1
+A1 南金瑞;王军;马慧杰
+AD 北京理工大学机械与车辆工程学院,北京理工大学机械与车辆工程学院,北京理工大学机械与车辆工程学院 北京100081,北京100081,北京100081
+T1 基于Internet的网络化交通信息采集系统
+JF 计算机工程与设计
+YR 2006
+IS 10
+OP 1718-1721+1796
+K1 可变信息标志;交通信息;实验室虚拟仪器工作平台;大型电子显示器;数据采集
+AB 对智能交通系统的构成作了简述,指出出行途中公共交通信息是智能交通系统的一个重要组成部分,而可变信息标志(VMS)是发布实时交通信息的一个重要手段。对所设计的系统方案选择做了详细说明,划分了整体框架和结构。系统实现了本地单对单的大型电子显示器(LED)显示屏的控制,上电后能以多种方式播放各种字体和字型的文字和数字信息,完成了基于Internet的网络化交通信息采集系统的重要一步。设计的系统已在现场获得应用,运行可靠。
+SN 1000-7024
+CN 11-1775/TP
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16208/j.issn1000-7024.2006.10.003
+DO 10.16208/j.issn1000-7024.2006.10.003
+
+RT Dissertation/Thesis
+SR 1
+A1 于德新
+A3 杨兆升
+PB 吉林大学
+T1 车辆诱导系统理论模型和关键技术研究
+CL 博士
+YR 2006
+IS 10
+K1 智能交通系统;车辆诱导系统;短时交通信息预测;交通模拟;排队论;三维导航;路径优化;车载信息终端
+AB 本文基于“十五”国家科技攻关计划重大项目、吉林大学“985汽车工程科技创新平台”建设项目和长春市科技局项目的研究成果撰写而成。论文围绕车辆诱导系统理论模型和关键技术进行了较深入的研究,取得了一系列创新成果。论文共分七章。全面综述了车辆诱导系统的国内外研究现状和发展趋势,构造了适合中国国情的车辆诱导系统的结构框架和实施框架;提出短时交通信息理论模型体系并建立基于收集浮动车的交通信息采集等新方法,建立了基于交通模拟、排队论的行程时间间接预测模型,对其求解并进行实际工程应用;建立了基于Multigen Creator和Vega的三维导航新方法以及三维条件下的车辆诱导技术,并在长春市进行实际跑车试验,取得了令人满意的实验结果;阐述了车辆诱导系统路径规划问题的最短路计算实质,并将车辆诱导过程中的交通现象加以描述。同时通过介绍适用于车辆诱导的TC-B算法的优缺点,提出了基于TC-B的分层路径优化技术。本文创建了基于VMS的车辆诱导系统信息发布终端,给出了基于XML的B/S模式信息编辑方式等。提出了智能化车载信息装置的系统框图,并设计了车载信息装置软硬件接口。论文的理论模型和实施技术研究成果均在长春市得到实际应用,具有广阔的推广前景。同时,论文对于我国尽快实施车辆诱导系统也具有一定的参考和实用价值。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXXIDj126ldrKRhNwftHIUQMZiCw0x4T2NAOcRgznM1edQXqtlbc666cAkYC2aXPyRpWcfcOtZF8ovh6ONF1-MgmOZWqzAIanG5si96GXCRxAaX1dc8ki5p8tModszr-_1PNv2EAL44R3jXioH4H1ZIUME5QSDrxaUeQzkXZnSlXzH14MW6cWmX&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 陈少山
+A3 曹洁
+PB 兰州理工大学
+T1 基于虚拟仪器技术的智能交通车载信息采集系统的设计和研究
+CL 硕士
+YR 2006
+IS 09
+K1 智能交通系统;虚拟仪器;车载信息采集系统;GPS;惯性测量单元;LabView;卡尔曼滤波;数据融合
+AB 实时交通信息采集是实现城市交通智能化的关键,是ITS各子系统实施的核心基础和重要前提,在交通规划和交通管理控制等方面具有广泛的应用前景。本文利用虚拟仪器技术对车载信息采集系统进行了整体设计和研究。该系统具有精确采集车辆位置、速度、加速度、姿态角等信息的功能,这些车辆信息为智能交通系统的应用提供了有力的保障。车载信息采集系统涉及面较广,本文仅从数据采集、定位这两个方面对车载信息采集系统进行了研究。论文详细论述了本系统的设计思想及其特点、车载设备各组成部分的构成和功能,完成了车载信息采集系统的硬件和软件设计,对设计中关键技术进行详细的分析。并从数据采集、定位这两个方面对车载信息采集系统进行了研究。在数据采集方面,采用RS232串口传输GPS的数据,利用LabView软件实现GPS数据的提取,从而得到车辆的时间、位置、速度等车辆信息。利用信号调理模块调理惯性测量单元的数据,通过数据采集卡DAQPad-6015完成惯性测量单元的数据采集工作,得到车辆的加速度、角速度、姿态角、速度、位置等车辆信息。在定位方面,采用GPS接收机和惯性测量单元组合的方式以提高定位精度和稳定性。GPS的优点是长期稳定性与高精度,不足之处在于它的自主性差,容易受到干扰,接收机数据更新频率低,难以满足实时导航的要求。而惯性测量单元的优点是短期高精度,测量完全自主,缺点是误差累积随时间快速增大且容易发散。因此可利用GPS的长期稳定性与高精度弥补惯性测量单元误差随时间累积发散的缺点,利用惯性测量单元的短期高精度弥补GPS系统易受干扰、信号易失锁等缺点。因此本文利用卡尔曼滤波技术对GPS与惯性测量单元的采集的数据进行了融合,仿真结果表明,利用不同传感器对同一信息测量比单一的传感器测量效果更好。最后对全文所做的工作进行了总结,并从系统的位置精度的提高与系统功能扩展这两个方面进行了分析和展望,指出了本系统进一步完善的方法和思路。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVx0ag-jKGRPVVSU2mrrGK6UAgu2gGMNglPaXbk7KHfzOyvEWyU032IefzWU_0-fle6j0vnzj5RYt5WL1PHUefcKzLxKNdY5YZQ9DargTpJqRDqLxbem1NRZIbjBix8XvwvNZxEUjSl8KtTByKDqJKvalRYu3jz7L9tDyhgkzHU3rgCErQ6xMUX&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 王俊
+A3 曾致远
+PB 华中科技大学
+T1 智能交通信息采集子系统的研究与实现
+CL 硕士
+YR 2006
+IS 03
+K1 背景模型;多目标跟踪;摄像机定标;模板匹配;车型识别;智能交通
+AB 智能交通信息系统是目前世界交通运输领域正在研究和广泛关注的课题,它在道路设计、流量监控和高速公路管理方面起到了越来越大的作用,传统的基于地感线圈的交通检测和车辆分类方法因其获得的信息量少,难于安装和较低的可靠性等缺点难于广泛应用,而基于图像处理、模式识别的检测方法解决了以上的不足,能够广泛应用于交通监控、自动停车管理以及高速公路监控,成为智能交通系统的发展方向。一般来说,基于图像处理和模式识别的智能交通信息采集自系统可分解为运动分割、目标跟踪和参数提取三大步,本文在对比了现有的几种视频运动目标检测技术后,根据智能交通信息采集系统的使用环境选取了针对性的检测方法,考虑了经典的背景更新方法的不足,提出了一种基于高斯-卡尔曼混合模型的背景模型,极大的提高了检测的准确性和稳定性。在此基础上,本文对运动目标的分类与目标轨迹跟踪做出了研究,提出了一种基于由粗到精的匹配跟踪算法,在跟踪的速度和精度上比以往跟踪算法有较大的提高,配合摄像机定标,对运动目标的运动参数进行了提取。最后,根据车流量及其运动参数,对一些交通信息进行了推导。另外,本文对使用环境中的一些干扰因素,如摄像机抖动,噪声干扰等作出了探讨,在车道的自动识别上也作出了研究,并对交通信息采集系统的设计与实现作了详细介绍。经过实验室测试与实际应用证明,该系统及其相关算法具有较强的实用性和现实意义。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUQA-ZhlvpRN_Kr66A848aU6qFQ0au3k1WbbG_FluMlhRFwGeorr4l0vQo5lPpEtLCiha9UTAWWKkC44ItF96_h-hFN0eiYIc2evgWuI0SrORGiBZ_3eZ9N9nD1820di9jdo-YfbcPzjJt1Hm28rv_H0aW9_-CW1xyrY13ztWUUvenw0W2qrgpW&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 林向炜
+A3 杨红雨
+PB 四川大学
+T1 基于视频检测的交通信息采集系统
+CL 硕士
+YR 2006
+IS 03
+K1 视频检测;交通信息采集;车辆跟踪;交通事件检测
+AB 为了解决地面交通快速发展所引发的各种问题，智能交通系统(ITS：Intelligent Transportation System)的研究被提到了重要位置。车辆的视频检测、跟踪与交通事件检测系统作为ITS的重要组成部分，成为许多国家的研究热点。本文针对ITS领域中的关键技术，研究了基于视频检测的交通信息采集系统中的相关问题。本文详细描述了基于视频技术的车辆检测与跟踪，分析并研究了车辆超速、超车等交通事件，提出相应的具体检测方法并给出实验结果。论文还就交通信息采集系统给出了具体应用实例——烟台道路中心监控系统，分析了该系统的物理结构与逻辑结构，并对其中主要功能做了具体介绍。本文分五个部分进行论述：1) 概述了交通信息采集系统的应用背景与相关技术。对国内外智能交通的发展现状进行了比较。2) 在车辆检测中，提出了一种基于像素亮度的非参数核密度估计法来构建背景模型，并运用实时更新与长期调整相结合的方法来进行背景更新，最后利用虚拟线圈实现触发检测。对车辆检测中因阴影所造成的误触发等情况提出了初步的解决办法。3) 基于视频的车辆的跟踪算法。提出了一种基于区域匹配的目标跟踪算法，通过对区域初定位、膨胀腐蚀处理、获取外接矩形等一系列手段实现对目标的实时跟踪。4) 对交通事件检测进行了初步的研究，分析比较了国内外交通事件检测技
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXmPRyuY4_nbIzt_ipPX0MC34ceVfiO1QPIM2GnftZMXYSzU7BD-NPXVzOqYSjg8B_mWo4uyGdl4aneC2NVxaROuBICeHoA0Qi-I_xIEyIVRAVryn0dbs8MISNAU7lNofJz4-NOz8AKq5n7Qw_i03c1HtbC_0eLwXc5qBaxdR8BxRUcORq6Xu5v&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 戴静
+A3 刘济林
+PB 浙江大学
+T1 交通信息视频采集卡的缓存与网络传输实现
+CL 硕士
+YR 2006
+IS 09
+K1 智能交通系统;图像采集;网络传输;SDRAM缓存;DSP
+AB 随着社会经济发展,交通系统日益复杂。为了给交通系统的管理提供各种实时交通信息,以方便,高效的利用和管理现有的交通系统,我们在第一代交通信息采集卡的基础上,进行了第二代交通信息采集卡的前期研发。该设备由图像传感器模块,图像压缩与缓存模块,网络传输模块,图像处理模块四部分组成。本文将对网络传输模块和图像缓存模块的设计作一个详细的说明。本文首先介绍了智能交通系统的发展背景和基本概念,交通信息采集设备的发展以及基于视觉的交通信息采集设备的优势。第二章介绍了我们课题的任务以及方案的总体设计,以及本人在课题中所承担的研发任务。第三章介绍了网络传输模块的具体实现,包括微控制器ARM芯片LPC2214的配置方案,网络芯片LAN9115的初始化配置和驱动程序,介绍了网络传输所用的协议以及具体实现。第四章介绍了图像缓存模块的具体实现,包括同步动念随机存储器(SDRAM)结构和工作原理的介绍,对SDRAM读写控制器的实现,以及仿真结果。第五章介绍了后端图像处理系统的方案设计,以及后续的工作的要点。最后一章对全文进行了总结,并提出日后工作的重点与方向。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXabhG9C3L0JZC2DWdWxOc9wk52bimDaMig05XvIjjg-yjLz_W2JYodZp6Ykcexuus4C9TA537ZHa1lPIuYzahcafRlIS5bipezD3sdxR_WUrf0ckq-H-m7irDLeJkm5kjC-XsAnRcbwSgupK0klLw9XW0NmzbzUERl2N1I84CSYr3B7dwAtwXR&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 曹江中
+A3 戴青云
+PB 广东工业大学
+T1 基于视频检测的高速公路交通信息采集系统研究与实现
+CL 硕士
+YR 2006
+IS 09
+K1 智能交通系统;交通信息采集;视频检测;车辆检测;车辆跟踪
+AB 交通信息的采集是解决智能交通系统中信息来源的关键技术内容,及时、有效地采集交通信息是实现智能交通的基本前提。相对于传统的地埋式感应线圈、超声波和雷达检测器,基于视频检测的采集系统综合了图像处理、计算机视觉、模式识别等技术,具有安装和维护方便、价格相对低廉、检测参数多、检测区域广等显著优点,被普遍认为是交通信息采集技术的发展趋势,已成为了智能交通信息采集领域的研究热点。因此,本文的研究课题具有很大的理论和应用价值。本文以广州某智能交通研究院的应用项目为研究平台,对基于视频检测的高速公路交通信息采集系统进行了研究和实现。论文的主要包括以下工作:1.深入了解了交通采集和传输的过程,针对具体的问题给出了解决方法。2.针对高速公路的特点,提出了一种新的车辆检测与跟踪的模型,把感兴趣区域(ROI)划分为车辆识别区与车辆跟踪区两个部分。进一步提高了系统的可靠性和实时性。3.研究和分析了车辆检测关键的技术,并提出了基于多虚拟线圈的多信息融合车辆检测方法,其中包括运动检测、背景更新、阴影检测等多个模块。4.分析了车辆跟踪的基本算法。针对高速公路车辆行驶的特点,提出了基于运动预测的快速跟踪方法。根据跟踪对象在前一帧的属性来预测在当前帧的位置,并与当前帧运动区域的位置进行匹配来跟踪。5.研究了交通参数提取的方法和交通事件的检测算法,并对停车,逆行,行人出现等交通事件进行了模拟和检测。本文不仅对系统的关键技术进行了研究,同时也从一个应用的角度对系统进行了优化和实现。目前,本文的研究成果已应用于高速公路现场的交通信息采集,并取得了较满意的效果,具有较大的经济价值和应用前景。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW39XZkagZ52a98sX2reLNXGaQgPjuOuoDpa4AUvKfvYo-J6BFtTsJVmgO4fLxmyzYsTphcXpYUYzKIZ_Cc_xhTbxV4le4RO0PPbC9eA69_wKdMvzLlNRE_AA5rp6hFL0fZDV0trA4IhbKAGmOCLMdR46WdKEPA84D_vwbFjsqZlnZ5aJxgJUCP&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 游小青
+A3 付锐
+PB 长安大学
+T1 道路运输行业行车事故数据采集与统计分析系统研究
+CL 硕士
+YR 2006
+IS 12
+K1 道路运输事故;事故信息采集;统计分析系统;数据库
+AB 我国道路交通安全形势严峻，道路运输行业的安全生产对提高交通安全水平有重要影响。获取详细而适用的运输事故信息，并对事故信息进行全面统计分析，探究事故发生的外在原因和潜在因素，是实现道路运输安全生产规范化管理，提高道路运输行业安全生产的前提条件。目前我国道路运输行业行车事故统计制度存在着事故数据存储和分析主要依靠人工方法进行，费时费力，而且缺乏准确性，采集方式不规范，事故信息传输和利用效率较低等问题。因此建立道路运输事故数据采集与统计分析系统具有重要的意义。论文首先根据我国道路运输行业安全生产管理模式与运输行业行车事故管理，对交通部门在运输事故信息采集、数据管理与统计分析中存在的问题进行探讨。结合道路运输行业的管理条例和相关标准规范，交通管理部门围绕“三关一监督”展开的管理工作，以及驾驶员、车辆和道路环境等因素对运输安全的影响，确定详细、标准化的道路运输行业行车事故信息采集项目和软件数据管理功能，以及全面细致的事故数据统计分析项目。在此基础上，应用Microsoft SQL Server建立道路运输行业行车事故数据库，并以PowerBuilder软件为平台，建立运输事故数据采集与统计分析系统。本系统不仅方便了事故数据的管理，而且为制定和完善道路运输行业管理条例，提高运输行业的安全生产管理水平提供有效的管理手段和技术支持。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXs8UM4JmKF11LWTZbfLfwicL80_VdPM-A2uNCF8GXKxrp0rKO4tF-AMD0ebKBQd1f1X_-1qggi41yJhT1MlqELClF6cTjHC6WHYXnFcji3M1k2Y6IPCjPQ4gFkbCIIXNlK8s7l0Ca-caRAtHS9Q9ZNFeT9SuemxSASYJX8Iq50TTCq6aamEpb7&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 伍小东
+A3 魏权利
+PB 青岛科技大学
+T1 基于图像处理技术的视频交通流信息检测系统的研制
+CL 硕士
+YR 2006
+IS 11
+K1 智能交通系统;交通流;图像处理;滤波除噪;虚拟检测器
+AB 交通控制是与每个人息息相关的大事，交通流信息采集的准确与否影响着整个城市交通智能化的实现，可以说交通流信息的检测是实现智能交通系统的基石，无论是多么先进的交通系统，都必须建立在对交通流信息正确采集的基础上。目前交通流信息检测的方法很多，其中视频检测技术以检测交通场景面积大，投资少，费用低，视频图像设备易于安装和调试等优点越来越受重视。本文在借鉴国内外相关技术的基础上，结合对图像硬件平台和图像处理算法的理解和分析，设计了一个经济、实用的视频交通流信息检测系统，该系统采用“视频采集设备+工控机+应用软件”的模式，具有工程量小、安装方便、信息检测丰富等优点。通过CCD摄像头和采集卡采集交通流视频图像，并经过灰度线性变换、滤波除噪、图像锐化等手段对图像进行预处理，在视频图像处理技术的基础之上，本文提出了一种基于虚拟检测器法的车流量、车速的检测算法。该方法通过检测虚拟检测区域内像素的灰度变化来判断车辆的存在，进而检测出车流量、车速等相关交通流信息。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUujUFrW5lGKLZ2Ve1lCqHD9qS6UcXzHu8ZcwDprCxTyFVeKZlD6HTzYNFh2RPhZT5H3pPCYsGszxVtZoqPgFLKNpy3exNdoetfrjzZt579k8uZnH8M_jT1QiMthxX1nsO0eyNKkPCay-5md3JDO2wbECd2ZOahAz4uYgJgMymiUs4YG6C9yLwU&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 李万周
+AD 中国交通信息中心,
+T1 多种类采集设备的交通数据信息融合与应用
+JF 中国交通信息产业
+YR 2006
+IS 04
+OP 76-78
+AB <正>随着科技发展和交通管理信息化水平的提高,交通数据采集(主要是指动态数据,下同)由过去的人工采集逐步实现由交通数据采集设备进行自动采集。交通数据自动化采集可以提高交通数据采集的效率和准确性,减少数据采集成本。交通数据采集设备一般可分为5类,分别为：微波类、线圈类、超声波类、视频类、动态称重类。不同种类的检测设备具有各自的优缺点,需要根据道路路面条件、安装环境温度条件、光线条件综合考虑,在不同检测点可以选用不同的交通数据检测设备。如超声波检测器易于安装,但气温和大风影响会使其性能降低：微波多普勒检测器不受气
+SN 1672-3333
+CN 11-5033/F
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13439/j.cnki.itsc.2006.04.010
+﻿
+DO 10.13439/j.cnki.itsc.2006.04.010
+﻿
+
+RT Dissertation/Thesis
+SR 1
+A1 何志伟
+A3 刘济林
+PB 浙江大学
+T1 基于模型的目标提取及其在智能交通中的应用
+CL 博士
+YR 2006
+IS 09
+K1 智能交通系统;图像处理;模式识别;标识号码;排列模型;背景减法;背景模型;嵌入式系统;交通信息采集
+AB 随着图像处理和模式识别技术以及计算机硬件水平的提高,越来越多的信息是通过对图像或视频的处理和分析来获得的。在智能交通系统中两个非常重要的信息——交通工具标识码以及道路交通信息就可以通过对图像或视频的处理和分析来获得。本论文主要研究了从复杂的背景中提取出静态的交通工具标识码以及动态的运动车辆的主要关键技术和算法。实际中通过摄像机采集到的交通工具图像中往往包含有大量的噪声,因此交通工具标识码往往很难通过简单的处理直接获得。为此,首先提出了一种鲁棒的图像预处理算法。该算法在突出交通工具图像中的文字特征的同时,抑制了图像中的各种噪声,并且最大程度地降低了光照的不均匀对字符提取的影响。在图像预处理过程中,结合了自适应线性滤波以及自适应非线性滤波各自的特点,使得预处理后的图像通过简单的投影直方图分析即可得到较好的定位结果。然后根据实际中的交通工具标识码中各字符间的相互位置和排列关系,提出了一系列的标准字符排列模型。最后计算定位得到的各备选字符行中各字符之间的排列关系,将所有备选字符行字符的排列关系依原始位置进行组合后,再与标准排列模型进行匹配即可得到标识码的自动分割结果。基于排列模型的交通工具标识码自动提取算法可以很好地抵抗图像中其他字符或标识的影响,试验证明具有很高的正确提取率。对于运动车辆的检测或提取,一种广泛采用的方法是背景减法。背景减法进行运动目标检测的关键技术之一是背景的建模方法。一种好的背景建模方法得到的背景模型应能准确地反映真实背景的变化。本论文中提出了两种有效的背景建模方法:基于判决反馈的背景建模方法和基于近似中值滤波的背景建模方法。基于判决反馈的背景建模方法根据背景减法后象素属于前景或背景的判决结果来进行背景的更新,只有那些被判为背景的当前点才参与当前背景的更新中。通过这种方法,可以很好地消除运动目标在背景更新过程中造成的“拖尾”效应。基于近似中值滤波的背景建模方法克服了传统中值滤波运算量大和对内存需求高的缺点,采用近似方法迭代得到图像序列的中间值,并以其作为背景的估计。考虑到利用图像的颜色信息能够更加准确地进行运动目标的检测,论文中还使用了一种运算简单的颜色空间模型——rgs颜色空间模型。试验结果表明,基于颜色信息的判决反馈法背景建模以及基于颜色信息的近似中值滤波法背景建模均能取得很好的背景模型,同时基于颜色信息的运动目标检测能够有效消除运动车辆的阴影对车辆检测的影响。在论文的最后,讨论了运动车辆检测在整个交通信息采集系统中的作用,并
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXMdLUd0xTGDG_sNuNAlV-4Wf-prX0OTXX0JfnEfiGe5H2HpgXEiPed7CHvU6aXm-fK0LnTUAemg327g06j8lFQO5ibx2mu6zG0SMkjFnKiYY3SJNJHGogPPkrWiwrP7DyY0XcFFHTuSbZvZDwlB_iBAk6hJYqg4KkkF9tsLWf0A2GPwB3oXYgl&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 张腊梅
+A3 明平顺
+PB 武汉理工大学
+T1 面向城市的智能交通管理系统
+CL 硕士
+YR 2006
+IS 08
+K1 智能交通系统;城市智能交通管理系统;交通信息采集;紧急事件系统;GPS
+AB 近年来我国的机动车保有量呈几何级数增长,城市交通需求也随之急剧增加,而目前我国城市的交通基础设施的增长速度已不能满足日益增长的交通需求,交通阻塞、路网利用率低、交通事故增加、环境污染加剧等成为我国城市交通面临的严重问题。国内外实践证明,解决城市交通问题的有效方法是在现有交通基础设施的基础上,提高交通管理水平,达到从根本上解决问题的目的。先进的交通管理系统(Advanced Traffic Management System,ATMS)是ITS的重要子系统之一。通过将交通信息采集技术、数据通讯传输技术、电子控制技术和计算机处理技术等综合应用到交通管理系统和车辆,提高现有路网的利用率,减少道路交通拥挤程度、交通事故的发生率以及因交通拥挤、事故等造成的出行时间延长,降低油耗、减少废气排放等。就我国目前交通基础设施的建设情况以及在未来几年机动车保有量的增长状况来看,只能是通过科学的控制方法和管理手段,来缓解车辆增加造成的交通需求压力。城市智能交通管理系统正是通过对高科技、高水平的技术的应用,来提高交通管理系统的工作效率,达到改变城市交通混乱的局面的目的。本论文在讨论国内外ITS与ATMS发展现状的基础上,详细介绍了城市智能交通管理系统组成及其子系统的组成和工作原理,并将其应用在武汉市,设计了武汉市智能交通管理系统的基本方案。城市智能交通管理系统是目前解决我国城市交通问题的主要手段,是通过科学手段对交通运营和设施进行一体化的控制和管理。本论文对城市智能交通管理系统作了比较全面的研究,对各个子系统的组成都作了较深入的分析。主要介绍了目前我国所采用的交通检测器的性能及这些技术优化组合的原则;介绍了智能监控系统的组成及主要控制方法;分析了紧急事件快速响应系统的组成及其子系统的功能,并主要对GPS车辆定位系统和最优路径选择算法作了详细的分析和研究;最后在了解城市智能交通管理系统组成和工作原理及国内ATMS发展状况的基础上,结合武汉市交通现状和交通智能化的技术水平,提出了武汉市智能交通管理系统的雏形。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVPg_kakVefoN93hZsA_anPLQCx75XSaLcJHiQiFgQSgN7RtShEunOp6ZLI-KdMcMIpTzqJ2_J-AnTqLa2W9G6Bcc6c6z47v58BqvoV9i-pgEnb8ecA2rT9OE1KYkhgMAA6fHEB4OrcYMiHAoCPaN6F7zia__SgmRxqsZqhD2VqW-RmTcDTS82y&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 胡峰俊
+A3 赵燕伟;董红召
+PB 浙江工业大学
+T1 城市交通机电系统中交通流信息视频采集关键技术研究
+CL 硕士
+YR 2006
+IS 12
+K1 视频检测;交通流;图像处理;混合高斯模型;多目标跟踪
+AB 本文以杭州市的交通状况作为研究背景，针对目前杭州交通的实际情况，提出了基于视频的运动目标检测与跟踪技术对交通流信息进行采集的研究，主要研究工作为：研究了基于灰度的混合高斯分布模型的背景建模问题；研究了运动目标的特征采集和多目标跟踪的相似性算子；研究运用视频技术的动态交通流信息采集的问题。本文首先介绍了Intel OpenCV图形处理库和DirectShow流媒体处理技术，在此两种技术上对视频解码和控制，对图像进行滤波除噪，并建立了基于灰度的混合高斯的背景模型，利用背景和当前图像进行绝对值差分，检测出运动目标并二值化，二值化选择了效果较好的Otsu方法，对二值化后的图像进行形态学处理，如图像的腐蚀、膨胀等，采集运动目标的各个参数，如面积、重心、最小外接矩形等区域特征，使用相似性算子进行多目标的跟踪，计算量小、系统实时性强，能够比较精确的统计车辆数量和车辆速度，并且在一定程度上解决因遮挡带来的分裂合并问题。最后，应用论文提出的各种方法，开发出基于OpenCV图形处理库、Visual C++6.0为开发语言的交通流信息采集的试验系统，并介绍了该试验系统的总体功能和结构，及各个模块的详细实现步骤，本文对杭州市两个路段进行信息采集，在下雨路面潮湿和光照变化强烈的恶劣天气下，都取得了很好的检测效果。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXR4mvwtaw76bdGIGTjBDOUxQkXJhdZy77v1_pMtj1_K3VKyGeRaEfbRPMK5Kjqyz1pJ6wQel45HPlQlPyD2f8iLjr0ASjPk16KTkAxf8CruVi-xIMW7gFsEkCZDQB0v6DF5CgwUc0R0TzSsmp6qWw2qsFAlzbXS0uxH-YWKOUF4D4Mlt9JH-Cl&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 魏宏权;方向忠;宋晓年
+AD 上海交通大学电子信息与电气工程学院,上海交通大学电子信息与电气工程学院,上海交通大学电子信息与电气工程学院 上海200030,上海200030,上海200030
+T1 交通信息采集系统中基于分组交换技术的GPRS应用与系统设计
+JF 计算机应用与软件
+YR 2006
+IS 03
+OP 134-136
+K1 GPRS;交通信息采集系统;TCP/IP;分组交换
+AB 本文着重分析了交通信息采集系统中数据传输的特点及不同通信方式的应用限制,以此为依据提出了利用GPRS作为交通信息采集系统的无线传输方案,并在此基础上给出了系统设计的基本思路,以及在实际工程项目中的应用。
+SN 1000-386X
+CN 31-1260/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW9EK3am1VQ4mSXP0zzmkwWjVkVErqdiqTXptCWrZirVZ1jjBKnhCli5y5P5nYLls5hcgPSiGWpzByXec1-KzY7oPns-srJCjbGAOSYnzDgsqIoKWjx3luMS-QyD0QJF4vk-VxJrCqAxSJict_ix-dWUjMOFvgDaaBsv9h2y_vJeg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 曲广妍
+T1 上海ITS发展基础研究
+JF 交通与运输
+YR 2006
+IS 02
+OP 50-51
+AB <正>一、上海ITS发展需求 1．公众的需求:快速、便捷、安全、舒适缓解交通拥堵、减少出行延误、提高出行机动性、获得及时有效的出行信息、提高交通安全,是公众对上海ITS 系统的需求。交通管理部门应采取各种ITS手段和措施,如改善道路基础设施、加强道路交通监测与诱导、优化信号
+SN 1671-3400
+CN 31-1476/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUuejCscnSC3E8CSCD1tDJ6vep5RSG44zE60LGW28ZHhLyBpnjS1nQLwyCxBJ1zB4QvPTGZC48tsuQPlJA_JpOqEQP6Nl3U4co9yVDZ3H_beVG8ZXjIi9lsIgtON3dnkz5FUNRAJY8Z26N8HkUZxRClQ7i2jSVov6IYWSnbjkj9Uw==&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 芜湖路交通信息采集与发布系统示范工程
+A1 李先强
+AD 合肥市城市建设重点工程指挥部市政工程办公室
+FD 2006-03-08
+K1 芜湖;发布系统;示范工程;交通信息;采集
+AB 该项目采用Web方式在GIS平台上实现实时交通信息的直观显示,用红、黄、绿三个色系、六个色阶对芜湖路双向交通状况进行渲染,按一定时间间隔更新一定时间段内的交通信息,最小更新时间间隔能达到1分钟。根据采集到的交通信息对芜湖路主要路口这间的通行时间进行预报,能够用图、文方式对道路状况通过LED诱导屏实时播报,并根据道路交通服务水平主要指标对芜湖路道路交通服务水平进行分析。
+DB 科技成果
+
+RT Dissertation/Thesis
+SR 1
+A1 姜雪花
+A3 王炜
+PB 东南大学
+T1 城市动态交通信息采集点布设及交通流短期预测方法研究
+CL 硕士
+YR 2006
+IS 04
+K1 智能交通运输系统;城市动态交通信息;采集;技术;交通检测器;优化布置;综合评判;短期交通流预测;模型;RBF网络
+AB 国内外研究表明,智能交通运输系统(ITS)能否高效运行的关键取决于能否获得实时、准确的动态交通信息。但是在实际应用中,城市动态交通信息采集系统的建设缺少协调和理论性指导,交通检测器的优化布置缺乏理论依据。另外,由于检测器本身存在的局限性,我们得到的交通数据存在缺失现象,在这种情况下,利用检测器提供的历史数据合理的实时预测交通流情况,即短期交通流预测,也成为目前研究的热点之一。本研究首先通过大量的基础研究和准备工作,了解国内外城市动态交通信息采集系统的发展现状,对城市动态交通信息采集系统作需求分析并进行框架设计。在此基础上,介绍埋入式和悬挂式两类信息采集技术,并对各种交通信息采集技术的工作原理、性能、适用条件和成本费用等方面进行比较分析。通过分析,给出交通检测器的一般布置原则,提出交通检测器优化布点的方法,并利用模糊综合评判法对交通检测器的选择做了分析,最终得出检测器优化布置的合理方案。其次,利用检测器获得的交通流数据,考虑在数据缺失情况下,利用历史数据进行短期交通流预测。通过对多种短期交通流预测模型分析发现,神经网络具有识别复杂非线性系统的特点,有较强的自适应学习能力,是最具有潜力的一种预测模型。本研究选用RBF神经网络和matlab工具进行短期交通流预测,并在文中给出RBF神经网络的原理和算法,最后结合实例加以分析。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW2sD_GLrUcSRZLeMLEsDzWETyZgoUqbLKpLzKGqL9Pm3HAMjgNIgqXoXPwVkpLCHORVSXHbUdhDqKyKRM7L2X2PQvouDQ7g_FiVJDpNnXK47fHIjNtuicBUCpFmG3kY8pfKgrMJbRJqAH1rZMoQWBhs__V8SSOBnh1iM2l285syUOpH7BoSQMF&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 刘震
+A3 薛贺
+PB 西北工业大学
+T1 智能交通信息采集技术研究与软件实现
+CL 硕士
+YR 2006
+IS 07
+K1 智能交通;交通调查;动态称重;嵌入式Linux;面向对象
+AB 我国高速公路建设在最近几年得到了突飞猛进的发展,人均拥有机动车辆迅速增长,但是对高速公路交通流量特性和通行能力的研究显得相对滞后,缺少适合我国国情的参数、模型及合理的分析体系。这在一定程度上影响交通资源的使用率,同时也不能为决策部门提供参考数据。本论文针对我国高速公路的现状,结合现有的交通管理体系,提出了一种全新的智能交通系统数据采集解决方案。该系统的分析体系、采集基础数据的精度和交通流参数适合我国的高速公路状况,很好地满足了我国智能交通系统(ITS)的各项要求,达到国内领先水平。论文首先对交通流数据采集的原理进行了讨论和研究,然后分析和论述了车辆识别和分型算法,最后给出了整个系统的体系结构和实现方法。主要内容如下:1、在数字滤波方面,本文提出了波峰波谷滤波算法,通过查找一个波形的波峰和波谷来确定一个完整波形,既保障了滤波的准确性,又保障了系统的性能。2、在动态称重方面,本文通过对力学公式的推导,得出了当荷载匀速通过传感器时,传感器输出仅与总荷载和速度有关,而与荷载的长度及分布无关的结论,并给出了载重测算公式。3、在车辆分型方面,本文介绍了国际上最流行的ACC码,并根据其演化成自定义的UDC代码,从而很好地解决了自动化分车型精度低的难题。4、通过面向对象的设计理念,采用了Strategy、Facade、Singleton等设计模式对系统进行构架,实现了一个低耦合、高内聚的具有很好的可扩充性的嵌入式系统,并在天津市公路局的33个交通调查检测站点中得到实际应用,产生了良好的科学价值和巨大的经济效益。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW2sD_GLrUcSRZLeMLEsDzWETyZgoUqbLKpLzKGqL9Pm9yAv1EjmzlS5LwUa2SbqbzVjjMATgtnbmKr8Rr2A7w8f2g_N0Wxl-wWM1ugiOv9omxf1y0mkwKomdQb-9Rk5lQOQ3khipvleihs3YUgN4-8bU8rn4WUErnf7sRbtkfdEui_f3XzIwNo&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 Toshitaka Azuma;Tomonori Takada;Shinji Itsubo;Jun Uchida
+AD 株) 国土情報技術研究所 企画開発グループ;株) 国土情報技術研究所;国土交通省国土技術政策総合研究所 道路研究部 道路研究室;株) 近計システム
+T1 Development of a next generation information gathering system for road traffic censuses
+JF Japan Society of Civil Engineers;公益社団法人 土木学会
+YR 2006
+IS 0
+vo 15
+OP 103-110
+K1 情報サービス;測距センサ;センサネットワーク;交通量計測;道路交通センサス
+SN 1349-1040
+DS CNKI
+LK https://link.cnki.net/doi/10.2208/journalac2003.15.0_103
+DO 10.2208/journalac2003.15.0_103
+
+RT Other Article
+SR 1
+T1 VTD2000E系列视频交通动态信息采集设备与系统
+AD 深圳市哈工大交通电子技术有限公司
+FD 2006-01-01
+K1 视频交通动态信息采集设备;实时;监测
+AB VTD2000E系列视频检测产品是国内第一家通过公安部检验的视频检测类产品,是国家“九·五”重点科技攻关项目,也是国家在“十·五”期间的重点产业化方向。2003年被列入国家级火炬计划项目。2004年被列入国家科技成果重点推广计划项目。应用领域：高速公路交通信息采集;高速公路交通堵塞监测;隧道停车监测;城市道路交通动态信息采集和交通违章监测。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 道路交通事故再现分析系统
+A1 马继延
+AD 云南省道路交通管理科学技术研究所
+FD 2006-01-01
+K1 道路交通;交通事故;再现分析;数字摄影测量;信息采集
+AB 道路交通事故现场信息采集子系统：利用先进的数字摄影测量技术,结合事故现场具体情况,用现场照片就可进行现场三维信息的测量。在系统中还可利用数字式轨迹测绘系统进行事故现场的信息采集。道路交通事故再现子系统：将道路交通事故再现与汽车碰撞试验、计算机视觉技术、计算机图形学、交通事故处理相结合,采用将交通事故按事故形态分类分析的方法,分别建立各形态下的碰撞分析模型,增加了模型的针对性,可对九大类70余种形态的交通事故进行分析。道路交通事故处理及原因分析子系统：利用大型数据库、网络通信、计算机等现代化技术实现了交通事故处理无纸化、网络化、自动化,实现了中、远程自动办公,并能进行道路交通事故责任辅助认定,极大地提高了事故处理的效率。路交通事故现场信息采集子系统”和“道路交通事故再现子系统”已在部分支队推广使用,“道路交通事故处理及原因分析系统”已在全省推广使用。交通事故案件的审批、会审、报送等都可通过该系统在公安网络上进行,道路交通事故信息采集表也可通过该系统自动生成,减少了办案民警很多重复劳动、案件审批往返的辛劳,大大提高了效率,节省了警力。该系统设计实现了交通事故处理工作人员的9级权限、以及独特的安全防护机制,大大提高了道路交通事故处理的效率和安全性。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 基于线阵CCD摄像机成像的交通信息采集系统
+A1 赵祥模
+AD 长安大学
+FD 2006-01-01
+K1 线阵CCD;CCD摄像机;信息采集系统;交通信息采集
+AB 本发明公开了一种基于线阵CCD成像的交通信息采集系统,该系统包括：设置在两个道路断面上方的支架上的两个相距一定距离的线阵CCD相机,每一个线阵CCD摄像机配有辅助照明大灯,在距离两个线阵CCD相机前方的15米处,安装有多个辅助面阵摄像机,这些辅助面阵摄像机分别位于车道的中间和车道的分割线上,其中,车道的中间的辅助面阵摄像机对通过道路的车辆进行抓拍,车道分割线上的辅助面阵摄像机用于全景拍摄;当车辆通过该道路断面,线阵CCD摄像机即可采集到通过道路断面车辆的线阵图像数据,并进行处理分析,得到交通流量、车辆速度、车流密度和道路占用率的交通参数,面阵摄像机抓拍车辆图像,进行分析处理得到车牌信息。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 关志超;林群;文锦添;杨东援
+AD 深圳市城市交通规划研究中心,深圳市城市交通规划研究中心,深圳市城市交通规划研究中心,同济大学 广东深圳518031,广东深圳518031,广东深圳518031,上海200092
+T1 深圳“城市交通仿真与公用信息平台”设计与实践
+JF 中山大学学报(自然科学版)
+YR 2005
+IS S2
+OP 178-183
+K1 城市交通仿真;公用信息平台;路网模型;体系结构;一体化
+AB 深圳市城市交通仿真系统(SUTSS)是深圳“城市交通仿真与公用信息平台”的一期建设内容和启动工程,以城市智能交通公用信息平台为依托,以城市交通仿真为核心技术是本期建设的技术思想。系统包括:城市交通信息通信与传输网络;城市交通信息综合采集与处理系统;城市交通仿真(宏观、中观、微观)系统;城市智能交通公用信息平台和城市交通信息服务系统五个部分。如何从构架城市智能交通公用信息平台体系结构入手,将城市交通信息采集、城市交通信息通信与传输、城市交通仿真、城市交通信息服务等作为城市智能交通公用信息平台一体化设计与建设,是这一大型系统工程的关键之处。
+SN 0529-6579
+CN 44-1241/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LX2ibUXVgF_ZKCXREjAckkM_SfkZunNbS-z6q-wbKyjo_FgPUay8NoPwGE7yrpcOfHGpMCcNwzFEiVz9U9d-o9K2sRpJ5lpfYr6Iwq74eRulgqZC1jzHYMxeLH2bdEc20B4p6n75QaUD7wLRP9K3nK4vDpw-p6Lqy6-XWcZEBP1pQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 鲍伟华;张懿慧;陈泉林;徐晓夏
+T1 嵌入式视频交通信息采集终端研究与实现
+JF 电子技术
+YR 2005
+IS 12
+OP 69-73
+AB 为了解决基于视频处理的交通信息采集系统面临的诸多问题开发了的一套功能较为完善的嵌入式视频交通信息采集终端。该系统虽然没有采用高端的数字信号处理芯片,但具有成本低廉、研发投入少、开发周期短等优点,同时不失优良的性能,能够为交通信号的智能化控制提供必要的数据。
+SN 1000-0755
+CN 31-1323/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWKBVOibECuByUV8oHWGr_pXz4Hom8vKY-WoCle0FHesMc6AwtZnuZzRSKaOONPpqTyWFIVlX5ZUPlhJdRXODIcD5-SeZredpF9SFkgNKOQka_TWMi2sL3iip1xcP6nZ35Qs-5_Tqadnlb9N8OFjIsBX0d3j4ixOZdyh0pFFYlEsQ==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 杨兆升;王媛
+AD 吉林大学交通学院;吉林大学交通学院;
+T1 基于手机探测车的交通信息采集方法研究
+JF 第一届中国智能交通年会论文集
+PB 中华人民共和国科技部、上海市人民政府、全国智能交通运输系统协调指导小组
+PP 中国上海
+YR 2005
+OP 332-337
+K1 交通流诱导系统;交通信息采集;手机;探测系统
+AB 交通信息采集的问题已经成为制约国内外交通流诱导系统进一步推广的瓶颈。随着手机的市场渗透率和手机定位技术的不断提高,国内外的专家提出了利用手机作为探测器来检测动态交通信息的方法。本论文总结了国内外的研究情况,分析了该方法的优缺点、系统组成、运营机制。给出了我国基于手机探测车的交通信息采集方法的框架以及关键技术。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWkbHqvD-IyBg0H9U02fTRgwXONAa1mpPDjYozyyCxC97W1C9uEpDUPCcsQtRAA6SgXP59Tpv1wWMkS83mPDzNiQ5nehFTda4bsj7N01O4BpExTyq1lljdALtpvMiA6sSVPeY1ItBNB4u1mx55vKd6PP8MK4UN0Gebgymf6n04-6updyQuf9AgS&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 黄绍雨;李志鹏
+AD 广州市建设科学技术委员会办公室;南京市交通规划研究所有限责任公司;
+T1 公路出行者信息系统信息采集探讨
+JF 第一届中国智能交通年会论文集
+PB 中华人民共和国科技部、上海市人民政府、全国智能交通运输系统协调指导小组
+PP 中国上海
+YR 2005
+OP 367-373
+K1 公路;出行者信息系统;先进的出行者信息系统;信息采集
+AB 本文针对江苏省高等级公路建设先进的出行者信息系统的要求,在总结国内外信息分类的基础上,提出了按照信息来源进行分类的方式,并按照信息来源对信息的获取与采集提出了性能要求,对信息采集的设备进行了介绍。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXdjeXd5LKLUvn-IZbh-fQ_aqiptmA5jxC6-XIdk7jUY3ikFu2zpcpVVkTw63bqrMtwQy6xyJvi-E6iZRvYqJ9y-iTnEaCYJsCyz58Zk6F3Fxc_0eYa2CvaEzZ9dzgfterYjFJUATMWG8mEJzYAsG8zShthNkZc0GRdAiBlgfmqplPV8zjmvoX2&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 李枫;薛美根;柳鑫
+AD 同济大学交通运输工程学院;上海市城市综合交通规划研究所;上海市城市综合交通规划研究所;
+T1 城市居民出行数据自动采集试验研究
+JF 第一届中国智能交通年会论文集
+PB 中华人民共和国科技部、上海市人民政府、全国智能交通运输系统协调指导小组
+PP 中国上海
+YR 2005
+OP 1099-1104
+K1 交通调查;数据采集;移动定位;试验;地理信息系统
+AB 介绍了居民出行数据自动采集试验的目的与原理,给出了按指定方案出行和自的目的出行两种情形的数据采集试验方案;简述了利用 GIS 平台对样本采集数据进行离线显示处理的结果,并采用人工记录的轨迹数据对自动采集试验数据进行了初步校核。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXMp-99H_xeFg3o7geObHpMsn_aUSUM96Z1he0VY1Yk7G7uvJFW7z7QQV5VMG3fyVTobHmWW6aZaT5huEUj9zV_0SSIP5x1sduaAzqGu8d8_TrGMXNGPHaU0QRfs-ZMx1IdA4SiYxqLzQwD8I8GeLUF4F2sK8zu0Po5EmRF-Y6CJ_meYoyvJWix&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 翁剑成;荣建;任福田;董爻
+AD 北京工业大学交通工程重点实验室;北京工业大学交通工程重点实验室;北京工业大学交通工程重点实验室;北京工业大学电控学院;
+T1 基于浮动车采集技术的动态车载导航系统体系构架研究
+JF 第一届中国智能交通年会论文集
+PB 中华人民共和国科技部、上海市人民政府、全国智能交通运输系统协调指导小组
+PP 中国上海
+YR 2005
+OP 338-344
+K1 动态车载导航;浮动车;动态交通信息;智能交通系统;数据融合;体系构架
+AB 车载导航系统是智能交通系统(ITS)中最具实际应用价值和推广前景的子系统之一。建设具备实时交通信息支持的动态车载导航系统是改善城市交通管理,减少交通拥堵的有效途径。本文设计了一种基于浮动车信息采集技术的动态车载导航系统的体系构架;对系统构架中各个子系统的联合运行模式以及交通信息交换方式进行了研究;并在此基础上,对各个子系统的功能任务以及系统建设中的关键技术进行了探讨。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LX6bGypYVvdSdOJCZbbN-fuOINybibOsVmn1V52OgdgsiYl02Cu-81D1GodVcJGCG9kmKPCEq6aHeQISh1SB0gk5FpmvxM1ZyUi90iMbFvDqzN11BiMkpmAEE82Gdy_W1ybA00ySBqb1unJBbsBPKJRJQI6GaIWy7ogOMeyvjB4D7AMeXcCQxEi&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 刘建伟;向怀坤;曹泉;李锋;王钧生
+AD 深圳市哈工大交通电子技术有限公司;深圳市哈工大交通电子技术有限公司;深圳市哈工大交通电子技术有限公司;深圳市哈工大交通电子技术有限公司;深圳市哈工大交通电子技术有限公司;
+T1 基于视频检测信息的干线双向协调控制系统
+JF 第一届中国智能交通年会论文集
+PB 中华人民共和国科技部、上海市人民政府、全国智能交通运输系统协调指导小组
+PP 中国上海
+YR 2005
+OP 641-648
+K1 视频检测技术;双向绿波带;智能控制;智能交通系统
+AB 分析了视频检测技术在交通信号控制系统中的优势和特点,论述了干线交通信号控制的基本原理,主要包括交通信息采集、交通控制模型建立、干线双向绿波交通控制参数优化、配时方案设计等等。论述了在此基础上开发的区域交通智能控制计算机仿真系统软件。最后以广州市番禺区清河路干线交通控制为例,对该项技术进行了实际验证,结果表明所采用的控制理论技术切实可行。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVIpAEoUIwSS-SFT5Q353H_lCWvtDlZrRWcq1GHkM7RXjt8aS3opZlN0dN0OjHeEOlnmgVJmRK0ckydHGLP-kkhZFNg1NBzsfz_uSyVbY8UOoyY6hvUlqBB8LEBZC7usCB15N46eLlpnTPXnxAYLQXvbWLC9XaIFR-P1LZkvgoc9evq7J4pKytH&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 孙建平;温慧敏;郭继孚
+AD 北京交通发展研究中心;北京交通发展研究中心;北京交通发展研究中心;
+T1 浮动车交通信息采集系统建设框架研究
+JF 第一届中国智能交通年会论文集
+PB 中华人民共和国科技部、上海市人民政府、全国智能交通运输系统协调指导小组
+PP 中国上海
+YR 2005
+OP 395-400
+K1 浮动车系统;结构框架;系统功能
+AB 浮动车交通信息采集系统因其具有覆盖范围广、采集数据多样、准确等优点,已经受到国内外的普遍关注。本论文首先详细分析了浮动车系统的组成与技术原理,并论述了其技术优势和实施必要性。在总结国内外类似系统研究和建设经验的基础上,提出了北京市实施浮动车交通信息采集系统的系统结构和建设框架,并对浮动车系统的数据管理与处理进行了分析论述。本研究不但对北京市交通信息系统的建设提供新的思路,对其他省市实施浮动车系统也很有借鉴意义。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW0rWP2MmyGnlDLtpVkfcH041z9JpVB9p65iLGgYUSrHohKRb0w0uMameNM5egRWxR1lPeEhq-HAHa2IffhNtEFsHzFmNKfqBZqtUUf2l_qplRqenPB_W9uUrgNKDMwUtX54MD6YdyKjl4fxqznkDkp2yosj2hjeFBtzcEiPulPdZcSAwx0sPr3&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 郑芳芳
+A3 罗霞
+PB 西南交通大学
+T1 公众出行交通信息服务系统及关键问题研究
+CL 硕士
+YR 2005
+IS 09
+K1 公众出行;交通信息服务;结构;浮动车
+AB 交通信息服务系统是智能交通运输系统研究的一个重要部分,是现代交通发展建设及管理的必然要求和发展趋势。公众出行交通信息服务系统集信息采集、信息处理和信息发布于一体,采用多种信息发布方式向公众提供各种交通信息。论文采用从“整体到局部”的研究方法对公众出行交通信息服务系统的若干问题进行研究。论文首先从出行交通信息、出行对象以及服务功能需求三方面对公众出行交通信息服务系统进行详细需求分析,提出了建设公众出行交通信息服务系统的必要性和迫切性。分析了公众出行交通信息服务系统的数据流,给出了整个系统的逻辑结构框架。论文将公众出行交通信息服务系统分为三部分进行研究,即交通信息采集、交通信息处理以及交通信息发布。分析了不同交通信息采集方式各自的优缺点,给出了交通信息采集的流程,分析了该子系统的功能单元,同时对基于GPS定位的浮动车交通信息采集中涉及的问题进行探讨,分析在不同交通参数检测需求下,浮动车样本数量的确定方法。论文从概率论的角度出发,在考虑定位精度和通信效率下,提出了浮动车样本数量确定的改进模型。从采集系统获取的交通信息需经过处理才能成为有效信息用于发布,论文详细分析了三类动态交通信息的预处理方法,给出了动态道路交通信息预处理流程,同时从信息融合的角度研究交通参数预测方法,给出了交通信息处理子系统的结构框架。交通信息发布的方式较多,但适用情况各不相同,论文对各种交通信息发布方式的特点及适用对象作了分析,对交通信息发布子系统的功能结构以及整体的结构框架进行了分析和设计。在分析比较各种通信技术的基础上,给出了交通信息发布子系统的网络拓扑结构。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXyTbvXmRyKVIhoUPfBsHRmpA88eCaIW30EzmIqfLU6tzKep4I4cbNBQOHSBo29p2gmzr2eq2q1veveG1QrEGyUxE0VbOYN5HXJSIrZYxyFJ0woBoIIkP8uiBytxsvKFQyHrJm85P175vyyi1Oslwn3NZ5zgC-9p0-ZMqM25trvfp9bhqhFv1hE&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 城市道路交通信息智能化系统及平台软件
+A1 陈平
+AD 上海电器科学研究所
+FD 2005-12-01
+K1 智能交通;信息采集;平台软件
+AB 本项目自主开发出适合我国交通管理实际需要的城市道路交通信息智能化系统及平台软件。开发了城市快速路交通状态自动判别、行程时间预测、交通事件自动检测技术;基于SCATS采集数据的地面道路交通状态自动判别、行程时间预测技术,充分利用已有资源,节约ITS建设投资;基于可变信息标志的群体性交通诱导关键技术,实时动态地提供交通诱导信息,减少拥堵降低事故率。实现信息在子系统间的共享,提高资源利用率,为实现子系统的协同运作提供技术支撑。针对系统各组成部分的功能需求,开发系统平台软件,设计良好的基于GIS-T的人机交互,实现城市交通管理的集成化、智能化和信息化。运用先进技术,建立系统运行维护的管理平台。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 王志刚
+AD 山西省交通规划勘察设计院;
+T1 GIS在交通中的应用与发展
+JF 山西建筑
+YR 2005
+IS 22
+vo 31
+OP 292-293
+K1 GIS;关键技术;数据采集
+AB 总结了 GIS 技术的特点,并介绍了 GIS 在交通领域中的应用,通过对 GIS-T 中关键技术的分析,对其应用中面临的实际问题作了一定的研究,并提出了解决问题的方案,以改变交通现状,促进经济发展。
+SN 1009-6825
+CN 14-1279/TU
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13719/j.cnki.cn14-1279/tu.2005.22.185
+﻿
+DO 10.13719/j.cnki.cn14-1279/tu.2005.22.185
+﻿
+
+RT Newspaper Article
+SR 1
+A1 张奕
+T1 高架路装上“智能芯”驾驶员用上“千里眼”
+JF 解放日报
+OP 001
+FD 2005-11-10
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXYnWdok7Tp6eSYWi9cOfyKHOIG2-h3LZd5JiGl_YeG6fHIRsLfFfr_dh_xJCXRVqxAzgWQrW9ZvjfaqTgk2sedVjdfv6jZUqzBkw8gyQKRlEINAUm4rX_UKXThFWNiHjlBRO_ZZUebuj95gPqt5ybB87KAvFFsfad7wM4GTabVG0vKba8XHPiF&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 BS DD CEN ISO/TS 17261-2005
+T1 智能运输系统.自动车辆和设备识别.联运货物运输体系和术语
+A1 BSI
+PB 英国标准学会
+FD 2005-10-24
+ID BS DD CEN ISO/TS 17261-2005
+K1 建筑设计;传播方式;合作;数据采集;数据代码;数据编码;数据交换;数据媒体;数据传输;定义;编码;货物运输;识别;信息交换;物料装卸;射频识别;无线电通信;射频识别卡;远程处理;术语;交通业务;传输协议;运载工具
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXXGEbjmDotS8waSHRyOlG3Ht9rn5r_WVWyrIGAyePolOTYF-Ket-UVGsC4qhdL0R0_nSyGu8O8mEEnlJJGSpF_IJeb2v1dgCOaEKxvvRvNI-HA3mnxhhY3K4TuyYbdRToHH5Jn8ChKQflxB8YRn5q-FMQXTE6Zk8LHUTbXk35t6A==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 揣锦华,李续龙,许宏科
+AD 长安大学信息工程学院,国家智能交通系统工程技术研究中心,长安大学信息工程学院 陕西西安710064,北京100088,陕西西安710064
+T1 基于视频图像处理的交通流检测方法
+JF 长安大学学报(自然科学版)
+YR 2005
+IS 05
+OP 86-89
+K1 交通工程;交通流;检测算法;信息采集;数字图像处理
+AB 针对视频交通流的特点,提出了一种无需进行视场标定的交通流检测方法。该方法选用检测线上的点及其近似点作为检测区域,通过对背景模板上检测区域中的突变点的分析和统计,可以实时地检测车辆的驶入、存在和驶出,提高了检测速度。在此基础上,设计和实现了视频交通流信息采集系统,并用软件实现检测算法和图像处理算法。试验结果表明,其检测速度和检测精度都能够满足实际要求,达到了用最小的系统规模实现交通流信息采集的目的,能够为交通管理与控制提供信息数据。
+SN 1671-8879
+CN 61-1393/N
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.19721/j.cnki.1671-8879.2005.05.021
+DO 10.19721/j.cnki.1671-8879.2005.05.021
+
+RT Standard
+SR 1
+C1 ISO/TS 17261 Technical Corrigendum 1-2005
+T1 智能运输系统.自动车辆和设备识别.联运货物运输体系和术语.技术勘误1
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2005-09
+ID ISO/TS 17261 Technical Corrigendum 1-2005
+K1 交通业务;实体分配管理;数据交换;术语;射频识别;数据传输;无线电通信;信息技术;规范(验收);接口;RFID;程序保存;定义;安全;数据采集;信息交换;远程处理;运载工具;自动;传输协议;远程信息管理;程序描述;数据编码;识别;物料装卸;建筑设计;系统建筑学;数据代码;数据介质;编码;传播方式;货物运输;作标记;道路运输;合作
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXWgpXIEmKW1s0XbhbYAnWBVqx3O6XUZT77P8N-Gg3g1jDheKe8atua4cCdPptmhCNk4Msvl5Qli1-LJqVVns7wocaR2BGSeGVaAJ45LPDtLt4nA1a0JbUYypBbz-7AQ8gmQeutFuCL8vW0SIf2N19ENZbuyEYz_-pKdW4PcVYUVA==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Standard
+SR 1
+C1 DIN ISO/TS 17261-2005
+T1 智能传输系统.自动车辆和设备识别.联运货物运输体系和术语
+PB 德国标准化学会
+FD 2005-09
+ID DIN ISO/TS 17261-2005
+K1 定义;RFID;货物运量;项目表示;信息交换;远程处理;英语;作标记;射频识别;数据交换;术语;规范(验收);交通业务;运载工具;实体分配管理;数据传输;界面;无线电通信;道路运输;合作;建筑设计;数据采集;传播方式;编码;系统建筑学;传输协议;物料装卸;数据代码;数据介质;货物运输;安全;识别;项目描述;自动;数据编码;信息技术;远程信息管理
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXFKBzCum-1wWw1zP9a_AuqMCdEOUbjD3TjixAkL6PuONoSI4v49U1C8-IDBjnc-ANkQIQ26CGx78E7z80Ve_xhgqpZf1ujrjOWE-KgNEIhoWI1pLEBkZFrerc5kJs1WA023zSyOmLw-qKBtBhrEOl-5sYtJTH3SEJ2Bbqi8H02pQ==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Journal Article
+SR 1
+A1 申江云,宁滨
+AD 北京交通大学,北京交通大学
+T1 一种实时的交通信息采集处理系统的设计与实现
+JF 微计算机信息
+YR 2005
+IS 21
+OP 67-68+193
+K1 信息采集;信号处理;PCI9054;TMS320C6701;WDM
+AB 本文主要给出了一种实时的交通信息采集处理系统的设计与实现方案。着重讨论了PCI9054的结构和特点,PCI与DSP的接口,WDM驱动程序的设计以及信号处理在DSP中的实现等问题。
+SN 1000-7016
+CN 14-1128/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVix2hUlBOmW0aNcXgI3IPY0pFdiMV_8msdThUshBwqOE_shpdVttE0Xn1FWrdSDf5vb52r5iWQTeYEBLe-QOYmaGo0evKKcXCPqQgosMsTcKyQwHfTLifacCGb9gqZv0Meyxf2gXXk0nKd1yr1aqKMzQ8c7SR2snVzVNp_fR2ccQ==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 刘光耀
+A3 顾伟康
+PB 浙江大学
+T1 基于模型的交通流信息检测系统研究
+CL 博士
+YR 2005
+IS 09
+K1 交通信息采集;基于模型的对象识别;车辆模型;路面运动约束;小波多尺度分解;运动检测和跟踪;模型匹配;嵌入式系统
+AB 计算机视觉技术是实现图像理解的重要技术,在智能交通系统(ITS)中具有广泛的应用。基于视频图像的交通信息检测具有检测信息全面、监视范围广、成本较低、不影响交通等优点。与其他技术相比,视频技术在处理车辆跟踪、车辆分割、车辆排队等方面,具有明显的优势,是实现交通信息采集的最主要技术手段之一。在“十五”科技攻关项目“交通信息采集设备开发”课题的支持下,本文研究了固定相机条件下的交通流量参数提取、交通场景理解的技术和方法,以及基于嵌入式系统的研发工作,并成功研制一体化和分离式两种类型交通信息采集设备。运动车辆的分割、跟踪和识别是实现交通信息检测的基础,是实现交通场景理解的关键技术。考虑到检测设备的检测功能要求和实时性要求,以及车辆形状和运动方式等有关的先验知识,本文提出了全新的基于立方体模型的车辆描述和识别系统,内容涵盖了实现一个对象识别系统所必须研究的底层处理、模型化和匹配三个方面。并对相机标定、运动信息检测和立方体模型识别等提出了行之有效的算法,最终实现了具有实用意义的检测系统。在相机标定算法研究中,根据车辆运行于道路平面的约束知识,将相机标定分为外参数标定和内参数标定两个不同的处理步骤,实现了简化标定的目的。研究了道路平面运动约束下图像平面和道路平面之间的重投影关系,在此基础上推导出路面重投影速度与车辆运动方位之间的同方位关系,作为车辆模型定位的初始化信息。研究基于单帧图象的小波变换、层次图象分解、多尺度边缘检测、边缘描述、多尺度角点检测等技术,以及由边缘特征实现的基于平行四边形的感知聚类方法,为模型匹配提供更高层次的特征结构。运动信息检测由变化检测和光流检测两个阶段实现。变化检测由时间差分和背景差分两种不同的差分技术实现,时间差分通过连续帧的“与”运算消除“虚影”,由背景差分实现完整的变化检测。研究了背景模型、背景更新、自动光圈抑制、形态学处理和团块凸分割等有关内容,实现稳定鲁棒的运动团块检测。光流检测由团块粗跟踪和Lucas-Kanade算法精确匹配实现,由RANSAC实现了2D仿射运动模型鲁棒估计,由Kalman滤波。此外,还阐述了基于颜色空间变换的阴影检测方法。车辆模型由立方体结构实现模型的点、线、面之间的拓扑结构描述,以及基于视面图的2D投影描述。在识别过程中,由运动信息确定车辆模型位置和方位,对于单个车辆,实现基于轮廓的单个车辆特征检测方法,由Bayes推理网络进行识别。对于多个车辆,由边缘特征和运动光流特征,采用多种约束条件控制匹配搜索的深度和识别树的数量,完成车辆对象的分割识别。论文最后介绍了交通流量检测设备的产品化开发,包括硬件系统和软件系统的开发。此项产品再经过一系列的改进和优化,将具有非常广阔的应用前景。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWqNtwz0SXTCCmHAj60OHDstSGPhwNj91ZODgk_8mckAG7uvJ-1Qd7P7yzbCgcX6mIxTNyvgu8E3BqtLAgdvRRx1fH8VHm8Fg0FMkhcPxQidKrda7iEnYlz1x2DLNTcTWUSVmnqji4CL7yutYhrpD-TkRCNdnr1YvjBrQ2RaRgJ__AYGV4tbI6b&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 翁剑成;荣建;任福田
+AD 北京工业大学交通工程重点实验室;北京工业大学交通工程重点实验室;北京工业大学交通工程重点实验室;
+T1 基于探测车实时上传数据的区间速度计算方法研究
+JF 可持续发展的中国交通——2005全国博士生学术论坛（交通运输工程学科）论文集（上册）
+PB 国务院学位委员会、教育部学位管理与研究生教育司
+PP 中国北京
+YR 2005
+OP 449-453
+K1 探测车;交通信息采集;数据处理;智能交通系统(ITS);车载导航系统
+AB 交通信息的采集和实时发布是动态车载导航系统高效运作的重要保证。基于探测车的交通数据采集方法是对传统交通信息采集方法的有益补充,也具有投入低、数据精度高、实时性好的特点。本文依托现有的探测车采集实验系统,从区间速度的定义出发,针对实时上传的探测车数据,提出了以探测车的区间运行时间和路段长度为基础的区间速度处理算法和地图匹配失败情况下的数据处理方法。最后,通过对比跟车实验实测的区问速度和计算结果,验证了该算法的区间速度计算结果精度达到了90%以上,从而为探测车信息处理提供了简单、准确的区间速度计算方法。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUimIMVX09OSla-p5ppJULfCI-32AguXv6jjyDE_fBAuqJV_1tqyqcF73hcNl3GLXoKGMQ07e-RSD-p2R7Sz7J3p9xA4Xl9DsoJpViBbZAbBNLfoRQEqme5bA17IStItvKRnIOq6q9LMi2D8xwzaP5Yix_I4VI0zzR2Y-Lwkc-lhi1oj_hNbVps&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 杨丽松;关忠良
+AD 北京交通大学经济管理学院;北京交通大学经济管理学院;
+T1 北京城市交通信息采集与应用系统的研究
+JF 可持续发展的中国交通——2005全国博士生学术论坛（交通运输工程学科）论文集（上册）
+PB 国务院学位委员会、教育部学位管理与研究生教育司
+PP 中国北京
+YR 2005
+OP 734-738
+K1 交通信息采集;处理/分析;发布;实时
+AB 随着汽车保有量的增加,交通基础设施的建设已经满足不了交通发展的需要。采用智能交通系统改善道路状况已是必然的选择,而真正的智能交通系统就是能向出行者提供全方位的、实时的和可靠的交通信息以及与交通有关的其他信息,因而交通信息的采集是进行各种交通管理和控制的基础。随着新技术的出现及应用,各种新的交通信息采集手段及采集设备将不断更新,这将为我们建立更加先进的实时交通信息采集系统及交通预警系统提供坚实的基础。本文在研究了国外一些发达国家和国内一些大城市交通信息采集与应用系统现状的基础上,通过分析目前北京道路交通采集信息系统的现状,从实现信息的高度整合和共享角度出发,对北京城市交通流实时动态采集、处理/分析及发布系统进行了研究和构想,希望能起到抛砖引玉的作用。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU4hqC32W0z9__Y9q5msLHZHPeydy4FNS9I1DbHSduPfa9ZeIVuyYYTqXQh_3eIWQA-cr4PMMjk1TtKC17GPsi1VdNZxO0rTPlcpLQ70Zvhf7nnc0YMB_EMFyWgiEfmep67txWBVfBJag6FNA31eQnH57UQrNIPa6mjUlj25eJf6YKMH8G0usc8&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 彭聪
+A3 谭建军
+PB 中国科学院研究生院（广州地球化学研究所）
+T1 基于GIS的城市公共交通监控调度系统数据库的研究
+CL 硕士
+YR 2005
+IS 08
+K1 地理信息系统;公共交通监控调度;数据库;数据模型;数据采集
+AB 随着城市交通问题的日益突出及公交优先战略的逐步确立,应用地理信息系统、车辆定位、数字通讯、计算机网络等现代科技手段提高公共交通的整体运营水平,已成为当前面临的紧迫任务。智能交通系统(ITS)正是在这种背景下产生和发展起来的。城市公共交通监控调度系统作为智能交通系统的一个重要组成部分,主要由监控调度中心系统、公交车载信息终端系统、通信网络系统和三个子系统组成。近年来对城市公交监控调度系统的研究越来越多,取得了一定的研究成果,但由于没有建立起包括公交基础信息的监控调度数据库,研究也只停留在单条线路监控调度的试点上,因此系统研究受到了一定的制约。本文通过对城市公交监控调度系统数据库的设计与实现进行了较深入的探讨,为系统的应用与研究奠定了基础。论文是在对城市公交监控调度系统的系统结构进行分析的基础上,提出必须建立适合公交监控调度的空间数据库。论文研究的重点内容是分析系统所包括大量的空间数据和属性数据,在经过归纳和抽象之后,按ER的思想把数据库划分为公交外部环境信息、道路网络信息、公交网络信息、公交客流信息和公交监控调度信息五个部分,论文给出了各部分的概念模型设计和部分数据库表设计,并用ArcSDE扩展结构模型把GIS和RDBMS集成的方式实现数据库。由于数据库对公交空间数据的巨大需求,本文还提出了一种适合公交行业的嵌入式数据采集系统,从而很好的解决了本系统数据库数据采集与更新的问题。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXlVJAPPr05wADRI51aYC2nsowxF-bRxPWs5sgdqiWWhcdg1slwdbiQseQDVR-t9moK3Jv5L6q8yfRrA7vjAM_4030lofljAF_2WFRHuyebXtBXtkN1Awd2Uy7IRzX9zEA2budj3OYoHLz8caOScxTyMJamzh7f9P47Mqrw67mCilackMq-uALn&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 乔娟
+A3 陈红
+PB 长安大学
+T1 陕西省公路养建规划理论与实践
+CL 硕士
+YR 2005
+IS 04
+K1 公路养护;公路建设;规划
+AB 公路的养建规划作为公路建设的一项前期工作,对确保未来公路网系统功能的实现具有十分重要的意义,是公路养建的宏观管理和科学决策的重要依据。公路网的建设和养护需要在公路网规划的基础上综合地统筹,分阶段分步骤地有序持续进行,具体的养建项目应该站在全路网整体效益的高度出发予以合理地科学安排。本文通过对国内综合运输体系客货运输结构的比较分析,论述了不同发展时期公路交通在综合运输体系中的地位和作用,对我国公路交通在综合运输体系中的作用进行了科学定位。并从不同角度论述了我国公路交通发展面临的机遇和挑战,在此基础上从国家、西部、陕西三个不同层面分析了公路交通面临的发展形势。通过对公路交通发展中“养”与“建”的关系分析,指出:目前应该贯彻“养建并重”的方针政策,在大规模的公路建设过后,则应坚持“以养为主”的策略。在阐述公路养建规划指导思想和基本原则的基础上,对公路养建规划体系进行了框架设计,并针对公路养建规划体系中的各个子系统进行了功能设计。论文对公路养建规划中的关键技术:公路交通信息采集系统的建立和公路网养建项目实施序列优化进行深入地研究和探讨,并建立了相应的模型。论文还对公路养建规划保障体系进行了设计,并从多方面提出多种切实可行的保障措施。最后,以陕西省“十一五”公路养建规划为例进行了实证分析。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWRHBEHsy803E8ERChC9NURYiUS978os4juqlx3q4jr5rIQjtG--Rq5EPV2j8Paij_3xe5WhpuRZHJMrxUAonam23_BCw7Nr5F9c9efKH4b0x0Xr8gTpU8sA-O7jRxrD6MWa6WW8amBXf7rhelQGNqdfGmrhY4dgF_jS_sjhHPudFssX9_eDIaD&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 陈永康
+A3 王殿海
+PB 吉林大学
+T1 车辆视频检测算法研究
+CL 硕士
+YR 2006
+IS 10
+K1 背景更新;阴影去除;车辆分割;车辆跟踪;系统设计
+AB 交通信息采集技术在智能交通系统中的作用不言而喻,视频检测技术由于其检测范围大,设置灵活,调整容易,安装维护方便,检测参数丰富,在交通中的应用前景越来越广阔。由于运动车辆参数检测是在自然场景之下进行,天气条件比较复杂,背景变化比较明显,本文采用改善了的EKF滤波器进行背景模型更新,能很好的适应各种条件下的背景变化带来的影响。在某些情况下阴影特别严重,影响到后继处理结果的准确性,阴影去除算法就显得尤其必要。本文在前人研究的基础上,提出了一种基于过零点的阴影检测方法,有效减少了阴影的干扰影响。为了能够把运动车辆从图像中完整的提取出来,本文依据分水岭的思想,结合背景更新模型作为运动物体的模板,使用了一种基于标注的分水岭分割方法,把运动车辆从图像中很好的提取出来,然后运用EKF对物体进行跟踪。经过实验证明该算法简单、可行。最后在已研究算法基础上,简单介绍了视频检测系统的设计思想;在充分考虑到系统实时性的要求之上,实现了一种基于虚拟检测线圈的视频检测方法,仅仅通过检测虚拟检测线的灰度变化,来获取相关的交通参数,而不再在整幅图像区域进行处理运算,大大地加快了算法速度。并在Visual C ++7 .0的平台上进行了实现设计。实验结果表明,该算法适用于自然光照条件下的场景中,能够将目标参数快速的检测出来,并具有一定的精确性。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWRHBEHsy803E8ERChC9NURYiUS978os4juqlx3q4jr5vvj4Y6Ii1IW1tGiS5lxc_gKvYtAMpBCuEU0lCK7SOe21JWS9aDcfbLHCOV0nSyy3J8fZgFdgo1bs2yx9Yt9NspeO5jiEHh4blxPaPUsfgHwYh0D-R4IGz3082T7umONE-1FO25zPkh3&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 徐佳玉
+A3 罗三定
+PB 中南大学
+T1 交通信息采集系统中的车辆目标检测与识别
+CL 硕士
+YR 2005
+IS 05
+K1 智能交通系统;运动目标检测;目标识别;背景相减
+AB 实时交通流数据的采集,包括车流量统计、车道平均车速、车型识别分类等,在智能交通监控系统中起着重要的作用。交通流检测器有电磁感应线圈、超声波检测器、微波监测器和红外光标等多种方式,而基于图像处理的视频检测方式近年来发展很快,因为它具有大区域检测、设置灵活等优越性,已经成为智能交通系统的一个研究热点。本文以交通信息采集系统中运动车辆的检测与识别为应用背景,主要做了以下几方面的工作:1.在对运动目标检测中背景更新、噪声的消除等一些难点问题进行了深入的分析研究的基础上,给出了一个稳定的运动车辆检测算法。2.在对各种目标识别算法分析比较的基础上,给出了一套可行的车辆识别解决方案。3.在以上研究工作的基础上完成了视频交通信息采集系统的初步开发。本文的运动车辆检测方法作为视觉监控领域的一种普遍方法,具有一定的理论意义和实用价值,可以推广到视觉监控的其它应用中,具有广阔的应用前景。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWuhwYP92fwN4dLLFjDaCDvciUaE6Y1nLstPp-gdD-qMFk826L2Np0qoL1UFN6F3Wcjiy_D9DhNyPRCW2EpbOYuXpYKHj90j8nWg5lGjUkRxwqslrEH5YdHZIvSxdky_yLTzms2it7RMfn_SOpiMPCWcTLzxiKCvfLanOJcj1bBcY6hQCIPeM7w&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO/TS 17261-2005
+T1 智能运输系统.自动车辆和设备识别.联运货物运输体系和术语
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2005-05
+ID ISO/TS 17261-2005
+K1 系统建筑学;数据代码;数据介质;自动;物品运输;程序描述;数据编码;远程信息管理;规范(验收);识别;货物运输;建筑设计;合作;道路运输;物料装卸;传输协议;数据采集;传播方式;作标记;数据媒体;定义;程序表示法;高频识别;RFID;英语;信息交换;信息技术;远程处理;术语;数据交换;运载工具;交通业务;编码;实体分配管理;数据传输;无线电通信;界面;安全
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUpoKGPwdEKFJebzRTjFpIERCWV6LXALHIdydE7vZyP5IoY4RJ9y8fgcfY9wo6GamcbdHGziRgLLeHvcNDyGvSdj80EBk1k_YTfCCYNSGK-IYv_fpafL6suKGTbhp82tiYqdl7FMHqv9tLYY_CXUFS8-WC1p1v4mW-rki6wjjxKZg==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Dissertation/Thesis
+SR 1
+A1 慕巍
+A3 许宏科
+PB 长安大学
+T1 基于视频图像处理的实时车速信息采集系统的研究
+CL 硕士
+YR 2005
+IS 06
+K1 视频图像处理;实时车速;摄像机标定;车辆检测;车辆跟踪
+AB 随着社会经济的快速发展,交通系统日益复杂。为了给交通系统的管理提供各种实时交通信息,以方便、高效地利用和管理现有的交通系统,基于视频图像处理的交通信息采集系统成为研究的一个热点。本课题作为交通信息采集系统的一个重要子系统,它以实时的车辆行驶速度为研究检测对象,其目的是改进实时车辆速度的采集手段,为道路交通管理提供更为有效的依据,提高交通管理的自动化、现代化水平。本文针对课题的实际需求,对课题相关的数字图像处理技术进行重点研究,并基于Visual C++平台开发了数字图像处理研究工具,对这些技术进行了实现和验证,通过比较和分析选择了适合系统的处理算法;研究了摄像机标定的基本理论和方法,详细论述了本文所采用的摄像机标定算法,给出了总体设计思路和具体标定方法,完成地球坐标与图像坐标的转换,并对标定过程中存在的关键问题提出了合理的解决方案;重点研究了实时车速检测算法以及涉及到的相关内容和算法,并就算法的详细设计思路和方法做了深入分析,包括背景图像的生成与更新、车辆检测算法以及车辆跟踪算法等;建立了一套实时车速信息采集的实验平台,能有效地对实际实时车速采集工作进行模拟,取得实验的有关数据,并对误差进行了分析,给出了一些改进措施。在设计算法的同时,对影响系统检测可靠性的部分典型问题,如车辆阴影问题、拥挤情况下的车辆分割问题以及变更车道车辆的检测问题都提出了解决方案,并设计了相应的处理算法。其中,将拥挤情况下车辆分割问题转化为可靠的车辆检测和后续的车辆跟踪是本文的一个重要特点。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXYqFSiIVreU3xcdKc8KqS8MQmuA_dHufW3f0X647SsVpw1AG-BrhTj2wbPYSWZ4D8glczqIjvDmjwplHZ_57JmHzJKIaKBorAH4vtyfhpDbzAOVH6PdoyhVTlBdxH5bJKfOz--GuhgbUxnasFwcVmcDVJUA5pu3HhYnqpiJvLGjW4JU3k6D011&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 张永强
+A3 黄卫
+PB 东南大学
+T1 浮动车交通信息采集系统研究
+CL 硕士
+YR 2005
+IS 01
+K1 交通信息;GPS ;GIS; GSM ;旅行时间
+AB 浮动车交通信息系统是伴随着ITS新技术应用而在近几年发展起来的新型交通流信息采集技术,它可以直接和方便地测得可靠、准确的车辆行驶速度、路段行程时间等参数。该系统作为一种重要的交通信息采集方法,可以弥补现有传统交通信息采集技术存在的数据不完全、数据量不足、数据质量差等问题,对我国交通信息采集工作具有很好的现实意义。本文研究了一种动态收集交通信息的新方法-浮动车交通信息采集系统。这个系统是将GPS技术、无线通信技术、GIS技术和数据处理技术进行有机综合应用。论文用交通模拟工具CORSIM来模拟不同的交通环境,通过设定不同的参数进行分析,就可以得到参数各自之间的关系,从而选择最优的参数值,来估计对于可靠网络覆盖所需的最小浮动车覆盖率。同时阐述了在浮动车交通信息采集系统中旅行时间预测问题。在比较了多种无线传输系统的关键参数如业务类型、容量、时延、传输准确率、单位数据传输费用等的基础上,在确定了本系统在满足传输要求的情况下,选择GSM系统为浮动车系统的通信系统。同时为了对得到的数据进行计算以及适当地显示结果,有必要对这些GPS数据格式化,也涉及到一些浮动车后端数据处理问题,如地图匹配问题等。最后抽取平均速度、旅行时间、延误、拥挤指标、停车时间比例等交通特征参数。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWXB02Vww_eMNoaRnlr27uvuZFgz9OSvDdPGVgc3OWUB4HvRuyOmAlZsbMZCqdJbajb-5fh-UU9CEAsl30nMr1bsuk_5BZR9u3KiZaSusvJ8tT5vJI3jaJ5ONXUFb7ULm6N9CLwI75zKvXdi8-FLVrg-TZSiQNlEg18Ke8fJf_lc4Xa_Q2L___d&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 黄绍雨
+A3 陆键
+PB 东南大学
+T1 公路出行者信息系统功能设计
+CL 硕士
+YR 2005
+IS 02
+K1 智能运输系统;先进的出行者信息系统;功能设计;信息系统;公路网
+AB 先进的出行者信息系统(Advanced Traveller Information System, ATIS)在欧美等发达国家已经有很广泛的应用.我国在此领域的应用才刚刚起步。在我国经济发达地区,交通拥挤和交通安全已经成为最迫切需要解决的问题。ATIS被认为是经济有效的解决方法之一。论文主要针对江苏省公路出行者信息系统进行功能上的设计,为江苏省ATIS建设打下基础。论文在研究了国内外智能运输系统(Intelligent Transportation System, ITS)的最新发展状况的基础上,以江苏省公路网为例,对其进行了需求分析,设计出公路ATIS的基本功能——信息采集与获取、信息传输、信息平台/信息管理、信息发布,并对每个子系统的功能进行了较为详细的设计。论文在信息采集与获取子系统中对采集信息进行了分类,并对不同种类的信息采集和获取提出了一些要求。信息传输子系统中对信息的获取通道和发布通道进行了分析,对信息传输系统提出了要求。信息平台/信息管理子系统中对信息预处理中心、信息平台在功能上进行了设计,并分析了信息分析处理技术。信息发布子系统中对发布信息进行了分类,设计出信息发布系统的功能。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWURm9pWc5i7i3wD-NWRvgcvgaHCLhJ6rWNtBDLNP_G2YstsKOc2TxSPivdy30j947kaviJlBz83wcNsh-5TMBNaP_jpRaPP9LaGCKjqVGJ1b10rLrV9jPnN4U8S24tYhxhd6AQEckZLZmcI_MdaFNwq5lK0kXdpqT2eOOHwcr84XS5B5nHLAlk&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 王力,王川久,沈晓蓉,范跃祖
+AD 北京航空航天大学自动化学院,吉林大学交通学院,北京航空航天大学自动化学院,北京航空航天大学自动化学院 北京　100083,吉林长春　130025,北京　100083,北京　100083
+T1 智能交通系统中实时交通信息采集处理的新方法
+JF 系统工程
+YR 2005
+IS 02
+OP 86-89
+K1 无线定位技术;交通信息采集;测算效率
+AB 在分析目前城市交通信息采集系统中存在的检测成本高、检测范围有限等主要问题的基础上,提出通过GPS/蜂窝无线定位进行交通信息实时采集处理的新方法,深入剖析了该方法的技术关键,并给出该方法的测算效率改进模型,结果显示本文模型相对原有模型改进了5%以上。
+SN 1001-4098
+CN 43-1115/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWURm9pWc5i7i3wD-NWRvgc66Nj62uB8OJdOCNs5IXHsUfkkvgLBY1FeFlSkbinh80f0rlfBMNvDVlcADNC_FexNdbRibsBSCtg19P31QtaP_DjrsdAplUb3OoWObOPYjZP20lN4AvfmtsJOQ1eMvlFeh3KkfJfcVDthb9_JAZSZw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+T1 2004-2005年上海道路交通排堵保畅措施
+JF 交通与运输
+YR 2005
+IS 01
+OP 15-16
+AB <正>一.加强道路基础设施和管理设施建设(15项) (一)新建和优化交通管理设施 1.优化调整交通信号控制系统:新增SCATS控制信号灯200个,新增路口信号灯200个、人行信号灯300个,加装150套"电子警察"。 2.新建高架道路30个上匝道实时监控指挥系统。 3.推进CBD停车诱导系统建设:完成黄浦区二期、静安区建设项目,启动徐汇区、卢湾区项目建设。 (二)继续推进交通信息平合建设 1.建设出租车信息平台。 2.扩大信息监控范围,实现内环线内与越江设施视频监控全覆盖和信息互联互通。 3.实施中心区道路交通信息采集系统一期工程。 (三)实施道路功能改造工程 1.在30条道路增设标线式港湾车站。 2.建设内环线内出租车候车站350个,黄浦、静安、徐汇、闸北分别达到50个以上。
+SN 1671-3400
+CN 31-1476/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVJqcb3juWzzrvdPmqqtq6aZCk4fSW7jhxKQElXOCdGV3xol3zPrCvTdJ7IW5-KJvPdqgZR_fnSzEfixXdrplIJUSQZeiyrKjbTPsVNcct8tKGVfOFgDOLSVbEjUnr_0MUAcHU5bfThLLbbFXAJVut3jbog2M7gzXAAoey3fxV-BQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 王晓波,包宏
+AD 北京科技大学信息工程学院,北京科技大学信息工程学院 北京100083,北京100083
+T1 视频交通实时采集系统的设计与实现
+JF 计算机应用研究
+YR 2005
+IS 02
+OP 245-246+257
+K1 图像处理;采集系统;交通信息;视频;智能交通
+AB 视频交通实时采集系统是实现交通控制和监督的重要组成部分,介绍了一种简便实用的、以VisualC++6.0为平台,对车流量、车速等进行实时检测的采集系统,具有一定的实用性。
+SN 1001-3695
+CN 51-1196/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVOYb3SB2YeRXzkhgu45szy3vAKn7avxY_PCJJf17v3c14QQ8EPsNKHnbzvX2ewYJAzPiNW4z_xX8l6oZdHYYM4cB1Pvd5777rGcITlledniBVC5btpYyupqQ7TQXpSSvS8AMPb9Mhqa1we3EVOK5VfCmpomM5QsX1BqvZg_iX_AQ==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 孙闽红
+A3 郭勇
+PB 成都理工大学
+T1 微波雷达在实时道路交通信息采集系统中的应用研究与设计
+CL 硕士
+YR 2005
+IS 07
+K1 智能交通系统;微波雷达;DSP; MUSIC算法
+AB 实时交通信息是实现智能交通系统(ITS)的关键,也是ITS各子系统实施的核心数据基础和重要前提,在交通规划和交通管理控制等方面具有广泛的应用前景。采用民用微波雷达可以准确探测车辆的出现和行驶速度,具有成本低、设备简单、有极强的搞干扰能力、能在恶劣的气候条件下工作等突出的优点,从而在交通信息采集技术中得到深入研究与应用。本文提出了一套基于DSP和民用微波雷达的道路交通信息采集系统设计方案。详细地论述了微波雷达技术的基本原理、系统的硬件设计方案、MUSIC算法的多普勒信号频率估计原理和系统软件设计方案。在硬件设计上,给出了雷达接收信号的前置放大电路、TMS320VC5402系统各模块的电路图及CPLD与各模块的控制逻辑图。此外,讨论了系统的安装注意事项。在软件设计上,对可编程部分给出了程序的流程图。在信号的处理算法上,由于MUSIC算法在低信噪比条件下对所接收的含有多个频率成份的信号时具有较好的频率分辨率,可以在多车道监控时能够同时捕捉多台车的信号;同时考虑到系统工作在气候恶劣、信噪比低的条件下,我们采用该算法,实现对多车道的无模糊监测,取得真实且准确的车速和车流量数据。通过采用MATLAB工具软件仿真产生多普勒信号,在CCS集成软件开发环境和DSP教学实验系统硬件平台下对信号处理,得到的结果表明该算法的估计误差较小,可以应用于高速公路或其它行人稀少的路段的车速和车流量信息的采集,为交通管理部门提供实时真实可靠的信息。最后,对进一步的研究提出了将多种传感技术相结合以采集更全面的交通信息的建议。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXKzS_j6Fx5nO-xoTArpvr63JaoVc2q9OMb86Ya4odIV2y-lChcMbVLyWw8WqsRfG58qK8AUa1F6jfLtGGrRvezO_-vSITB_LEJtF_i-juLHVI4T1YNdl0C92AmxVQU5053iXdf2VhC39usJ__MPkblKvfpeZcMIA-v5i8RarnERCHKf13JH3bR&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 张懿慧,王柳祎,杨玉良,鲍伟华
+T1 基于嵌入式Linux和Qt的交通信息采集系统
+JF 电子技术
+YR 2005
+IS 01
+OP 57-60
+AB 文章所介绍的基于视频图像处理的交通信息采集系统,包含视频采集卡、交通信息采集终端和远程服务器三大部分,系统软件在Linux和Qt用户环境下开发完成,具有实时性好、算法高效等特点。
+SN 1000-0755
+CN 31-1323/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXm_OFeaS0ShWxdnRl8NKwYBjvEniyVuZa3OSYtJOmeWZrC3RDyYB_CGcCiDKlPevtcT7brLFEXhTuCGpZR-GwL9jv1GSe2WuRcdqP3A5ZZ2k18rCU7sWdTbf6POVbkaY1CxQnzoj5OXmz516v2PxqX-N8A6KwMx70SQ-8aTfPWmw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 陈湘源
+AD 神华集团上湾矿 内蒙伊旗017209
+T1 KJ70安全监测系统在上湾矿的应用
+JF 煤矿机械
+YR 2005
+IS 01
+OP 116-117
+K1 KJ70系统;信息共享;井下红绿灯;安全管理
+AB 介绍了KJ70安全监测监控系统的功能和应用在神华集团上湾煤矿的情况 ,该系统由4部分组成 :监控计算机 ;传输接口及传输通道 ;供电电源及数据采集分站和各种传感器及执行器。能对井下采掘工作面、变电所、进回风巷道、运输巷道的瓦斯、一氧化碳、风速、温度、烟雾、风机开停、风门开关、负压等进行不间断的监测
+SN 1003-0794
+CN 23-1280/TD
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13436/j.mkjx.2005.01.063
+DO 10.13436/j.mkjx.2005.01.063
+
+RT Other Article
+SR 1
+T1 激光智能交通信息采集与处理系统研究开发
+A1 黄亚楼
+AD 南开大学
+FD 2005-01-01
+K1 激光传感器;交通信息采集;交通信息处理
+AB 本课题开发了利用激光原理测量车辆车速、车型基本信息的传感器装置。提出了适合激光传感器信息采集的基于485总线网络和以太网络的物理结构以及相应的逻辑结构。物理结构中,每一个小的物理区域安排一台或者多台数据采集计算机,该计算机负责本小区所有激光传感器信息的采集任务,传感器系统与数据采集计算机的传输网络采用RS485网络,各个区的计算机通过以太网互连起来,从而可以提供城域范围内的交通信息采集,并且易于实际实施。逻辑结构中,根据交通信息处理流程,将系统划分为不同的功能模块,同时考虑了系统各功能模块的独立性、易维护性、可扩展性,使得系统易于开发以及实际应用和维护。研究开发的激光信息采集软件系统能够实时采集不同物理区域的交通信息,并汇总到信息处理中心。信息处理软件系统能够对各种车辆的数据信息分时统计。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 张汝华,郑黎黎,杨晓光,宣国荣
+AD 同济大学,同济大学,同济大学,同济大学 上海200092,上海200092,上海200092,上海200092
+T1 基于视频技术的微观交通流信息采集系统研究
+JF 交通与计算机
+YR 2004
+IS 06
+OP 33-36
+K1 微观交通流信息;信息采集;断面或区域检测;视频检测技术
+AB 现代检测理论与技术 ,完全有能力采集到完整的微观交通流数据 ,即断面或区域车辆序列信息 ,包括每一辆车的车辆属性、位置属性和运动属性。微观交通流信息对于通行能力分析、智能交通控制、异常交通状态识别、微观交通流特性研究、宏观交通流行为理解以及实验交通工程学的发展 ,具有重要的意义。视频检测技术在微观交通流信息采集和研究中具有无可替代的作用。文章系统分析和完整描述了断面和区域两类微观交通流信息 ,介绍了在此基础上开发的微观交通流视频信息采集系统
+SN 1000-8837
+CN 42-1144/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW4kaE2cfH4fXEWzypyBPOIAKzjp2V_2Q55zNJZBL09g8D7wOLSnPatxbRJXK9fsjgdOF5ZRHJhFNwGCMxDLOVo-gzpBsl52URGaPZBOZC9pGijDZxEPJCmSxu2u-BrL4CSyBev0taJLG7H1oG_cdJZHKV_72t2mjfQ6HCy9RUtaQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 杨晓光,张汝华,储浩,伍速峰
+AD 同济大学ITS研究中心道路与交通工程教育部重点实验室,同济大学ITS研究中心道路与交通工程教育部重点实验室,同济大学ITS研究中心道路与交通工程教育部重点实验室,同济大学ITS研究中心道路与交通工程教育部重点实验室 上海200092,上海200092,上海200092,上海200092
+T1 基于高速公路收费系统的交通信息采集与处理基本问题研究
+JF 系统工程
+YR 2004
+IS 11
+OP 4-11
+K1 交通信息工程;信息采集处理;高速公路收费系统;行程时间;动态OD
+AB 高速公路封闭式的收费系统实质上也是先进的交通信息采集系统,从中不仅可以得到流量、车型等一 般性信息,而且能够得到行程时间、行程车速、OD、拥挤度、事件、运营特征及需求管理等常规方法不易获取的 重要信息。同时,由于这种收费系统的信息采集采用逐车测量与统计的方式、具有无遗漏和直接性的特点,因 而信息拥有更高的准确性和可靠性。以上海市高速公路网为背景,通过对典型通道的分析,系统探讨高速公 路收费系统中交通信息采集与处理的几个基本问题:①基础数据采集;②交通信息种类;③行程时间信息处 理;④动态OD信息处理。由于收费系统数据目前还远未得到充分有效地利用,因此本研究工作对我国高速公 路交通信息化与智能化建设、信息综合利用及科学研究具有先导性的作用。
+SN 1001-4098
+CN 43-1115/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUts02TpLa89Ue-s9UEHIDXNHbvfFG-tyIJyg-xc-RD0nrCV80FZnMlk7hHjVMN_qGGN_uFguFXcfEPBXaVojUW9UcLfe0X0Lav5zllRG3oAb1twOgGMxPPD6tCfgH63GNkSFLlQYS3D9UkezdHDysthd6zq9JpZ71gBrzql4KOCA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 章先阵,吴超仲,初秀民,严新平
+AD 武汉理工大学智能运输系统研究中心,武汉理工大学智能运输系统研究中心,武汉理工大学智能运输系统研究中心,武汉理工大学智能运输系统研究中心 湖北武汉　430063,湖北武汉　430063,湖北武汉　430063,湖北武汉　430063
+T1 基于机器视觉的公路交通设施信息采集系统设计
+JF 武汉理工大学学报(信息与管理工程版)
+YR 2004
+IS 05
+OP 62-66
+K1 交通设施;机器视觉;CCD摄像机;GPS
+AB 设计了基于机器视觉的公路交通设施信息自动采集系统。该系统由承载车、计算机、图像采集子系统、地理信息采集子系统和距离定位子系统等组成。图像采集子系统用CCD摄像机采集交通设施的图像信息;距离定位子系统测量车辆的行驶距离从而控制图像的采集频率;地理信息子系统采集交通设施的经纬度等数据。
+SN 1007-144X
+CN 42-1406/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LX_0HYumVpnwLhCrwuRp7bZYDewPohTmu8YfaltOf0e2AHEHiVX2ziJbhOj-ExpcVb9KSWpxBkSh7Mk4c4imiRb6jDRwOD7n_9V6Re_1pJ0XCJpZgde3JhblM0SDVDTUf5IosuqUzie3GUEqM6wfO7dMD3w2Z36ro3N-F69rzj69Q==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 吴兆春;阮永华;郑振乐
+AD 上海宝康电子控制工程有限公司,上海宝康电子控制工程有限公司,上海宝康电子控制工程有限公司,
+T1 交通信号控制技术发展趋势分析
+JF 中国交通信息产业
+YR 2004
+IS 10
+OP 37-39
+AB 就所知的情况看,国内外的系统都没能充分重视交通信息采集系统提供的信息的处理与利用,也没能充分实现与 ITS 相关子系统的联动。SCOOT 系统对周期和相位差效果尚可,但在绿信比优化方面效果并不理想。SCATS 系统相对比较成功地实现了周期和绿信比的优化,但是在相位差优化方面的缺陷也是显而易见的。从产品供货商的角度看,未来所提供的不应仅仅是单纯的信号控制产品,而应该是集咨询、提供、实施、技术支持等一系列服务的集成式产品,信号控制技术的研究与实现将在具有一定前瞻性的基础上,紧紧围绕工程化、实用化、经济化的方向发展,以解决我国目前和未来的交通问题。
+SN 1672-3333
+CN 11-5033/F
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13439/j.cnki.itsc.2004.10.003
+﻿
+DO 10.13439/j.cnki.itsc.2004.10.003
+﻿
+
+RT Journal Article
+SR 1
+A1 李璎
+AD 广州市公安局交通警察支队科技设施处 广东广州,510405
+T1 智能交通管理系统中的视频采集技术
+JF 中国人民公安大学学报(自然科学版)
+YR 2004
+IS 03
+OP 95-98
+K1 智能交通;系统;信息采集;视频技术
+AB 智能交通管理系统 (ITMS)是智能交通系统 (ITS)的重要组成部分 ,而各种交通信息采集是实现系统智能化的前提 ,交通信息采集的方法和技术很多 ,其中 ,视频检测技术具有大区域、大信息量、多功能的特点 ,正成为交通动态信息采集技术主流。本文分析了视频交通动态信息采集技术的特点 ,对智能交通管理系统中综合应用视频交通信息采集技术进行了技术探讨。
+SN 1007-1784
+CN 11-3933/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVHOpF8zJz8PtjV4oXREZEMPIUZT7vFXDuULcGNqsbvLG53NiaIC8OEW2hkUYpp6mOoGqy0htT6VVPy3m7DM8itgX4AuMg_9ib6pSKN_GSlkNI-LBY3LFUusr0bW0VJaxkmRWzZFfBGpl3uEYUzWEG0KBfEdyCnYdxxdYcGJjWlUQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 杨庆华,鲍官军,王成
+AD 浙江工业大学,浙江工业大学,浙江工业大学 浙江杭州310032,浙江杭州310032,浙江杭州310032
+T1 基于计算机视觉的交通事故现场信息分析系统
+JF 机床与液压
+YR 2004
+IS 08
+OP 187-191
+K1 计算机视觉;交通事故
+AB 本系统通过普通相机来完成事故现场的数据信息采集工作 ,大大缩减了交通事故处理所需的时间 ,并能够从二维照片中提取三维数据 ,便于交通事故责任的确定
+SN 1001-3881
+CN 44-1259/TH
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUDxN8kTXtQEB62te1-rhLd6uSy9kCRzyHYAAPyhNoRvsPHb9H2dMLphfCUMTZOggjv78xepilMzUhnNVJ06qYxeFkrpf2gWhE_PezuDHmsvGcrYy9D7Jn02b1DnU76XafCe4wVzSub41gE1FTtj_X1C4NHTXdane29FUjFDcSbRQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+T1 商业信息
+JF 中国交通信息产业
+YR 2004
+IS 08
+OP 75-76
+AB <正> 国际导航产业化与科技发展论坛将办我国首个面向导航产业、关注车载导航和个人导航发展的国际性专业论坛"2004(上海)国际导航产业化与科技发展论坛·NAVIFORUM SHANGHAI 2004"将于2004年12月2至3日在上海召开。这个由国家科技部高新技术发展及产业化司和上海市科学技术委员会共同主办的峰会,旨在为国际导航业界提供充分交流合作的机会,聚首上海,聚焦中国导航产业发展的机遇与挑战。预计将吸引国际著名专家及行业巨头到会,成为国际导航界的一次盛会。本次论坛将采用主题大会、专题研讨、交流洽谈和现场展示相结合的方式进行,为了保证本次论坛高水准的学术氛围和营造良好的文流环境,论坛组织委员会将聘请多位国内外导航领域的学术权威和知名专家组成专家委员会,对本次论坛的重大议题、学术报告和论文进行甄选和评估。
+SN 1672-3333
+CN 11-5033/F
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVFQqeJG5GHXkU2w4agtu00S5ezq00PzJ1rLjUmjZ4SOjGfHsFNmORpoGgDhTGdb54JgG92utqBLEUEKxypqXfZLDCwFZmu-6FJC2vTh60uwNGmYYJejTORanL2_A7xfXOUZ3bfdQ5huipa4JS6sv69n1Z3szblZ6M1_9hL2qKgJw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 陈武,王安麟,魏俊华
+AD 上海交通大学机械与动力工程学院,上海交通大学机械与动力工程学院,上海交通大学机械与动力工程学院 上海200030,上海200030,上海200030
+T1 基于CCD的待车数传感器研究——等待车辆图像的腐蚀—膨胀识别算法
+JF 机械设计
+YR 2004
+IS 06
+OP 20-23
+K1 交通工程;图像处理;腐蚀—膨胀算法
+AB 城市交通系统是一个复杂系统 ,为实现城市汽车流实时响应控制 ,交通信息的实时采集和处理显得尤为重要。针对现有车辆检测器需对道路进行破坏性改造等问题 ,研究一种基于单幅、静态图像处理的CCD路口等待车辆数传感器。提出在对图像进行有效的预处理的基础上 ,采用腐蚀—膨胀识别算法 ,使系统实时检测出交通路口的等待车辆数 ,并以此作为城市交通信号控制系统实时决策的状态信息。通过示例证明了算法的实时性、健壮性及自动化的应用前景。
+SN 1001-2354
+CN 12-1120/TH
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13841/j.cnki.jxsj.2004.06.007
+DO 10.13841/j.cnki.jxsj.2004.06.007
+
+RT Journal Article
+SR 1
+A1 陆建,王炜,梁衡弘
+AD 东南大学,东南大学,东南大学 南京 210096,南京 210096,南京 210096
+T1 道路交通系统规划与管理模拟系统设计
+JF 交通与计算机
+YR 2004
+IS 02
+OP 6-8
+K1 道路交通系统;规划;管理;模拟系统
+AB 道路交通系统规划与管理模拟系统在提高交通信息采集与规范化管理的水平、提高交通网络分析的速度和精度、提高交通规划与管理方案决策的效率和科学性等方面都具有重要的意义。文章介绍了道路交通系统规划与管理模拟系统的整体功能,并对系统框架中各模块的功能进行了设计。该系统在道路交通系统的研究与工程设计中有着良好的应用前景。
+SN 1000-8837
+CN 42-1144/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVGte9YRPm7FviGrT6LOyGAHgOfq3uQy5oUGe8LDiucCzzZv_VWPcq9l_wl8UrKONfj1AiwhUTy2YVZ5WZ_GFJhdPfQtxONKyisST-iJnw9XG3j1YgHNZ2-SCEOdoMfSFqeoDbQ5M5eGs0HAoOJQOZKMusBLsebFYN_QNtg_5_QOg==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 李郁峰
+A3 朱金陵
+PB 西南交通大学
+T1 试验车数据采集系统的研究与开发
+CL 硕士
+YR 2004
+IS 04
+K1 试验车;数据采集;串口通讯;视频压缩
+AB 机车牵引试验是在新建线路投入运营、客运列车提速、货运列车增加牵引吨位、司乘制度改革及机车交路变化等情况下所进行的一项基础性技术工作，为铁路部门经营决策、制定运输方案、挖潜增效提供科学依据。试验车数据采集系统是试验车的核心系统。本文研究开发的试验车数据采集系统包括两个子系统：牵引试验数据采集系统和线路视频数据采集系统。通过分析原牵引试验数据采集系统的组成和线路测距误差的原因，在尽可能少改动原系统软硬件的前提下，提出了解决线路测距误差的方案——充分利用机车监控装置的数据。应用串口通讯技术，实现了牵引数据采集系统与机车监控装置的通讯，实时获取监控装置数据，解决了牵引数据采集系统的线路距离测量误差问题。设计开发的线路视频数据采集系统，实时采集压缩线路视频数据并生成用于回放定位的索引数据。索引数据是通过分析视频数据流提取帧信息，同时从串口接收机车监控装置的数据而形成的。开发的专用线路视频播放器，利用索引数据可以方便的按照公里标进行搜索、定位播放，并配以线路图形象地显示当前播放的位置和公里标。该系统已在广州铁路集团公司试验车上使用，经过现场的应用测试，达到了预定的设计目标，验证了系统设计的合理性和实用性。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWcIu2rQkG7z2qS3iTRNhhTmVle9HK44Ovtee-NIKaAoWzF2Hj3SSGtsKsu0JS9AipH96pS2c5YydSxfDWgGXGKQotRpIpt7x0mDD8mL8mBdDPbvtKVOUHyVr3dwkGj38W-rKglI0Dqja2KRx_91KqCgBYjhDbrt3_36DVBKvWa5M2xVO90__2g&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 冯奇,周小鹏,孙立军,沈祺
+AD 同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室,同济大学道路与交通工程教育部重点实验室
+T1 视频图像处理技术在实时交通信息采集中的应用
+JF 上海公路
+YR 2004
+IS 01
+OP 50-52+5
+K1 视频图像;交通信息;实时采集
+AB 介绍了视频技术用于交通信息实时采集的优点和技术发展现状,并给出典型视频采集系统的软硬件构成及算法处理流程,最后展望未来的研究方向。
+SN 1007-0109
+CN 31-1712/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW5_EQbzte2tDxK1Hr2xLw09tLBfRr-AjB5WnHaVRI0rY_0jCsJmKQGRcDVZuUuOGjaLogluGY6e8up29YPEAsgCP-duL0JQXGELWxmtPlmsToKEO5t3NkK0s8j3XV6uHqPaU7buAZWJ-BhURX1Fk977VRBRnO6b-IKtI1iCZRUrA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 孙兆发
+AD 北京交通大学 北京100044
+T1 智能交通系统数据抽样方法的研究
+JF 交通运输系统工程与信息
+YR 2004
+IS 01
+OP 27-29
+K1 智能交通;数据管理;抽样模型
+AB 智能交通系统 (Intelligent Transportation System)简称 ITS,在现代交通领域具有美好的应用前景 ,是我们今后应该大力发展的方向 .而数据管理特别是数据的抽样技术 ,在 ITS研究中起着举足轻重的作用 .基于此 ,本文结合国外的抽样技术的应用实践以及数理统计的相关理论 ,提出了智能交通中数据管理的思想以及数据抽样模型 .
+SN 1009-6744
+CN 11-4520/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16097/j.cnki.1009-6744.2004.01.007
+DO 10.16097/j.cnki.1009-6744.2004.01.007
+
+RT Dissertation/Thesis
+SR 1
+A1 丁展如
+A3 刘济林
+PB 浙江大学
+T1 交通信息采集设备网络传输模块的设计和实现
+CL 硕士
+YR 2004
+IS 03
+K1 μClinux;Coldfire;MCF5307;BSP;嵌入式操作系统;ITS;交通信息采集系统
+AB 随着社会经济发展，交通系统日益复杂。为了给交通系统的管理提供各种实时交通信息，以方便、高效的利用和管理现有的交通系统，我们研究开发基于视频图像处理的交通信息采集系统。我们的设计将交通信息采集系统分为三个模块：处理模块、压缩模块和网络模块。本文主要研究网络模块。对于交通信息设备中的网络模块，在移植了嵌入式操作系统的基础上，将处理模块得到交通流量，车辆类型，车辆速度，排队长度，转弯情况，交通密度等信息通过TCP／IP协议发送至控制中心，同时，对于事件发生时，将压缩模块中的图像序列发送至控制中心。本文首先叙述了智能交通系统的发展历史和最新动态。在第二章对各种方案进行了比较，比如比较流行的嵌入式操作系统的性能特点，并且比较了一下μClinux与标准Linux之间的区别，最后确定了μClinux和MCF5307为目标操作系统和处理器；第三章详细介绍了本系统的硬件实施细节，包括对系统中使用到的主要芯片的介绍和系统硬件设计上的一些关键技术；第四章介绍了系统的软件实现，包括了BSP程序、主机程序、μClinux下驱动程序和用户应用程序。最后一章对系统的特点进行了总结，并提出日后需要完善和改进的方面。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVA3-DPEqWiEzLuQ6oHiUEyslPlujGEgAUAB1SQDsAOaQnJ2ksrdEL0SiEyQBKaav7dqRqxTi6PYHKTSl3FiNrr648WTEIHkSJhg8IJ9VmoAKfZzVGr7p4y2EmUlxEyFUnlVNLg1N_9QtIu5jExaHi_BmCiWlaEVkpnAqn7Pq8DPbQOqJ2nYFVC&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 王洋昔
+A3 刘济林
+PB 浙江大学
+T1 交通信息采集设备中DSP处理系统的设计与实现
+CL 硕士
+YR 2004
+IS 03
+K1 智能交通系统;DSP;视频图像采集;FPGA
+AB 随着社会经济发展，交通系统日益复杂。为了给交通系统的管理提供各种实时交通信息，以方便、高效的利用和管理现有的交通系统，我们研究开发基于视频图像处理的交通信息采集设备。该设备由三个子系统组成：DSP实时视频图像处理子系统，实时视频压缩子系统和网络传输子系统。本文对DSP子系统的设计实现进行了详细的介绍。在第一章中，本文首先叙述了课题的相关背景以及当前国内外交通采集设备的发展现状，同时还介绍了数字信号处理与DSP系统的相关知识。第二章则介绍了我们所设计的交通采集设备的整体框架，分别简要的叙述了三个功能独立的子系统的实现方案。第三章则主要详细介绍了DSP子系统的硬件方案设计和实现。我们采用TI公司的TMS320C6203B芯片作为系统核心并利用FPGA实现主要的逻辑和时序控制，最后就硬件设计中所应注意的一些问题展开了讨论。在第四章中，本文介绍了DSP子系统的软件实现，着重叙述了自举启动的软件设计，并简单介绍了交通采集设备的视频图像处理算法，在最后还介绍了基于C6200系列DSP的程序代码优化问题。最后一章则总结了目前的研究进度，并指出DSP子系统设计上的不足之处以及下一步工作中需重点解决的问题
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWf0Pa6AXrODLuIPR6MYroEInxA-WZWOn34tgQQyv1v0K8NnO08xo-TrN1ThxV7F88NEIwIOXDUkLVOBZeczumzdLRRyEaBVFxsYjj9a-ehKNEzwfQcvAp1R-FIc29h1mSaoQ14M5yxjGbj1nbyzXrpzqoSzbjcUMbswqu4fY547IkjlnbLMYTS&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 保丽霞
+A3 杨兆升
+PB 吉林大学
+T1 深圳市综合交通信息平台系统设计与关键技术研究
+CL 硕士
+YR 2004
+IS 04
+K1 智能交通系统（ＩＴＳ）;先进的交通信息系统（ＡＴＩＳ）; 交通信息 融合技术;行程时间预测技术;综合交通信息平台
+AB 随着经济的快速发展，城市化水平的不断提高，私人小轿车的拥有量飞速增长，道路建设增长的速度远远不能满足城市交通发展的需要。目前，交通拥挤、交通事故、环境污染等交通问题越来越严重的困扰着世界各国的大中城市。面对城市可供道路建设土地面积不足的现状，为了解决交通运输带来的问题和提高运输效率，交通运输领域的专家和学者们提出了智能运输系统（又称智能交通系统，Intelligent Transportation Systems— ITS）。从上个世纪 60 年代开始，日本、欧洲、美国都竞相投入大量资金和人才，大力开展 ATIS、ATMS、UTFGS等智能交通主要服务领域的研究，并已取得了显著成果。随着我国 ＩＴＳ 建设的深入进行，科技部首批十个 ＩＴＳ 示范城市已经不约而同地明确提出要建设城市交通共用信息平台。其中广州市、天津市、北京市、济南等城市的共用信息平台建设已被列为“十五”　智能交通系统应用试点示范工程。我国提出的共用信息平台是综合了 ＡＴＩＳ、ＡＴＭＳ、ＵＴＦＧＳ 等的主要功能，通过对采集的交通信息进行融合处理得到辅助决策信息发布出去，从而便于出行者和交通管理者参与和管理交通，达到缓解交通拥挤、降低事故发生率、提高运行效率等目的。　本论文依托深圳市《交通信息采集及共用信息平台研究》项目，针对深圳市现有的智能交通系统现状和存在的问题，提出了深圳市交通共用信息平台的系统框架、功能、系统模块组成、输入输出数据流；重点研究了深圳市共用信息平台实施的关键处理技术：交通信息融合技术和行程时间预测技术。具体内容如下：　第一章：绪论。介绍了国内外 ＩＴＳ 的研究现状，重点对美国、日本、欧洲在 ＡＴＩＳ 领域的研究和实验系统进行阐述，并阐明了本论文的目的和意义，简要概述了本论文的主要研究内容。　第二章：深圳市现有智能交通信息系统分析。在充分调研深圳市公安交通警察局、交通局、国土资源与规划局的各个智能交通系统基础上，总结了深圳市智能交通信息系统现状，并剖析了目前存在的问题，为由针对性的进行共用信息平台的系统设计提供前提。　第三章：深圳市综合交通信息平台的系统分析与设计。本章分析了深圳市78吉林大学硕士学位论文深圳市综合交通信息平台系统设计与关键技术研究交通共用信息平台建设的必要性，在分析深圳市智能交通系统间的信息交互需求、共用信息平台功能需求、性能需求的基础上，根据深圳市现有智能交通系统的建设和运营现状，对深圳市综合交通信息平台系统框架结构、功能模块分别进行了设计，同时简要描述模块间的数据流。　第四章：交通信息融合技术在深圳市综合交通信息平台中的应用。本章首先明确了交通数据融合技术的重要性，并介绍了常用的数据融合方法：贝叶斯估计、卡尔曼滤波。在对美国 ＡＤＶＡＮＣＥ 系统的行程时间预测技术、交通信息融合技术深入研究的基础上，对在深圳市综合交通信息平台中如何应用改进的局部回归神经网络进行交通参数在线融合提出初步思想，并解释了为面向行程时间预测的数据融合技术的神经网络设计、融合参数表达、神经网络学习等。　第五章：深圳市综合交通信息平台中的行程时间预测技术研究。本章在分析了深圳综合交通信息平台中行程时间预测的必要性基础上，对影响路段行程时间的诸多要素进行了全面的总结，并对数据来源进行分类。论文总结了国内外行程时间预测的理论模型和方法，并对具体的关键研究过程加以阐述。最后，本论文采用深圳快速环路某节点处理器采集的交通信息数据，从工程实际应用的角度出发，根据交通流的周相似特性，选用简单易行的历史趋势法进行行程时间间接预测，并与 ＢＰ 神经网络的预测结果相比较，并得出历史趋势法简单易操作，速度快、精度能够满足动态交通流诱导应用并且容易工程应用的结论。　第六章，全文总结与展望。本章对全文研究内容进行综述，并结合研究项目的深入开展，提出尚需研究和完善的内容。本论文依托的深圳市交通信息采集及共用信息平台研究，主要是为深圳市建设共用信息平台提供规划蓝图，围绕这个目的，本文从系统分析设计到关键技术研究，其成果将对具体的平台实施有较重要的参考价值，同时，对推广至各个城市的平台建设有一定的指导意义。　
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXp5BQYJuWdyg0fzQ2QUje_SAnOJflPvwCrqRkv6TjxeuUuauWf_EjD6vxLFoEP3YeLDTFBNRi9eknWhNt7x9eIX4fgczuegAsjvMldL0st7n7C7f63uQQcKYmGtlQQTAN8S2jMKuLVIqTmciZ8wpBaBFeFiv1rjjRlFYvdqZJEeqcjHHFUK5p2&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 张晓东
+A3 姜桂艳
+PB 吉林大学
+T1 动态交通流信息采集系统若干问题研究
+CL 硕士
+YR 2004
+IS 04
+K1 智能运输系统;动态交通流信息采集系统;先进的道路交通管理系统;检测器;空间布置优化;样本量
+AB 先进的道路交通管理系统（Advanced Transport Management Systems, ATMS）是ITS系统核心子系统，其核心功能自动识别道路交通状态、合理地控制交通流、迅速地反应紧急事件等。ATMS的目的是缓解道路交通运行状态中的常发性和偶发性交通拥挤，缩短出行时间，降低能耗，减少交通事故，提高交通管理水平，实现道路交通社会效益与经济效益最大化。ATMS功能实现的前提是能够实时、准确地识别道路交通运行状态，而动态交通流信息采集系统可以提供ATMS所需的全部信息。因此，建立一个高效的动态交通流信息采集系统就成为ATMS以至于智能运输系统研究的关键。本文基于国内外动态交通流信息采集系统的研究现状，提出了对动态交通信息采集系统若干问题进行研究的必要性。通过对动态交通流信息采集系统进行需求分析，设计了动态交通流信息采集系统的功能，构建了信息采集系统的结构框架。然后，分析介绍了动态交通信息采集技术的工作原理，对比分析了典型的检测器的性能、可提供的交通参数、适应条件和综合成本费用等内容。由于固定型检测器的空间布置密度对交通流特性描述的准确性和可靠性有显著的影响，因此，本文设计了固定型检测器的空间布置原则和工作步骤，利用微观模拟仿真的方法对检测器的空间布置间距进行优化，在保证ATMS对基本交通流信息需求的前提下，尽可能降低动态交通流信息采集的成本。由于移动型检测器可以获得整个道路网络任一路段的区间交通流数据，是未来信息采集技术的主要发展方向。因此，有必要对移动型检测器应用的关键问题进行了深入研究。首先，对基于GPS的动态交通流信息采集技术的工作原理进行初步研究。然后，对影响移动型检测器检测效果的最小样本量问题进行研究，设计了最小样本量的确定原则和工作步骤，利用模拟仿真的方法对的交通状态进行模拟，在保证ATMS对基本交通流信息需求的前提下，尽可能获得移动型检测器的最小样本量，降低动态交通流信息采集的成本。论文的最后部分对动态交通流信息采集技术的组合应用优化设计进行了研究，提出了组合优化设计的原则和工作步骤，并举例分析了动态交通流信息采集技术组合方案的优化设计方法。全文共分七章，其中第四章、第五章和第六章是全文研究的重点。第一章是绪论。本章首先介绍了论文的课题来源，提出了对动态交通流信息采集系统进行研究的必要性和意义，探讨了国内外服务于ATMS的动态交通流信息采集系统发展现状和存在问题，对论文研究的主要内容进行简要介绍，并设计了论文的研究技术路线。第二章是动态交通流信息采集系统结构设计。本章首先对服务于ATMS的动态交通流信息采集系统进行了需求分析，然后对动态交通流信息采集系统的功能进行了设计，提出了动态交通流信息采集系统所必须提供的基本交通流信息，构建了动态交通流信息采集系统的结构框架，最后提出了开发动态交通流信息采集系统所需解决的关键技术问题。第三章是动态交通流信息采集技术分析。本章对典型的动态交通流信息采集技术的工作原理、技术性能、可提供的交通参数、适用条件和成本费用等进行了对比分析，为动态交通流信息采集技术的组合优化研究奠定基础。第四章是固定型检测器空间布置优化研究。本章对固定型检测器的空间布置问题进行了研究，提出了检测器空间布置的一般原则和优化方法，并利用微观仿真模拟软件对高速公路和城市道路在不同服务水平下的检测器空间布置方案进行了模拟分析，得出结论。第五章是移动型检测器应用的关键问题研究。本章对移动型检测器的空间布置问题进行了研究，设计研究了基于GPS的动态交通流信息采集技术，提出了移动型检测器最小样本量确定的一般原则和方法，并利用微观仿真模拟软件进行了模拟分析。第六章是动态交通流信息采集技术组合应用优化设计研究。本章首先提出了进行动态交通流信息采集技术组合应用优化设计的必要性，然后分析了组合应用优化设计的原则，设计了组合应用优化设计的工作步骤，并举例分析了动态交通流信息采集技术组合方案的优化设计方法。第七章是全文总结。概括了本文的主要研究成果，指出了存在的不足，以及今后需要进一步研究的问题。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWr9Z5WVe2kf2WkUCkuVE3WwMqre8dJDOFv0Mg3Gxhb4-MCfcbt32-Xid3h3X97p_PTBV9GmiZ_ytGCrVb-nWs0A1cAjuQTuP8uI5bHmWyDSN9Bhij_LhArFH4QyilqlNeDiRQ_C_Xd6fNhP_hczFOiJWJsPx1zRQUhdsv0QEaIA7DRXuU7hXF6&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 毕波
+AD 重庆交通学院职业技术学院 重庆400042
+T1 高速公路交通流量数据采集系统的研究
+JF 重庆工业高等专科学校学报
+YR 2004
+IS 01
+OP 46-48
+K1 探测器;信道;记录周期;单片机
+AB 讨论了高速公路车辆检测系统IDS。系统采用电磁感应原理,对振荡的频率计数可以测量到车辆通过的基本信息。在本底频率确定后,过滤掉实际采样频率与其差值在设定测量精度范围内的信号,通过数学优化得到车辆信息。本系统具有简单可靠、成本低的优势。
+SN 1009-3494
+CN 50-5041/T
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWr9Z5WVe2kf2WkUCkuVE3WIg0qugepfdNTOyW5RIns_pBpf8Uj56G97DDGa6WQzmetnYiDC6V5FBRnGe2sUOSAFnovkaUf9C5FYRMkz_LMTluwB1uaHC4xyaYDMXuZn4qvX-rTUsHcQxaelp2CffGwKPXOCPZq1y02EizpI6-_1A==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 蒋立正,吴群,张立民
+AD 中国人民解放军63620部队,中国人民解放军63620部队,中国人民解放军63620部队
+T1 串口联网技术在交通信息系统中的应用
+JF 电子产品世界
+YR 2004
+IS 04
+OP 72-73
+K1 视频检测;串口设备;交通信息;数据库
+AB 本文提出了一种利用公共电信网实现交通信息采集发布系统的设计方案。该方案将串口设备联网、视频检测、无线数据传输、客户/服务器结构的数据库和便携式终端应用在交通信息的采集、处理和发布系统中。该系统的应用可提高城市交通管理的效率,具有很好的应用前景。
+SN 1005-5517
+CN 11-3374/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXiH6-xLYmwBQf75sPl0M6_DYl0uEUXa1EfTPf1IL_oFfl9hPcx1h7XHOURk_KAjemdwwyNhAQyvmvUkvUDqZ1-hBmiL6VHGf7mJmHQm73qgROa4z7qDDEqWB2vzwqkFhnlO6nAlrRqqkDgYyyVn9opRJv-vgTLL2V-Jhk0oD6b6g==&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 视频交通动态信息采集系统
+AD 广州市公共安全科学技术研究所
+FD 2004-01-01
+K1 道路交通;动态信息采集系统;视频系统;交通管理
+AB 该项成果是“九五”国家重点科技(攻关)项目中的一个子专题,编号：96-A15-02。该系统利用视频技术、计算机技术、现代通信等技术,实现对道路交通动态信息多功能的快速采集,从而为城市交通管理、控制、信息发布、交通诱导、指挥提供实时交通动态信息,为智能交通系统提供了一种新型的交通信息采集设备,这将大大提高道路交通管理信息化水平,对减少因交通堵塞而引起的经济损失有着重要意义。该系统由两个子系统组成,管理子系统对下位视频信息采集子系统进行参数设置、管理、巡检、读取、分析交通动态信息;视频信息采集子系统是由若干台视频交通信息采集单元构成,具有独立完成交通信息采集功能,处理8路视频信号。视频交通动态信息采集系统根据任务特点将单元管理功能和图像处理功能实现模块化分离,每个模块均采用先进的DSP技术及CPLD技术,并通过高速同步串行总线构成专用、高效的图像处理硬件平台,克服了通用PC技术平台在处理实时、大数据量任务时能力低的缺点,而且具有在线升级功能,可以实现系统功能的扩展,便于实现大规模的系统集成;能够满足实时信息采集的要求,软件界面友好,使用方便,运行可靠;数据管理功能完善。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 视频交通信息采集系统开发应用
+AD 辽宁天久信息科技产业有限公司
+FD 2004-01-01
+K1 交通信息;信息处理;自动检测;数据采集;数字视频
+AB 视频交通信息采集系统是在智能交通领域运用视频检测技术,对数字视频数据进行分析、标准转换、增强和恢复等附加处理。该系统可取代埋设在路面下的车辆检测器,接收四个CCIR或RS170摄像机输入,每个摄像机可检测1至8个车道,可输出VGA或PAL图像,存储路上车辆图。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 初秀民,付军,严新平
+AD 武汉理工大学ITS研究中心,武汉理工大学ITS研究中心,武汉理工大学ITS研究中心 武汉市430063,吉林大学交通学院长春市130025,武汉市430063,武汉市430063
+T1 交通资产管理系统的研究现状与展望
+JF 公路
+YR 2003
+IS 12
+OP 88-92
+K1 交通运输;交通资产管理;数据采集
+AB 介绍了交通资产管理的基本概念和管理过程 ,以及国内外交通资产管理技术研究概况 ,同时指出了建立交通资产智能化信息采集系统的关键技术 ,并介绍了几种典型的交通资产智能化信息采集系统。最后 ,指出了当前交通资产信息采集和资产管理技术研究中的不足之处 ,并提出了开展该领域研究的几点建议
+SN 0451-0712
+CN 11-1668/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVH1Gj1DYgDoFl9ebJ-0pBpP3tNBVcTAxG6MKXvMtg-fw_z_zzFvNr9_WF0GksQWH1SSn9hP38ETECCIZzQKNVy-hg1uNEq8y5CX8ZaYg8JLPTmhJnAX09gBvdV-v2on6qlNgzv0gdnkM4lYNURzpI_UTC2clVIwNHNMymcS2ABLQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 黄婴,蔡伯根
+AD 北京交通大学电子信息工程学院,北京交通大学电子信息工程学院 北京100044,北京100044
+T1 基于虚拟仪器技术的智能交通车载信息采集平台
+JF 北方交通大学学报
+YR 2003
+IS 06
+OP 26-30
+K1 自动化技术应用;虚拟仪器;数据采集;LabWindows/CVI;全球卫星定位系统;惯性导航系统
+AB 实时的交通和车辆信息的采集是很多种智能交通系统应用的基础.本文作者介绍了一种基于虚拟仪器技术的智能交通车载信息采集平台,详细描述了该平台的设计思想、构建方法及其应用.这种信息采集平台为智能交通系统中驾驶行为特性的研究、交通数据采集、现场测试等提供良好的辅助测试和验证平台.该平台还能作为智能交通多功能测试车的一个辅助检测手段,进行移动检测的研究.而虚拟仪器技术结合了计算机和电子仪器的优势,它能够使测量过程更加便捷可靠.
+SN 1000-1506
+CN 11-1993/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVi4OsN7upP6eroT_sOglP7nQ6bG5W0tFchNHfoYigJ6GRd409_dPV04L-J6supPQpqaUhb-e1P73SUr5tgMwz0mewve3ghlWQ_I7pqQcuT4OsqEMQK_OaqPTIgijQrgZIVL9wtIx2-WXqVIATJVsXzCRJQ3110pou3NX4h-WTJtA==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 郭敏;孔涛;梁玉庆
+AD 北京市公安局公安交通管理局科研所;
+T1 交通流实时动态信息采集、处理/分析、发布系统在北京的研究与实施
+JF 第七届北京青年科技论文评选获奖论文集
+YR 2003
+OP 264
+K1 智能交通系统;交通流;信息采集;处理/分析;发布
+AB 随着汽车保有量的增加,交通基础设施的建设已经满足不了交通发展的需要,采用智能交通系统改善道路状况已是必然的选择。而真正的智能交通系统就是能向交通参与者提供全方位的、实时的和可靠的交通信息以及与交通有关的其他信息。本文在研究了国外交通流实时动态采集、处理/分析、发布系统现状的基础上,提出了交通流实时动态采集、处理/分析、发布集成系统的规划方案及在北京的具体实施方案。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU_XCzYBa2CVxBlCSZ_7V5G-SZQvmfiUyeaZ0vJT8D8EMp-j6HjyjIKdPOjpNLL-bks7jbJNfA8yho5ob8QvMW_gguPKDoWjTsbG6-s2WQmrUlzl90WN9k6lc5oSkf1bB0oVcVP1ZZDI5sEvL-rSCHzfKjRuRqPAEI-uSRue005_1YwqC1-0qLV&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 王长君,赵永进
+AD 公安部交通管理科学研究所,公安部交通管理科学研究所
+T1 对城市交通指挥中心关键技术及发展方向的探讨
+JF 道路交通与安全
+YR 2003
+IS 05
+OP 5-9
+AB <正> 1 概述 我国城市交通指挥中心的建设始于上世纪80年代末、90年代初。当时,随着道路交通管理体制改革的深入和完善,我国的道路交通管理发展迅速,交通管理科技应用开始得到重视,交通信号控制系统和电视监视系统等技术在大城市和特大城市逐步得到应用和推广。在此基础上,以信号控制系统和电视监视系统为核心的城市交通监控中心逐步成型,形成了我国早期的城市交通指挥中心——以信号控制和电视监视为主要功能的监控中心,同时包括交警无线通讯系统和有线(电话)通讯
+SN 1008-2522
+CN 11-3911/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU_XCzYBa2CVxBlCSZ_7V5G-d5R-cmMvadRJNwBKRi5lIXxl5Vx0GNFr1hRc-ozKblQbpxnBp-Pwn11f5AhnhoeftI1rLuU1aGdclcFwk4ZXDPny6gj88i1VZLmJnFAk71b59xWR__ma59_3mzHmGLF0PiFjTbI65vr2ujjdbghQw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 马骥,裴玉龙
+AD 哈尔滨工业大学交通科学与工程学院,哈尔滨工业大学交通科学与工程学院 黑龙江　哈尔滨　150090,黑龙江　哈尔滨　150090
+T1 实时车速信息采集与整合方法研究
+JF 公路交通科技
+YR 2003
+IS 05
+OP 78-82
+K1 实时车速;ITS;数据采集;整合
+AB 实时车速是城市智能化的核心基础数据。基于ITS子系统,包括先进的交通管理系统(ATMS)、自动车辆识别(AVI)系统、车载GPS系统和视频采集系统,分析其实时车速信息采集与整合的几种方法;对比分析两种数据采集结构,即完全分布式和分布式;详细讨论数据描述、数据存储以及数据传输问题;提出区域范围内实时车速的采集系统应该与现有ITS子系统相结合,有效利用实时数据资源,对ITS数据采集、处理和分析具有重要的理论意义和应用价值。
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUPKp6YRtTTFhox_ZArya6MpAAA9SimGlcyZE1V5OuYZViLT0qK5aY70Z5f83Em_bCxsrSvXGUQQMl8mF-J8KWVNoTvHJyK4yT8WpN9yrhXFenMhm5gf4jDqsPGbCNSIYBMKrW-1l2F73huwRx1R1wIPJu8pC5qEbL2wtQpFbdqiA==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 李建昌
+AD 上海市公安局交巡警总队;
+T1 地面道路机动车交通信息采集、处理、发布综合系统
+JF 现代化道路交通管理发展与展望——第八届多国城市交通学术会议论文集
+PB 中国科学技术协会、北京市公安局公安交通管理局、天津市公安交通管理局、上海市公安局交巡警总队、重庆市公安交通管理局
+PP 中国北京
+YR 2003
+OP 150-162
+K1 道路机动车;实时交通信息采集;数据集成处理;交通信息发布
+AB 实时交通信息系统是智能交通系统的重要组成部分。本文叙述了上海市《地面道路机动车交通信息采集、处理、发布综合系统》的构成,分析了五种不同类型交通信息采集子系统的原理与作用;实时交通数据的集成处理;以及基于 GIS 显示和可变信息板的动态交通信息发布。该信息综合系统的研究与实践的成果与经验是上海市实施智能交通系统的良好基础。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXkExDCOmM7qLR-QDmsRBakpm9su2zitB7GoAX0p7fMKTjHHSTdDlPUsiMGXkHSxXbV2Lm4nbrOqVt4rY0iI2PucYXna5UlXs4lljhq8TFCXJXFrCyKGp_xiLRwvJzaCiGUI6M0fE6V0FELrgqfLJjb0ctNxsPg_An56zzNgD_iOiuT1_OcF4kX&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 张晖;房国良;王琦琰;黄波
+AD 上海虹云信息技术有限公司;上海虹云信息技术有限公司;上海虹云信息技术有限公司;上海虹云信息技术有限公司;
+T1 《上海市地面道路机动车交通信息采集、处理、发布综合系统》中基于GIS的发布子系统的研究
+JF 现代化道路交通管理发展与展望——第八届多国城市交通学术会议论文集
+PB 中国科学技术协会、北京市公安局公安交通管理局、天津市公安交通管理局、上海市公安局交巡警总队、重庆市公安交通管理局
+PP 中国北京
+YR 2003
+OP 181-190
+K1 编码;交通信息发布;基于GIS的车道实时交通信息图形化人工信息
+AB 本文研究了以地理信息系统为主要发布手段的实时交通信息的发布技术。文章阐述了发布系统的框架设计;地理对象的编码;将交通拥挤状况通过不同的颜色分级显示; 设计了优化的数据更新模块,保证交通信息的实时性。还探讨了根据采集到的交通信息设计的统计、分析功能,得到道路的交通信息状况,就可以统计出某段道路的流量、拥挤程度的属性值,进而区分道路的等级,有助于导航系统的开发。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVbgcfzbh6FIeCUyDsSwcQSe_JBp1SK8t1sv5IXnL8GyV1s35fttf-fr6HN1l-Uh93QBoqWWOPhoKB7xfhUZ06kYfJLKqai46NAtcw1L06Qgd7Sg0hEIS9n8W0Uhnv3tHT5mdT-64Yd-wd-QbDQRaqpgTOCWCJHUAynmJwimRKpdSlY71kBrf4i&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 石琼
+AD 北京市公安局公安交通管理局宣武交通支队;
+T1 智能化城市交通诱导信息系统研究
+JF 现代化道路交通管理发展与展望——第八届多国城市交通学术会议论文集
+PB 中国科学技术协会、北京市公安局公安交通管理局、天津市公安交通管理局、上海市公安局交巡警总队、重庆市公安交通管理局
+PP 中国北京
+YR 2003
+OP 200-210
+K1 交通诱导信息系统;智能交通系统;动态信息;信息采集;可变信息显示屏
+AB 随着城市化进程的加快和汽车的普及,导致交通拥挤现象加剧,交通事故频发,交通环境恶化,为解决这一迫在眉睫的问题,本文在考虑国情和国际趋势的同时,在借鉴国内外研究成果的基础上,提出了我国的城市交通诱导信息系统的框架结构,其中着重分析了该系统的技术和研究现状,并提出笔者自己的观点、看法,以期为我国的智能化城市交通诱导信息系统的研究和发展提供参考。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXAoq5jCiWomP8XDEAtMnkfjV4E1HOwQT1mYw46n45Jv8KOxGg8E449Qr0iJMEb-ASpVerpSckmwVrwvI-TqzuOx67JGhuA0HLPC5X31ERhauWVwwP3Wa-_d4Q0ZcMWiEwA_sd-PbLtbJQGTn2uSTbr0YnFn0fUqBPFi-IYrHM4rIrFvf6kIQTl&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 郑纲;丁克良;汪红星
+AD 上海科臻投资咨询有限公司;中国科学院测量与地球物理研究所;上海市公安局交巡警总队科研所;
+T1 SCATS与车载GPS交通信息采集和融合
+JF 现代化道路交通管理发展与展望——第八届多国城市交通学术会议论文集
+PB 中国科学技术协会、北京市公安局公安交通管理局、天津市公安交通管理局、上海市公安局交巡警总队、重庆市公安交通管理局
+PP 中国北京
+YR 2003
+OP 287-295
+K1 SCATS;GPS;定点信息;区间信息
+AB 本文首先介绍两种不同方式的动态交通信息采集手段:基于 SCATS 和基于车载 GPS 的采集系统,并分析了两者的输出信息;在此基础上构建一个具有标准化输入输出接口的动态交通信息数据处理系统,提出以一个开放式的算法调度方式,使各种不同算法能够融合在一个系统中。最后,给出了处理与融合 SCATS 与车载 GPS 采集系统数据的分析系统实例。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWGrquCxY_EoMg6R_AtN86Nvfq8loxBvctWctV4s5Yn_gOPswLQ0xdp5-7eQfxs0nv1RpzekTfQRdSxd_AEiDq9v_ctskvZUFyrUwVmvaEraXell4NChORAueREdwa7FpHeI-5U4C2CHMh7pmmgC9-prYScv6OOvt4bqH9y3dxtAlBnEZ7ms_rU&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 张晓东,姜桂艳,王江锋,冮龙晖
+AD 吉林大学交通学院,吉林大学交通学院,吉林大学交通学院,吉林大学交通学院 吉林长春　130025,吉林长春　130025,吉林长春　130025,吉林长春　130025
+T1 视频检测技术在ATMS中的应用
+JF 吉林大学学报(工学版)
+YR 2003
+IS 03
+OP 96-100
+K1 交通管理系统(ATMS);智能运输系统(ITS);视频检测;信息采集
+AB 对先进的交通管理系统(ATMS)的构成与功能、视频检测系统工作原理和视频检测系统在ATMS中的应用进行了综述。探讨了目前视频检测系统所存在的问题,并预测了视频检测技术在ATMS中的应用前景。
+SN 1671-5497
+CN 22-1341/T
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13229/j.cnki.jdxbgxb2003.03.022
+DO 10.13229/j.cnki.jdxbgxb2003.03.022
+
+RT Journal Article
+SR 1
+A1 红莲
+AD 本刊记者
+T1 一路畅通
+JF 软件世界
+YR 2003
+IS 06
+OP 66-67
+AB <正> 2008年北京奥运会,我们最为担心的就是北京的交通。尽管北京的交通现状每天都在改变,但是到了2008交通状况能不能让世界各地的运动员感到满意呢? 北京市交通局为此拟定了新的目标——为适应城市可持续发展和举办2008年奥运会的需要,北京将投入5.4亿元建立一套
+SN 1005-2348
+CN 11-3394/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LW4Q_zYshULr0t1OX13TupeLxA8cdeibf6f8eoj_vWfmxsoPHTZGMo_zCbkB_LuSnS6rUT9BbGdHIB1tGjd7pZXrQMCqIXm2JxLXlcoDX2Zh6lo6KjIVarXIfi03kZLImAq3dAPMcPz_YeWyDcNVqO8F8QRV_PcsqtOVpbK0MRZEw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 孙国栋,梁起
+AD 哈尔滨新中新电子公司,哈尔滨工业大学电子通信工程系 哈尔滨150086,哈尔滨150001
+T1 道路交通信息采集器的设计与实现
+JF 自动化技术与应用
+YR 2003
+IS 05
+OP 75-77
+K1 线圈检测;89C55单片机;交通信息数据的采集处理;模糊分类
+AB 本文介绍了利用单片机如何实现道路交通信息采集器 ,讨论了相应的接口电路 ,并给出了交通信息数据的采集处理方法。
+SN 1003-7241
+CN 23-1474/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXcl6DBZioXSM2NRXGMVzCq2HwrPdhr6nytj3TAofkuSbAWHTwmp67k_ENyrChVpH702k9ZIktXLZvjlWJTBibR3tpFip8VPs4VyBoK257pLJC6NDzo9GvIwCBtHlfJcX12OOnIplyDoQ5_WU-hmSvlLdTN4-3RFz6tnesGrbBXDA==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 林增刚
+A3 周明全
+PB 西北大学
+T1 交通信息采集与区域交通网络优化系统的设计与实现
+CL 硕士
+YR 2003
+IS 01
+K1 图像处理;交通信息采集;违章检测;遗传算法
+AB 交通信息的采集对于城市建设、发展有着重要的现实意义：它为制定城市交通规划、改建交通设施、进行科学交通管理提供必要的基础数据。获得了交通信息后，就可以分析数据，构建交通模型，对城市交通网络进行优化。本文就从交通信息获得和构建交通模型进行网络优化这两个方面进行研究与实现。文章在论述交通检测和车辆违章检测处理流程的基础上，实现了采用动态背景图像置换和多次确认的车辆计数检测算法。与常用的背景图像不变和相邻帧图像作差分等检测算法相比，本算法具有检测准确度高，抗干扰性强等特点。在此基础上，实现了其他交通信息：车速、车长、车宽、行车间距和违章情况等的采集；在比较分析常用优化算法和常用交通模型的基础上，构建了基于离散时间模拟的交通模型，并根据模型的特点选择遗传算法对交通网络进行优化。与基于流量分析的交通模型相比，该模型更加准确的描述了真实交通网络的运行情况，而遗传算法的自组织性和自学习性保证了优化过程的高效性。在实现以上算法的基础上，本文用Visual C++工具实现了交通信息采集与区域交通网络优化系统。系统具有采集区域交通网络交通信息、根据采集到的交通信息构建交通模型、依据交通模型优化交通网络的功能。从系统实际运行的效果看，系统具有准确的交通信息采集效能和良好的交通网络优化功能。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LV4DUw0-5y7IfeDovJlPiJ8o-O3KicmJ7zffLllYB9fCsW3HWBn9wZHH9uuxmKVbFfZyAWQVt9w1EQoj8sg4ixe9Y7Ira0G0IsK3VybguoLPIzQtG3vtwgqIrY0RxyKNH6SSjzWTYjdfNVX3b7PVJfuP-7tLDsx7CcMolqKmziy_hmxdkILu9mk&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 胡明伟,缪立新,王耘非
+AD 清华大学交通研究所,清华大学交通研究所,北京市公安交通管理局 北京100084,北京100084,北京100061
+T1 北京市交通流数据采集、处理/分析和信息发布系统设计
+JF 公路交通科技
+YR 2003
+IS 02
+OP 77-80
+K1 交通流数据采集;交通流数据处理/分析;信息发布
+AB 交通流数据采集、处理 /分析和信息发布系统是北京市智能交通管理系统的一个重要组成部分。本文介绍北京市交通流数据采集、处理 /分析和信息发布系统设计。该系统集成来自交通管理部门、出租车指挥调度部门、公安指挥调度部门、公交指挥调度部门和医疗急救调度部门的交通信息 ,通过多种方式提供一般和个性化的交通信息服务
+SN 1002-0268
+CN 11-2279/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LV4DUw0-5y7IfeDovJlPiJ8lwS4EYRGheQo3CFk1ZcSshFgK9clilZKnzkE4WjZtITNN7I5EabfHdYYzwM8x5eamjxy-WGjR-txwtgdRCHVo5EuIB4COLckxDpXNxEODwqsZtAoMrCoJm2msDqRrmjZa6yRhNo_DiwZbi7h60eXtg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 郭敏,孔涛,梁玉庆
+AD 北京市公安局公安交通管理局,北京市公安局公安交通管理局,北京市公安局公安交通管理局
+T1 交通流实时动态信息采集、处理/分析、发布系统在北京的研究与实施
+JF 道路交通与安全
+YR 2003
+IS 01
+OP 11-19
+K1 智能交通系统;交通流;信息采集;处理/分析;发布
+AB 随着汽车保有量的增加,交通基础设施的建设已经满足不了交通发展的需要,采用智能交通系统改善道路状况已是必然的选择。而真正的智能交通系统就是能向交通参与者提供全方位的、实时的和可靠的交通信息以及与交通有关的其它信息。本文在研究了国外交通流实时动态采集、处理/分析、发布系统现状的基础上,提出了交通流实时动态采集、处理/分析、发布集成系统的规划方案及在北京的具体实施方案。
+SN 1008-2522
+CN 11-3911/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUG_7ydPDDu17ULNvaZ3vuQzOaBEe699vnjaVuCetktfbI2rOfX0rihYxaWACBIQqgkqKzDOYwVEfSUzLzJI1srMhmflQC5mMPtw4JUUyTskaUwmXN-sD15bInSoqzhYBGf2_cF33iA2K73Rbw-9nCZcuwMdgVekjCP8XbdMWeCEQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 马骥,裴玉龙
+AD 哈尔滨工业大学交通科学与工程学院,哈尔滨工业大学交通科学与工程学院 黑龙江哈尔滨150001,黑龙江哈尔滨150001
+T1 智能交通系统(ITS)信息采集技术评述
+JF 哈尔滨工业大学学报
+YR 2003
+IS 01
+OP 17-20
+K1 ITS;信息采集;探测;DMI
+AB 实时交通信息是实现城市交通智能化的关键 ,是ITS各子系统实施的核心基础数据和重要前提 ,在交通规划和交通管理控制等方面具有广泛的应用前景 .有效利用实时交通信息是智能交通系统中最基础、最重要的组成部分 ,介绍了用于驾驶员信息和交通控制系统的路边及中枢设备和应用便携式计算机对车速及延误进行采集处理两种信息采集技术 ,探讨了系统的辅助功能及其相互影响 ,对应用试验车采集车速和延误的软硬件系统以及分析数据采集概念进行了论述
+SN 0367-6234
+CN 23-1235/T
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUXSG-aRDOwgq1WWfUscGwZUCS6ihT-jkxAgjcblBMpZ6P7FRGAtG2KNGqcAF-J2NrPRtYGa7eDoaZknUCjF80KwsgdKl0JLlIa8S9mKk5EEoEZ9KUWTHgvjopqJBUMH9_O3hSZSUu65POdl4HtXZKkD4oAkI3agdu9_hCsVjjqKg==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 丁莉雅
+A3 刘济林
+PB 浙江大学
+T1 基于视频图像处理的交通信息采集系统
+CL 硕士
+YR 2003
+IS 01
+K1 交通信息检测;图像标定;背景生成与更新;车辆检测;车辆分割;目标物体跟踪
+AB 随着社会经济发展，交通系统日益复杂。为了给交通系统的管理提供各种实时交通信息，以方便、高效的利用和管理现有的交通系统，我们研究开发基于视频图像处理的交通信息自动采集系统。我们设计基于DSP芯片的嵌入式系统，利用图像采集硬件设备，通过摄像头将视频信息采入，送入DSP进行分析处理；专门的交通信息采集软件，运用各种图像处理技术，进行实时处理分析，得到交通流量，车辆类型，车辆速度，排队长度，转弯情况，交通密度等信息，并由操作系统将它们送到网络上。系统还有事件触发图像序列传输功能。在图像序列处理技术的开发中，我们采用软硬件分离的方法，先进行基于Visual C++的计算机软件设计研究。在软件中，研究了车辆检测、车辆分割、车辆跟踪以及交通信息分析与计算等内容。为了解决在交通信息采集中遇到的各种问题，设计开发了光照变化修正、阴影检测、背景扰动统计与图像分割法、车辆运动预测、车辆跟踪优化等等算法。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUDYVsMwSCkuNyCcc5dIqmo7y2E-cJVoZDl_irf5uDTVxBDPZpQpMxvipQZiLflouMtVRtqc6KMnGs-vaBuro8S5VBwUu8E88hJxzMXL0lrnKpcUwpYlBBPrwGtcIVsiPVdQU-XcYkfXX5NSzrDycreI4PnBartTMkYE9MYDH4ya0PUpcY7pJa4&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 城市道路交通动态信息采集系统
+A1 徐亚国
+AD 广州市公共安全科学技术研究所
+FD 2003-01-01
+K1 道路交通;动态信息系统
+AB 项目针对城市道路交通拥挤和突发事件等各种动态信息的采集和处理,结合我国城市交通实际运行机制,研究拓展了交通动态信息分析与应用理论,构建交通动态信息采集、处理方法和模式,开辟了交通动态信息应用的新领域,为ITS提供了信息处理、发布和利用的基础信息和支撑系统。从系统集成观点,评价了交通检测系统数据内容、数据结构、传输方式以及接口界面的兼容性,分析了系统机理和应用环境性能,提出其使用条件和适用范围,设计了适合各种交通检测系统的城市道路交通动态信息系统的总体结构,以及提供交通动态信息采集系统结构分析、信息处理和发布技术以及典型城市的采集方案,为智能交通系统提供了一种新型的交通信息采集设备,将提高道路交通管理信息化水平。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 青松交通信息智能显示系统
+AD 西安青松科技股份有限公司
+FD 2003-01-01
+K1 显示系统;交通监理;数据采集与处理系统;数据信号处理
+AB 产品功能应用领域：是公路监控系统的重要信息发布设备,可根据交通、天气及指挥调度部门的指令及时显示各种相关信息,有效诱导交通,提高路网的交通运输能力,为驾驶行车提供良好的服务。可广泛应用于各类交通信息提示,保证畅通。技术特点：该项目的核心是在高速公路沿线建立智能交通信息监测、控制、疏导、通信和信息查询系统,并将其通过网络连接,通过显示系统显示、疏导交通。与国内外同类产品比较：对显示屏产品和系统集成具有专业知识,产品质量和售后深得用户信赖,市场占有率高,有价格优势,有望成为创汇产品。成熟程度：中试生产;新增总投资：5000万元;新增销售收入：8857万元。市场简要分析：该项目有广阔的市场前景。在过去三年里,陕西200多公里高速公路已完成交通显示设备500余万元投资。该产品系国际高科技产品,行业壁垒高,市场竞争不激烈,国外厂家由于劳动力成本高,难进中国市场,国内有实力厂家不多。以该公司已有的技术优势和对行业的了解,项目实施后会成为国内市场主要生产厂家。国家“十五”加大基础设施建设力度,加大西部交通设施投资,使该产品具有无限的市场空间。该产品属于交通行业最先进的换代产品,短期内不会有替代品出现,经济寿命较长,该公司不断研制相关的延伸产品拓展新市场。市场前景乐观。 产品主要技术指标：该系统所提供的数据为原始数据。各监测装置安装在各地的情报板、信号灯和可变限速标志之上,检测到的数据由显示装置上的信号处理器通过通讯子系统,按照TCP/IP协议向主控室发送。交通信息显示系统的信号处理器除具有显示控制功能之外,还具有采集强大的数据通讯能力。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 智能交通数据采集及信息处理系统
+AD 辽宁天久信息科技产业有限公司
+FD 2003-01-01
+K1 交通管理系统;交通监理;数据采集和处理系统;监视控制
+AB 产品功能及应用领域：该系统构成智能交通的主体,对公安交通管理部门提高管理水平,解放警力实现“科技强警”的现代化管理思想,符合国家畅通工程的发展需要。该系统广泛应用于交通领域和城市信息化领域。技术特点：把计算机技术、自动控制技术、信息处理技术、网络技术等应用到交通产品中,使该系统具有技术水平先进,功能齐全,低成本,低功耗;与国内外同类产品比较：该产品在国内处于领先地位,达到国际同类产品的先进水平。研制开发的测量传感器具有范围大、灵敏度高、抗干扰能力强等特点。成熟程度：小批量生产;新增总投资：2200万元;新增销售收入：2000万元;主要竞争企业：江苏大为科技有限公司、南京洛普股份有限公司。市场简要分析：1998年公安部以公交管(1998)23号文件,发出了<关于进一步推广使用路口闯红灯监控技术的通知>列出第二批推广使用的城市,在主要路口安装电子警察监视系统。现在,公安部要求全国各大中型城市安装电子警察监视系统的数量应达到各城市交通交叉路口的30%。按每座城市400套(最低估计),全国500座城市计算,其需求量约为200000套,按4万元/每套计算,该系统的产值预计为8亿元。市场的需求量十分巨大。该公司的产品已应用于辽宁、吉林、内蒙古地区,并建立了一定的销售网络。在同行业具有较强的竞争实力。 产品主要技术指标：数字智能控制：自动感应红外光;智能聚焦等性能;车速：小于等于80km/h;拍照范围：10-28m;误拍率：小于3%;检测延时：0.05-0.5秒;环境温度;-40-70度;环境湿度：小于90%;电源电压：AC220/50Hz。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 地面道路机动车交通信息采集处理发布综合系统
+A1 顾立
+AD 上海市公安局
+FD 2003-01-01
+K1 道路交通;实时信息采集;集成处理;动态交通信息发布
+AB 针对目前智能交通系统中所采用的有限的交通信息发布手段,在对外发布的信息内容和数量都远远不能满足实际需要的实际情况,运用系统的思想,对目前国内刚刚起步的,将互联网和先进的地理信息系统平台相结合来对外发布交通信息的信息发布系统的基本原理、可行应用、一般系统构架等进行了研究。指出运用互联网可以提供相当大量的信息服务,而先进的地理信息系统平台能够处理、查询、分析、显示各种静态与动态的交通信息,二者的结合是交通信息发布的一个重要发展趋势,并特别通过一个实际系统探讨了一种当前经济可行系统的实现方式。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 付建萍,于银辉
+AD 吉林大学地球探测科学与技术学院,吉林大学通信工程学院 吉林长春130026,吉林长春130012
+T1 智能交通系统的应用研究
+JF 吉林大学学报(信息科学版)
+YR 2002
+IS 04
+OP 64-67
+K1 地理信息系统(GIS);智能交通系统;交通地理信息系统
+AB 以 Map Info为平台 ,采用 GIS( Geographic Information System)和 GPS( Global Positioning System)相结合的方法开发了智能交通系统 ,具体方法是应用 Map Info软件 ,设计并制作了一幅包含多层数据 (道路交通设置情况、商业点等 )的矢量电子地图 ,再使用 Map Info的二次开发工具 Map Basic编写了监控服务程序。该程序除完成数据交换外 ,还创建了一个动态图层 ,透明叠加在监控电子地图上 ,将目标定位数据可视化于该图层 ,进行实时更新 ,实现了对多目标的动态监控和实时显示 ;同时利用 VB( Visual Basic)编写通信服务程序 ,实现 GPS接收机的数据采集 ,以及与计算机之间的通信 ;并与其他 Microsoft Windows下的用户程序进行动态数据交换 ,从而使 Map Info等地理信息系统软件可通过该通信软件调用 GPS数据 ,达到动态实时显示和监控的目的。
+SN 1671-5896
+CN 22-1344/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVYTqsGRgdEIsSMy3_xLh0R0C2WA6TITO2ah_rb4Fd7GtZZRppL9-xUAjG2plGVIan6pi0getdz1_oH4IWYlk7TknfYkoMq6kskpdZLerZ4SDhjSNSPHt6QdK6i7maRTLMnpvp6pWWZ5-jyv1zIPMZtCE8izvFWl6aR0gSquJ5yVw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 高崇民
+AD 浙江省测绘大队 浙江杭州　310030
+T1 遥感技术在基础地理信息采集更新中的应用
+JF 地矿测绘
+YR 2002
+IS 04
+OP 4-6
+K1 遥感;基础地理信息;3S
+AB 介绍了遥感技术在浙江省全省1∶10万基础地理信息采集和更新项目中的工作流程、作业方法、质量控制措施和作业技术要点。作业实践说明,遥感/GIS技术结合传统测绘手段,可提高工作效率和工作质量,对大区域、小成本的地理信息工程项目具有很好的应用前景。
+SN 1007-9394
+CN 53-1124/TD
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16864/j.cnki.dkch.2002.04.002
+DO 10.16864/j.cnki.dkch.2002.04.002
+
+RT Journal Article
+SR 1
+A1 本刊编辑部
+T1 业界视窗
+JF 岩土工程界
+YR 2002
+IS 12
+OP 1-3
+SN 1004-4086
+CN 11-3020/TF
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWT9WbvABKCLyXTqf0IrxgPEXGlyUV0GATA07ZQ8K7DjRjp-_jXB_3LeScHqFylIs0hNpaf0IQ-SNvZjrYXEIdQeeZ74J-D6EK7iHZQ49uoWB4cqg0yIo0DiA4LFZmZCJfwCs__UOqTXlJ8GwmQvS4WXy3U5gG-jL0VyJkmxk3AYg==&uniplatform=NZKPT&language=CHS
+
+RT Dissertation/Thesis
+SR 1
+A1 李绪龙
+A3 许宏科
+PB 长安大学
+T1 基于图像处理技术的视频交通流信息采集系统研究
+CL 硕士
+YR 2003
+IS 04
+K1 数字图像;图像处理;图像识别;交通流信息;车型识别;视频;Visual C++
+AB 本文介绍了一种简便实用的视频交通流信息采集系统，该系统无须进行视场标定，利用软件实现图像处理算法，完成交通流信息的采集。论文对数字图像的常用处理技术进行了探讨，并以此为基础，结合应用的具体需求，对系统进行了总体设计，对重要功能的实现原理和算法进行了详细描述，并对其处理效果进行了验证。同时，以Visual C++ 6.0为平台，实现了车流量和平均车速的检测，并提出了以车辆长宽比为依据的车型识别思想。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWn9uoG4hYz8khOcHD4ne25PtzbegUEuHTP6gRs-EwGFb6B7Rarvz8NOk2dDEwnQZ1ICy6ewa7Vp2CZX82qWS1b4tsX1n48pKB39iTO2_jy9naWR9T4qhfZ91gzlDhsqePuh45O-VbdGqjPi_HhxZgYfLt0iXHRr6avUp1FSLJN8EB-JxKquajc&uniplatform=NZKPT&language=CHS
+
+RT Standard
+SR 1
+C1 ISO 14817-2002
+T1 运输信息和控制系统.ITS/TICS数据词典和ITS/TICS中央数据记录要求
+A1 ISO/TC 204
+PB 国际标准化组织
+FD 2002-12
+ID ISO 14817-2002
+K1 数据采集;道路运输;词典;情报系统;自动计数系统;运输工具;运输信息和控制系统;运输;智能网络;交通控制系统;中央寄存器;规范(验收);定义;信号系统;数据交换
+URL https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVv7rVuO4GCCKygdmNwO8gWbkFnC81sSvesw2vyupUd7ciiKpn7x2xYxBcMqZy3SPBaDMEN4AR9N425GszYCX5W0xBhohkj1UJ6w3dwV3z2dVwDYvXXSzDlIghvM3JL3Xb75hgySJn74BOxaLTjcflmQk72X95BXEA4hPj6tadPNg==&uniplatform=NZKPT&language=CHS
+DB 国外标准
+DS CNKI
+
+RT Conference Proceeding
+SR 1
+A1 马骥;裴玉龙
+AD 哈尔滨工业大学交通科学与工程学院;哈尔滨工业大学交通科学与工程学院;
+T1 智能交通系统(ITS)信息采集技术评述
+JF 土木工程与高新技术——中国土木工程学会第十届年会论文集
+PB 中国土木工程学会
+PP 中国北京
+YR 2002
+OP 399-404
+K1 ITS;信息采集;探测;DMI
+AB 实时交通信息是实现城市交通智能化的关键,是ITS各子系统实施的核心基础数据和重要前提之一。在交通规划和交通管理控制等方面具有广泛的应用前景。有效利用实时交通信息是智能交通系统中最基础、最重要的组成部分。本文着重叙述用于驾驶员信息和交通控制系统的路边及中枢设备和应用便携式计算机对车速及延误进行采集处理的两种信息采集技术,尤其详细探讨了这两种技术的软硬件系统、数据采集概念、分析采集数据、辅助功能及其相互影响,这些对于实现和支持系统功能是十分必要的。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVFM8mBT5XZH8YnL-T8Xwa_HO7v1bYjGZKGpebGsm3cRtSwmn44POOXs0ii30V3hsCazqGF2UIzZIWaEeQ3goSv-0mAeK3sh--XFU03EtNGyLOumcTOcQDHNjnfm3IQ1D0567P66i4BsWEXN4bL5qq6T062RuecbblBpX2Z4ahaom3OmW55MciM&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 张静;王恒山
+AD 上海理工大学管理学院;上海理工大学管理学院;
+T1 信息技术在交通工程中的应用
+JF 西部开发与系统工程——中国系统工程学会第12届年会论文集
+PB 中国系统工程学会
+YR 2002
+OP 313-318
+K1 智能交通系统;信息技术;信息采集;信息处理;信息增值;信息决策
+AB 文章把智能交通系统分为功能层次维和应用层次维。功能层次维中提出了智能交通系统的框结构,即信息采集、信息处理、信息增值和信息决策四个层次,并介绍了各层的信息技术,在此基础上提出了智能交通系统的各项服务功能,论述了智能交通系统与信息技术的相互处理关系。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU_QUO1wEiU2Jtv3wXHA7dRtK8N_OzgvJZFziI5ODMrWyJvzZcH-NA98GPj_l_Oht16HtwKiWSOxNBtl5qRRmaiqichlTWB-ceAmeB3AOqnpuqBvupKC2flAp6oF7pYQTTki72yRujs_6QPIN3Lbjy_aEB0101LGoWkyZdnA_6n7aXruA4WN8XF&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 于春全
+AD 北京市公安局公安交通管理局 北京　100037
+T1 北京市道路交通流实时动态信息系统的研究
+JF 交通运输系统工程与信息
+YR 2002
+IS 03
+OP 22-28
+K1 实时动态系统;车辆与通信信息;信息采集;信息发布;数据库;系统接口;信息处理;交通状态显示
+AB 北京作为一个发展中的特大城市,城市交通管理出现了前所未有的机遇和挑战,特别是2008年,在北京举办奥运会对北京交通面临巨大的压力.本文介绍了在北京建立道路交通实时动态信息系统的必要性和迫切性,提出了北京道路交通实时动态信息系统的总体框架,包括系统的概念、基本结构、系统的技术要求,北京道路交通实时动态信息系统的建设工程,其中涉及交通实时动态信息采集子系统,交通实时动态信息的处理与分析子系统,交通实时动态信息发布子系统和系统的总体协调等.
+SN 1009-6744
+CN 11-4520/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16097/j.cnki.1009-6744.2002.03.006
+DO 10.16097/j.cnki.1009-6744.2002.03.006
+
+RT Journal Article
+SR 1
+A1 马红静
+T1 E路畅通
+JF 每周电脑报
+YR 2002
+IS 31
+OP 43-44
+AB 采用 IT 技术的“智能交通”是解决交通问题的良方。未来几年,北京将投入5.4亿元建立一套智能交通管理系统,该系统于2004年全面应用后,将大幅降低交通拥堵和交通事故发生率,使北京市的交通管理达到国际一流水平。
+CN 11-0100
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUBp-uZjFZsJmSSV1IlELrIZdrNTz6CahCM7tlzzNPgFyZNAbmt_LZJbEIeZL-RVO3a4cjUQjRh6ou21UNvxoMUIPkzPhn72zPmmoyLl4i5dk0ggOyVx4dG0_0w3ncNvwr1o-uzFbtb-xD6nibcr3HuL3Jh3Oru9azxrmay4dEKGA==&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 视频交通信息采集系统
+A1 陆增喜
+AD 辽宁天久信息科技产业有限公司
+FD 2002-07-02
+K1 交通信息;视频
+AB 视频交通信息采集系统是在智能交通领域运用视频检测技术,对数字视频数据进行运动分析、标准转换、增强和恢复等附加处理,以期获得更优质的图像或抽取某些特殊信息。运用计算机图像处理技术,基于运动区域的分散度计算和多重假设逼近的物体分割及模板动态匹配的物体跟踪技术,实现了图像背景的自适应。矢量识别技术的应用,确保了被测对象的准确性。几何尺寸测量技术的应用,解决了车型分类的问题。计算机网络技术的引入,解决了系统远程设置问题。
+DB 科技成果
+
+RT Other Article
+SR 1
+T1 视频交通信息采集系统
+A1 陆增喜
+AD 辽宁天久信息科技产业有限公司
+FD 2002-07-01
+K1 交通;视频系统
+AB 本项目研制了研制的视频交通信息采集系统。运用计算机图像处理技术,基于运动区域的分散度计算和多重假设逼近的物体分割及模板动态匹配的物体跟踪技术,实现了图像背景的自适应。矢量识别技术的应用,确保了被测对象的准确性。几何尺寸测量技术的应用,解决了车型分类的问题。计算机网络技术的引入,解决了系统远程设置问题。视频交通信息采集系统具有较强的创新性,市场前景广阔,技术已经成熟,与传统的方式相比具有无比的优越性,提高了产业技术水平。
+DB 科技成果
+
+RT Journal Article
+SR 1
+A1 宋国生
+AD 本溪市公路管理处 本溪117022
+T1 浅谈监控系统在高速公路的应用及发展方向
+JF 辽宁交通科技
+YR 2002
+IS 03
+OP 11-12
+K1 高速公路;监控系统;发展方向
+AB 本文论述了监控系统在高速公路上的组成、功能和监控过程 ,以及监控系统的发展方向
+CN 21-1113/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.15996/j.cnki.bfjt.2002.03.006
+﻿
+DO 10.15996/j.cnki.bfjt.2002.03.006
+﻿
+
+RT Journal Article
+SR 1
+A1 安实,王健
+AD 哈尔滨工业大学交通工程研究中心,哈尔滨工业大学交通工程研究中心 哈尔滨 150001,哈尔滨 150001
+T1 城市道路动态信息采集系统结构设计
+JF 交通运输系统工程与信息
+YR 2002
+IS 02
+OP 59-62
+K1 交通动态信息采集系统;信息流程;系统框架
+AB 道路交通动态信息采集系统既是ITS的重要组成部分,又是ITS其它应用系统建设的基础.从系统构成、系统输入输出、系统功能单元、系统信息流程等方面对道路交通动态信息采集系统框架进行了总体设计;针对多种动态交通信息采集系统共存的现象,进行了应用框架设计;并以广州市为例设计了道路交通动态信息采集系统.
+SN 1009-6744
+CN 11-4520/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16097/j.cnki.1009-6744.2002.02.012
+DO 10.16097/j.cnki.1009-6744.2002.02.012
+
+RT Conference Proceeding
+SR 1
+A1 马骥;裴玉龙
+AD 哈尔滨工业大学交通科学与工程学院;哈尔滨工业大学交通科学与工程学院;
+T1 ITS实时车速信息采集与融合方法研究
+JF 第一届全国公路科技创新高层论坛论文集智能交通与机电工程卷
+PB 交通部科技教育司、交通部公路司、中国公路学会
+YR 2002
+OP 113-120
+K1 实时车速;ITS;数据采集;融合
+AB 实时车速是城市智能化的核心基础数据.基于ITS各子系统,包括先进的交通管理系统(ATMS)、自动车辆识别(AVI)系统、车载GPS系统和视频采集系统,分析这些子系统中实时车速信息采集的几种方法;详细讨论数据描述、数据存储以及数据传输问题;对比分析两种数据采集结构,即完全分布式和分布式;提出区域范围内实时车速的采集系统应该与现有ITS子系统相结合,有效利用实时交通数据资源,使交通数据用户获得最大效益,提高城市路网的使用效率.
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWK-ZXi3ir6OxLybdmSJy940SHf-IFmrpYLA-Mhh3XLci1YJctfsElWbTbZwiAjoOgjWi-fP9ebAXPhLLMK2J-2sImlnIgSjmnRTHmKhL9BVa86N4K-U6cZeWBuwz5pTvYv80Xn3OvAygPGc8dAxu364-EtgkvQya1CfQBeIlIAb39fZDzZLgW2&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 孙棣华,刘卫宁,宋伟
+AD 重庆大学自动化学院,重庆大学自动化学院,重庆大学自动化学院 400044,400044,400044
+T1 一种适于智能交通系统的交通信息采集及监控系统
+JF 电子技术应用
+YR 2002
+IS 01
+OP 33-35
+K1 智能交通系统(ITS);信息采集;监控
+AB 给出了交通信息采集及监控系统的总体结构设计,着重讨论了路边单元、车载单元、车道控制系统及确保系统信息安全的措施。本系统通过微波标识卡和IC卡分别对机动车辆和人员进行有效标识,并能实时记录和监控机动车辆和人员有关的消费和控制信息,满足了多种应用功能的需求。
+SN 0258-7998
+CN 11-2305/TN
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16157/j.issn.0258-7998.2002.01.011
+﻿
+DO 10.16157/j.issn.0258-7998.2002.01.011
+﻿
+
+RT Newspaper Article
+SR 1
+A1 陈嘉;陈立雄;罗立奇
+T1 交通管理智能化
+JF 人民公安报
+OP 006
+FD 2002-02-26
+PB 人民公安报
+LA 中文;
+CN 11-0090
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVjI5YX0RZtlDbP7OGbdfo193Y_Z6QTtqPl3zBePJup8720PRstL21i3krvz9pbR3Q92hMDcGsKcrKamZmJeYKVemjCjp67CDj03V5YMsmSIWm5Q8GJNdyWjzrD_R3seVnNUqB-8HP6l1wPh1YVwSuzBAk0JL-FIfp48EGA_eiu87wSkJSjXk_U&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 朱昱,徐姝莉,吴晓光
+AD 黑龙江工程学院,黑龙江省广播电视局,哈尔滨商业大学 黑龙江 哈尔滨 150050,黑龙江 哈尔滨 15O001,黑龙江 哈尔滨 150000
+T1 城市交通信息系统规划研究
+JF 交通科技与经济
+YR 2002
+IS 01
+OP 42-44
+K1 信息采集;信息管理;信息发布
+AB 针对我国城市交通面临的巨大挑战,从规划及政策手段、工程设施建设手段、运行管理手段并运用信息技术、通信技术、控制技术等对传统交通运输系统进行改造,从而提高系统的运行效率。
+SN 1008-5696
+CN 23-1443/U
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.19348/j.cnki.issn1008-5696.2002.01.017
+DO 10.19348/j.cnki.issn1008-5696.2002.01.017
+
+RT Dissertation/Thesis
+SR 1
+A1 赵旭
+A3 谭国真
+PB 大连理工大学
+T1 大连城市交通信息网的设计与实现
+CL 硕士
+YR 2002
+IS 02
+K1 交通;互联网;移动终端;动态;信息发布;信息采集
+AB 随着经济全球化步伐的加快和高科技的广泛应用，计算机网络在全球范围内已日益普及。当前网络带宽不断提高，上网变得越来越简单，越来越便宜网上速度越来越快，通过移动终端上网已成为现实。因此互联网成为人们信息交流的主渠道。从而为现代社会的城市交通管理动态信息发布，提供了坚实的技术保障和广泛的用户。顺畅有序的交通是现代化城市的重要标志。为了保证道路畅通不塞车，就必须建立智能交通管理体系。而“智能”的基础首先是要有足够的信息，只有采集到需要的信息，经过分析、处理并传送或发布到需要的地方，才有可能进行下一步的智能控制或管理。未来智能交通管理的基础是交通信息的采集和发布，因此城市交通动态信息发布系统应运而生。随着互联网的发展，移动终端互联网技术已开始应用，并将在汽车中广泛应用，为此将实时交通信息送入互联网已势在必行。通过互联网可以将实时交通信息及时提供给广大交通参与者，使之能及时了解前方交通状况，选择最佳行车路线。能否将实时交通信息送入互联网，是衡量城市智能交通管理水平的重要标志。本交通信息网的总体设计是利用互联网技术，以交通控制、电视监控、车辆管理、驾驶员管理、闯红灯自动记录等系统提供的实时交通信息为基础，建成集实时路况、信息发布、热线解答、违章查询、交通法规查询、服务指南等为一体的综合信息平台。本文是信息技术，网络技术和交通管理相结合，理论与实践相结合的课题。文中介绍了以城市交通控制系统为基础，结合先进的互联网网络技术建成动态交通信息网的方案。重点阐述了动态交通信息网的设计思想、主要功能和系统构成。该项目技术难度大，创新程度高，推动科技进步作用明显，并取得了十分显著的社会效益，有着广阔的发展前景和潜在的效益，为推动我国智能交通管理系统的发展奠定了基础在推广方面具备如下特点：技术先进，运行稳定，应用范围广；系统软件及硬件设备通用，易于推广；应用软件功能强，便于移植；系统具有灵活性和扩展性，可根据各地实际情况分布实施；系统造价低，并且己与维护，运行稳定随着我国交通智能化建设的不断发展，交通信息的采集、分析处理、发布及共享也变得越来越重要。而且随着网络技术的发展和带宽的不断提高，建立交通信息网己经成为大势所趋。城市交通管理动态信息发布系统的投入使用，将对我国城市交通信息化的建设起到示范和推动作用。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXRSidCru788VEohcsGCI-J4Hmy-nAo0XiSQ4rZg-oUAm3swxA4_mLhXRRC_eePbZXLOWqu8fGSvIOeQsza0pnM7ay_VtyX2gZ0xBK8vtv_pjgErbyona9nd9oevGEVzxq7vY7DPB7lm4-7zVXYmkXOIgHHePZZyCKhhISIvDeu5nnHtBIq2nS9&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 徐志扬;施鹏飞
+AD 上海交通大学图象处理与模式识别研究所;上海交通大学图象处理与模式识别研究所;
+T1 城市智能交通信息化框架及其实现
+JF 2001年中国智能自动化会议论文集（下册）
+PB 中国自动化学会智能自动化专业委员会、昆明船舶设备集团公司、云南自动化学会、中国人工智能学会计算机视觉及智能控制学会、IEEE控制系统学会北京分会、中国自动化学会机器人竞赛工作委员会
+PP 中国云南昆明
+YR 2001
+OP 128-134
+K1 信息化框架;通信体系结构;TCIP;智能交通系统
+AB 城市交通系统的信息化是城市交通发展的必然趋势,交通的信息化、智能化是解决城市交通问题的理想方案。论文提出了城市交通系统信息化框架结构,详细分析了框架结构中交通信息采集层、交通信息传输层、交通信息中心处理层和交通信息发布层的构建,讨论了信息化框架的互操作性和互交换性的通信协议。
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVVp6EACK6VqCaHP2hA9nFG0hdxCVLPz3vRc37kTgFy3RjsMp6RN0ZsosgzJAq9vgMmFrIywwqf5nnwOXpyKvbF4d5fUU5eE8NfsFwBHgKmUoxcnDTx5Cc4ptKpsBmnW9CibZ9BgNNQPQ4Pa7RM1EXS-g_rQ3xnjsEsrONAm4h1tSVWvhoxjjzk&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 袁秀湘
+AD 长沙交通学院!长沙市,410076
+T1 人工智能在交通流管理中的应用
+JF 中南公路工程
+YR 2001
+IS 02
+OP 67-69
+K1 交通流;信息;人工智能;智能运输系统
+AB 通过对国外交通流管理研究资料的分析 ,分类比较了目前常用的实时交通路线决策和分流策略系统方法的优缺点 ,在此基础上推荐了一种先进的实时交通流管理方法 ,并介绍了其系统结构原理。
+SN 1002-1205
+CN 43-1102/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVMxyxWmoPHjy32ljx7djNXKtalwWTJc6tWtoosUl4R6ShrT9XoTFoledHnUT-jzJVGgvGezjPvM8vniil7_OKj7WtjlI3keUDZgmhu4b5je0ybUxxRYG5E5bBS3nrFbuRr2Q0sRLkus87NnpYOhkO4bCQBBJVgxMUv9Zg2sd202g==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 刘岳峰,邬伦,王铁
+AD 北京大学城市与环境学系!北京100871,北京大学城市与环境学系!北京100871,武汉市社会科学院信息所!武汉430015
+T1 GIS的社会化及公众GIS
+JF 地学前缘
+YR 2000
+IS S2
+OP 279-287
+K1 GIS社会化;公众GIS;全国城市公众信息服务网;全国交通旅游信息网;汽车导航信息系统;“今日武汉”公众查询系统
+AB GIS(地理信息系统 )的发展继专业化和行业化阶段之后 ,正处于社会化发展阶段。在该阶段 ,GIS的主要作用是为公众提供信息服务。文章在分析了GIS的这种发展趋势的基础上提出了“公众GIS”的概念 ,即 :直接面向公众 ,为公众提供信息服务和辅助公众进行行为决策的地理信息系统。与传统GIS相比 ,公众GIS更具有信息服务业的特点。公众GIS的建设应该突出信息的全面性、现势性和准确性、系统的友好性以及数据的易维护性等原则。公众GIS的关键技术包括数据采集、网络、数据库、多媒体以及系统的友好性设计等技术。公众GIS在建设全国城市公众信息服务网、全国交通旅游信息网以及汽车导航信息系统等方面具有广阔的应用前景。文章对公众GIS的实例———“今日武汉”公众查询系统作了简要介绍。
+SN 1005-2321
+CN 11-3370/P
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWY9OoN7BVS1qDdfUsmQ07Cv7V87lKpGvH-GW8s-xHcBNDyafcGluzJFzW7_8q5np45mQ9QrtZMNeGHp40mSW8fiokLGZv2H_e8GzSmYrjVQT8nFPLDbBVGGsTuht7vLUyeLssHduUeQoG1flLR5u7GfDs56liqaNpKtidKrNPC1w==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 李德仁,陈小明,郭丙轩,仲思东
+AD 武汉测绘科技大学校长办公室!武汉市珞喻路129号,430079,武汉测绘科技大学地学测量工程学院!武汉市珞喻路129号,430079,武汉测绘科技大学测绘遥感信息工程国家重点实验室!武汉市珞喻路129号,430079,武汉测绘科技大学光电工程学院!武汉市珞喻路129号,430079
+T1 车载GPS道路信息采集和更新系统研究
+JF 武汉测绘科技大学学报
+YR 2000
+IS 02
+OP 95-99
+K1 全球定位系统;地理信息系统;遥感;道路网
+AB 介绍了车载道路信息采集和更新系统 (CRICUS)的设计和研究进展。该系统利用 3S集成技术采集道路信息并生成数字道路网数据库。初步实验表明 ,该系统的定位精度可达 1m。
+SN 1000-050X
+CN 42-1159/P
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.13203/j.whugis2000.02.001
+DO 10.13203/j.whugis2000.02.001
+
+RT Journal Article
+SR 1
+A1 曾松,杨晓光
+AD 同济大学智能运输研究中心!上海市200092,同济大学智能运输研究中心!上海市200092
+T1 日本的灾时交通管理系统
+JF 国外公路
+YR 1999
+IS 05
+OP 5-10
+K1 城市灾害;交通管理;交通控制
+AB 阪神大地震给日本带来了巨大的损失，震后日本加强了对城市防灾的研究和建设。文中介绍了目前日本在灾时交通控制管理方面的研究情况，以及东京正在建设之中的灾时交通控制管理系统的结构和主要功能。
+SN 1003-6512
+CN 43-1131
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.14048/j.issn.1671-2579.1999.05.002
+﻿
+DO 10.14048/j.issn.1671-2579.1999.05.002
+﻿
+
+RT Journal Article
+SR 1
+T1 计算机在电子学方面的应用
+JF 中国无线电电子学文摘
+YR 1999
+IS 04
+OP 139-157
+SN 1003-1928
+CN 11-2635/TN
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUQX3EpEX0V_ijpz7aWxYFkm6KOImaEpx6sYeuv7bzFK8dSNDa3h7lJ4_1FxTUyEW5cVMwxD-2NjbYpkaRhrpOOO8A5fNMFsq3Ggr0KR0jRRGR0sa5meQR8QhVxP165pKaJn1gkW-F4ZdXSPvM1spr3qyfQ742Xjs99oi1TbnOghA==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 杨晓光,王一如,彭国雄
+AD 同济大学智能交通系统研究中心,同济大学智能交通系统研究中心,上海市公路管理处
+T1 高速公路交通事故对策与紧急救援系统
+JF 上海公路
+YR 1999
+IS 02
+OP 35-40
+K1 高速公路;交通事故;异常交通;紧急救援系统;智能交通系统
+AB 本论文针对高速公路常发生的交通事故及其异常交通状态,以智能交通系统(ITS)技术的应用为背景,提出高速公路交通事故预防与紧急救援系统技术。
+SN 1007-0109
+CN 31-1712/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUQX3EpEX0V_ijpz7aWxYFkm6KOImaEpx6fkVTxfx79rPfC0ZWULIVNhgyMOg9VIPQmGr3Myhtw3xjH69FqpHGLgiKQS86tZU3oQ9P98ycE1IeHmZliwjacoKgVKVGZQDdhM5Go6dMpBknKJomyddHXVrwAZJHj_MBFbgYAjcgt3g==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 朱中,杨兆升,初连禹
+AD 吉林工业大学交通学院
+T1 交通流诱导系统信息采集技术
+JF 吉林工业大学自然科学学报
+YR 1999
+IS 01
+OP 87-92
+K1 交通调查;牌照识别法;改进;交通流诱导系统
+AB 讨论了交通流诱导系统的交通流量、行程时间和行程速度的采集技术，提出了一种改进的牌照识别法，该方法适合于交通流密集路段上的交通数据采集。
+SN 1002-378X
+CN 22-1152/T
+LA 中文
+DS CNKI
+LK https://link.cnki.net/doi/10.13229/j.cnki.jdxbgxb1999.01.017
+﻿
+DO 10.13229/j.cnki.jdxbgxb1999.01.017
+﻿
+
+RT Journal Article
+SR 1
+A1 李强,王莉萍,顾群英,李佳平
+AD 上海电器科学研究所,上海电器科学研究所,上海电器科学研究所,上海电器科学研究所
+T1 高速公路交通监控系统计算机远程数据采集与监控软件
+JF 上海公路
+YR 1998
+IS S1
+OP 292-296
+AB <正> 一、前言 进入九十年代,我国高速公路发展非常迅速,特别是最近几年已进入一个高速发展的阶段。建设高速公路的目的就是实现交通运输高速、高效、安全、方便。借鉴国内外高速公路管理经验,一条管理优秀的高速公路离不开一套优秀的交通管理系统支持,在高速公路上建立监控系统的基本目的就是实时连续地重点监视由驾驶员行为、车况、天气等原因造成的偶发事件的发生,对此快速反映,及时诱导,实施救助,同时利用各种交通参数探测器检测交通流数据,预测交通状态,实时发布交通诱导信息,以确保高速公路始终快捷通畅安
+SN 1007-0109
+CN 31-1712/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXFJeUYDR83UmcofZs7rhmsEQQeQdCHIr3pljLpPn1g3gHBrFsTZ9JzSlEpm6ZVMFN9tEzhDZRhE3ptX9iVLkNixAFen13povDUGbZfETRSHpminbf4okjwZug1mbS8wVUk_oE1-bjkHhXxbXHv_bId1mp3G-5QovJE83DE-VXgNg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 杨晓光,彭国雄,王一如
+AD 同济大学,上海市公路管理处
+T1 高速公路交通事故预防与紧急救援系统
+JF 公路交通科技
+YR 1998
+IS 04
+OP 48-53
+K1 高速公路;交通事故;异常交通;紧急救援系统;智能交通系统
+AB 针对高速公路常发生交通事故及异常交通状态，本文以智能交通系统（ＩＴＳ）技术应用为背景，提出高速公路交通事故预防与紧急救援系统技术。
+SN 1002-0268
+CN 11-2279/U
+LA 中文
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LXFJeUYDR83UmcofZs7rhmsEQQeQdCHIr1PgpJXhVmCx_g4CPfKOx1WnoPP_Dk3b5lSLcAgEETIoodCHm3Y90cT_SPHCAydlQfHBmzBpAF3n31qxtgeTyFFklpRx-rNK7ll5woblPbhlJuEkvsmxQy-7KjQifmgwiTqSsgW7uHxIQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 蔡华
+AD 交通部公路科学研究所
+T1 高速公路事故信息采集和信息服务
+JF 上海公路
+YR 1998
+IS 04
+OP 20-22
+K1 信息采集;信息服务;事故基础数据库
+AB 根据当前中国高速公路交通工程设施现状,本文探讨了提高交通事故检测能力的方法,以及增强高速公路事故响应能力的具体手段,最后介绍了与交通事故处理有关的信息服务内容和手段,以及信息服务的重要性和社会经济效益。
+SN 1007-0109
+CN 31-1712/U
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LWKuCwmbd4BOLGdCn6KfrOqvKsf-D2BSTJxvJB6qg3EkwxsROsQ7O3rTvAkBMIxSZMUhmzKqQr7YfLNUmMUOxdAxvmeAeLANXsXbjZrfeu9u92zAh068D-2Jtf8we6TKhX_SjPHmXZ9IQTecXrTy3msoTYGn3RKX5Y8Ou6uRCvHJg==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 王洁清
+AD 广播影视信息网络中心
+T1 调频多工交通广播的中国解决方案
+JF 广播电视信息
+YR 1998
+IS 09
+OP 29-31
+K1 调频多工;RDS+SCA;交通广播
+AB 本文提出了在中国利用调频多工RDS+SCA技术开展交通广播服务的技术方案,并介绍了该系统在江苏扬州交通台的试点情况及其发展前景。
+SN 1007-1997
+CN 11-3229/TN
+LA 中文;
+DS CNKI
+LK https://link.cnki.net/doi/10.16045/j.cnki.rti.1998.09.007
+DO 10.16045/j.cnki.rti.1998.09.007
+
+RT Journal Article
+SR 1
+A1 李纪治
+AD 西安公路交通大学经济系
+T1 交通运输信息质量与科技进步
+JF 西安公路交通大学学报
+YR 1998
+IS 01
+OP 103-106
+K1 交通运输信息质量;科技进步;信息设计;采集与处理
+AB 根据公路交通运输信息指标设计和利用的实际问题，探讨并提出了从设计、采集、处理等环节利用现代科学技术来提高交通运输信息质量问题。
+SN 1007-4112
+CN 61-5058/U
+LA 中文
+DS CNKI
+LK https://link.cnki.net/doi/10.19721/j.cnki.1671-8879.1998.01.023
+DO 10.19721/j.cnki.1671-8879.1998.01.023
+
+RT Journal Article
+SR 1
+A1 余仲秋,徐永安,李心民
+AD 信息工程学院基础部,信息工程学院教务部
+T1 现代交通管理系统
+JF 信息工程学院学报
+YR 1997
+IS 01
+OP 39-42
+K1 交通管理系统;红外探测技术;信息采集
+AB 本文提出利用红外探测技术及信息采集技术建立汽车信息采集站,用来确定行驶的汽车位置.利用信息高速公路将汽车信息采集联网组成汽车交通管理系统.它具有交通管理和汽车定位的功能.在文中分析了交通管理系统的可行性.
+SN 1671-0673
+CN 41-1196/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LVf4WT6d6pL8vkOG3lC0uknKYVKAhXPaB2PXv_PciIn7x0rC9ZB-LayFYAWpSdaIuYJdyE_Aq0C7Zx6z8XBOE8dtov3yzdQmxrcZdIy21qjVEstxn4wz3A1j1iY9VAQBxIWPgdBKBT02xpNkOnKVb40wf8m1fSPF-K6-W-VFOoBlw==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 邓卫，王炜
+AD 东南大学运输工程研究所
+T1 公路网络规划、工程可行性研究及管理一体化系统框架设计
+JF 东南大学学报
+YR 1996
+IS 02
+OP 49-57
+K1 公路规划;管理;工程可行性研究
+AB 通过对“公路网络规划、管理及工程可行性研究一体化系统”的框架设计，提出了“一体化系统”各模块的动能和作用，从而为建立一套集公路网络规划、管理及工程可行性研究于一体的交通需求分析基础理论以及基于该理论的实用方法奠定基础，并进而为我国今后的现代化交通管理系统、交通诱导系统、交通通信系统及交通控制系统提供理论基础．
+SN 10010505
+CN 321178N
+LA 中文
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LUbRxE27CZdGOyUatARJWCLSd6CLcnC2d_X0TDXzf3eCMRpn9HJEyj321v45kAY7UbfKcHWpTK-WAb4DFBoHPq4-NeTnUbnYXm3LRyMGerSP-AiWGYBuFwmT_-HpOEq7XfNsYaVvKurMUeYxt06Yu9ZD8b425jkOl70394Gq7ugKQ==&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 蔡士杰,殷建文,葛如顶,李滨宇,董祎
+AD 南京大学,南京大学,南京大学,南京大学,南京大学
+T1 统计图形系统(TIGS)的设计和实现
+JF 计算机工程
+YR 1992
+IS 06
+OP 10-15
+K1 交通信息;统计图形;办公自动化
+AB 本文介绍了统计图形系统(TIGS)的设计思想、它的具有操作导向和回退机制的菜单驱动式用户接口,以及使用多种语言开发TIGS的方法。
+SN 1000-3428
+CN 31-1289/TP
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=7jvqSXIa2LU5FOHWPw_FBmx6JkhhcqxeRfQLw9-IN-Sd1c4s6Tdzt1hf9J6fSDev5sOj6VUq7oj4yys-OA5N1JVXSq-uQU9bRVbwcil6eNGdfHYsh567NXCw4a9vIr7jraBXzhnakXsWoI2zf4PPhG0LtY_Cb3bv-yFdFoHbx9qZa2GH8PgyTQ==&uniplatform=NZKPT&language=CHS
+
+RT Conference Proceeding
+SR 1
+A1 Luo Anqin;Yuan Jianan;Xie Fan;Yin Zhibin
+AD Beijing Smartchip Microelectronics Technology Co.,Ltd. (China)
+T1 Study on applicability of multimode communication in electric information acquisition system
+YR 2022
+AB In order to improve the data processing capability of the power acquisition system, the electric information acquisition system can be better adapted to different communication environments, in this paper, a multi-mode communication mode with strong adaptability is proposed. In the upstream channel includes GPRS, optical fiber communication, 3G wireless private network, 3G wireless public network, 4G wireless public network, 4G wireless private network and other existing communication mode, and in the downstream channel contains a low-voltage narrow-band PLC, low-voltage broadband PLC, wireless sensor networks and RS485 and other communication modes. Through the analytic hierarchy process to achieve the switch between the various communication modes to adapt to different environments.
+DS CNKI
+LK https://link.cnki.net/doi/10.1117/12.2635849
+DO 10.1117/12.2635849
+
+ 
