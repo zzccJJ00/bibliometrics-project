@@ -1,0 +1,4977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">浮动车</data>
+  <data key="label">浮动车</data>
+  <data key="author">浮动车</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="1">
+  <data key="name">群智感知</data>
+  <data key="label">群智感知</data>
+  <data key="author">群智感知</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="2">
+  <data key="name">信息处理</data>
+  <data key="label">信息处理</data>
+  <data key="author">信息处理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="3">
+  <data key="name">大数据</data>
+  <data key="label">大数据</data>
+  <data key="author">大数据</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="4">
+  <data key="name">uni cast communication</data>
+  <data key="label">uni cast communication</data>
+  <data key="author">uni cast communication</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="5">
+  <data key="name">公路规划</data>
+  <data key="label">公路规划</data>
+  <data key="author">公路规划</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="6">
+  <data key="name">分割</data>
+  <data key="label">分割</data>
+  <data key="author">分割</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">任务管理</data>
+  <data key="label">任务管理</data>
+  <data key="author">任务管理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">交通问题</data>
+  <data key="label">交通问题</data>
+  <data key="author">交通问题</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="9">
+  <data key="name">挑战</data>
+  <data key="label">挑战</data>
+  <data key="author">挑战</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="10">
+  <data key="name">系统</data>
+  <data key="label">系统</data>
+  <data key="author">系统</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="11">
+  <data key="name">rfid technology</data>
+  <data key="label">rfid technology</data>
+  <data key="author">rfid technology</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="12">
+  <data key="name">城市路网</data>
+  <data key="label">城市路网</data>
+  <data key="author">城市路网</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="13">
+  <data key="name">数据融合</data>
+  <data key="label">数据融合</data>
+  <data key="author">数据融合</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="14">
+  <data key="name">实时数据</data>
+  <data key="label">实时数据</data>
+  <data key="author">实时数据</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="15">
+  <data key="name">多源采集</data>
+  <data key="label">多源采集</data>
+  <data key="author">多源采集</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="16">
+  <data key="name">压电传感</data>
+  <data key="label">压电传感</data>
+  <data key="author">压电传感</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="17">
+  <data key="name">optimization model</data>
+  <data key="label">optimization model</data>
+  <data key="author">optimization model</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="18">
+  <data key="name">工程勘察</data>
+  <data key="label">工程勘察</data>
+  <data key="author">工程勘察</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="19">
+  <data key="name">物联网</data>
+  <data key="label">物联网</data>
+  <data key="author">物联网</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="20">
+  <data key="name">位置预测</data>
+  <data key="label">位置预测</data>
+  <data key="author">位置预测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="21">
+  <data key="name">智能手机</data>
+  <data key="label">智能手机</data>
+  <data key="author">智能手机</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="22">
+  <data key="name">应用</data>
+  <data key="label">应用</data>
+  <data key="author">应用</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">信息共享</data>
+  <data key="label">信息共享</data>
+  <data key="author">信息共享</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="24">
+  <data key="name">关键技术</data>
+  <data key="label">关键技术</data>
+  <data key="author">关键技术</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="25">
+  <data key="name">车载设备</data>
+  <data key="label">车载设备</data>
+  <data key="author">车载设备</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="26">
+  <data key="name">小波变换</data>
+  <data key="label">小波变换</data>
+  <data key="author">小波变换</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="27">
+  <data key="name">智慧城市</data>
+  <data key="label">智慧城市</data>
+  <data key="author">智慧城市</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="28">
+  <data key="name">wireless sensor networks</data>
+  <data key="label">wireless sensor networks</data>
+  <data key="author">wireless sensor networks</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="29">
+  <data key="name">智慧交通</data>
+  <data key="label">智慧交通</data>
+  <data key="author">智慧交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="30">
+  <data key="name">处理方法</data>
+  <data key="label">处理方法</data>
+  <data key="author">处理方法</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="31">
+  <data key="name">兴趣排序</data>
+  <data key="label">兴趣排序</data>
+  <data key="author">兴趣排序</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="32">
+  <data key="name">定向广播</data>
+  <data key="label">定向广播</data>
+  <data key="author">定向广播</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="33">
+  <data key="name">主动安全</data>
+  <data key="label">主动安全</data>
+  <data key="author">主动安全</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="34">
+  <data key="name">高速收费</data>
+  <data key="label">高速收费</data>
+  <data key="author">高速收费</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="35">
+  <data key="name">intelligent iot guardrail</data>
+  <data key="label">intelligent iot guardrail</data>
+  <data key="author">intelligent iot guardrail</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="36">
+  <data key="name">intelligent public transport system</data>
+  <data key="label">intelligent public transport system</data>
+  <data key="author">intelligent public transport system</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="37">
+  <data key="name">广城雷达</data>
+  <data key="label">广城雷达</data>
+  <data key="author">广城雷达</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="38">
+  <data key="name">信令数据</data>
+  <data key="label">信令数据</data>
+  <data key="author">信令数据</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="39">
+  <data key="name">事故检测</data>
+  <data key="label">事故检测</data>
+  <data key="author">事故检测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="40">
+  <data key="name">交通事故</data>
+  <data key="label">交通事故</data>
+  <data key="author">交通事故</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="41">
+  <data key="name">5-axis machining</data>
+  <data key="label">5-axis machining</data>
+  <data key="author">5-axis machining</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="42">
+  <data key="name">系统设计</data>
+  <data key="label">系统设计</data>
+  <data key="author">系统设计</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="43">
+  <data key="name">事件检测</data>
+  <data key="label">事件检测</data>
+  <data key="author">事件检测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="44">
+  <data key="name">信号处理</data>
+  <data key="label">信号处理</data>
+  <data key="author">信号处理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="45">
+  <data key="name">交通诱导</data>
+  <data key="label">交通诱导</data>
+  <data key="author">交通诱导</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="46">
+  <data key="name">温湿度</data>
+  <data key="label">温湿度</data>
+  <data key="author">温湿度</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="47">
+  <data key="name">优化策略</data>
+  <data key="label">优化策略</data>
+  <data key="author">优化策略</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="48">
+  <data key="name">总体结构</data>
+  <data key="label">总体结构</data>
+  <data key="author">总体结构</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="49">
+  <data key="name">手机定位</data>
+  <data key="label">手机定位</data>
+  <data key="author">手机定位</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="50">
+  <data key="name">communications architecture</data>
+  <data key="label">communications architecture</data>
+  <data key="author">communications architecture</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="51">
+  <data key="name">context aware acquisition</data>
+  <data key="label">context aware acquisition</data>
+  <data key="author">context aware acquisition</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="52">
+  <data key="name">交通调查</data>
+  <data key="label">交通调查</data>
+  <data key="author">交通调查</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="53">
+  <data key="name">信号控制</data>
+  <data key="label">信号控制</data>
+  <data key="author">信号控制</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="54">
+  <data key="name">deep learning</data>
+  <data key="label">deep learning</data>
+  <data key="author">deep learning</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="55">
+  <data key="name">分时选通</data>
+  <data key="label">分时选通</data>
+  <data key="author">分时选通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="56">
+  <data key="name">车流量</data>
+  <data key="label">车流量</data>
+  <data key="author">车流量</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="57">
+  <data key="name">拥塞控制</data>
+  <data key="label">拥塞控制</data>
+  <data key="author">拥塞控制</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="58">
+  <data key="name">distribution automation</data>
+  <data key="label">distribution automation</data>
+  <data key="author">distribution automation</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="59">
+  <data key="name">移动终端</data>
+  <data key="label">移动终端</data>
+  <data key="author">移动终端</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="60">
+  <data key="name">urban development</data>
+  <data key="label">urban development</data>
+  <data key="author">urban development</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="61">
+  <data key="name">数字交通</data>
+  <data key="label">数字交通</data>
+  <data key="author">数字交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="62">
+  <data key="name">道路交通</data>
+  <data key="label">道路交通</data>
+  <data key="author">道路交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="63">
+  <data key="name">信号配时</data>
+  <data key="label">信号配时</data>
+  <data key="author">信号配时</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="64">
+  <data key="name">安全检测</data>
+  <data key="label">安全检测</data>
+  <data key="author">安全检测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="65">
+  <data key="name">微波检测</data>
+  <data key="label">微波检测</data>
+  <data key="author">微波检测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="66">
+  <data key="name">城市规划</data>
+  <data key="label">城市规划</data>
+  <data key="author">城市规划</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="67">
+  <data key="name">arcgis engine</data>
+  <data key="label">arcgis engine</data>
+  <data key="author">arcgis engine</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="68">
+  <data key="name">复式录波</data>
+  <data key="label">复式录波</data>
+  <data key="author">复式录波</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="69">
+  <data key="name">分类学</data>
+  <data key="label">分类学</data>
+  <data key="author">分类学</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="70">
+  <data key="name">出口公路</data>
+  <data key="label">出口公路</data>
+  <data key="author">出口公路</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="71">
+  <data key="name">internet of vehicles</data>
+  <data key="label">internet of vehicles</data>
+  <data key="author">internet of vehicles</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="72">
+  <data key="name">信息</data>
+  <data key="label">信息</data>
+  <data key="author">信息</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="73">
+  <data key="name">信号系统</data>
+  <data key="label">信号系统</data>
+  <data key="author">信号系统</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="74">
+  <data key="name">urban road</data>
+  <data key="label">urban road</data>
+  <data key="author">urban road</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="75">
+  <data key="name">智能交通</data>
+  <data key="label">智能交通</data>
+  <data key="author">智能交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">34</data>
+</node>
+<node id="76">
+  <data key="name">数据标准</data>
+  <data key="label">数据标准</data>
+  <data key="author">数据标准</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="77">
+  <data key="name">kalman filter</data>
+  <data key="label">kalman filter</data>
+  <data key="author">kalman filter</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="78">
+  <data key="name">微波雷达</data>
+  <data key="label">微波雷达</data>
+  <data key="author">微波雷达</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="79">
+  <data key="name">occupancy ratio</data>
+  <data key="label">occupancy ratio</data>
+  <data key="author">occupancy ratio</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="80">
+  <data key="name">公交</data>
+  <data key="label">公交</data>
+  <data key="author">公交</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="81">
+  <data key="name">夜视系统</data>
+  <data key="label">夜视系统</data>
+  <data key="author">夜视系统</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="82">
+  <data key="name">监测</data>
+  <data key="label">监测</data>
+  <data key="author">监测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="83">
+  <data key="name">交通安全</data>
+  <data key="label">交通安全</data>
+  <data key="author">交通安全</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="84">
+  <data key="name">robotic polishing system</data>
+  <data key="label">robotic polishing system</data>
+  <data key="author">robotic polishing system</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="85">
+  <data key="name">information acquisition system</data>
+  <data key="label">information acquisition system</data>
+  <data key="author">information acquisition system</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="86">
+  <data key="name">信息采集</data>
+  <data key="label">信息采集</data>
+  <data key="author">信息采集</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">36</data>
+</node>
+<node id="87">
+  <data key="name">polishing monitoring</data>
+  <data key="label">polishing monitoring</data>
+  <data key="author">polishing monitoring</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="88">
+  <data key="name">交通监控</data>
+  <data key="label">交通监控</data>
+  <data key="author">交通监控</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="89">
+  <data key="name">信息平台</data>
+  <data key="label">信息平台</data>
+  <data key="author">信息平台</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="90">
+  <data key="name">实时路况</data>
+  <data key="label">实时路况</data>
+  <data key="author">实时路况</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="91">
+  <data key="name">采集技术</data>
+  <data key="label">采集技术</data>
+  <data key="author">采集技术</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="92">
+  <data key="name">车辆信息</data>
+  <data key="label">车辆信息</data>
+  <data key="author">车辆信息</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="93">
+  <data key="name">edge computing</data>
+  <data key="label">edge computing</data>
+  <data key="author">edge computing</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="94">
+  <data key="name">能耗监测</data>
+  <data key="label">能耗监测</data>
+  <data key="author">能耗监测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="95">
+  <data key="name">complementary and alternative medicine</data>
+  <data key="label">complementary and alternative medicine</data>
+  <data key="author">complementary and alternative medicine</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="96">
+  <data key="name">intelligent transportation system</data>
+  <data key="label">intelligent transportation system</data>
+  <data key="author">intelligent transportation system</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="97">
+  <data key="name">public transport</data>
+  <data key="label">public transport</data>
+  <data key="author">public transport</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="98">
+  <data key="name">双频处理</data>
+  <data key="label">双频处理</data>
+  <data key="author">双频处理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="99">
+  <data key="name">3g dtu</data>
+  <data key="label">3g dtu</data>
+  <data key="author">3g dtu</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="100">
+  <data key="name">分流调节</data>
+  <data key="label">分流调节</data>
+  <data key="author">分流调节</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="101">
+  <data key="name">垂直搜索</data>
+  <data key="label">垂直搜索</data>
+  <data key="author">垂直搜索</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="102">
+  <data key="name">carrier aggregation</data>
+  <data key="label">carrier aggregation</data>
+  <data key="author">carrier aggregation</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="103">
+  <data key="name">中国</data>
+  <data key="label">中国</data>
+  <data key="author">中国</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="104">
+  <data key="name">信号灯</data>
+  <data key="label">信号灯</data>
+  <data key="author">信号灯</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="105">
+  <data key="name">数据交换</data>
+  <data key="label">数据交换</data>
+  <data key="author">数据交换</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="106">
+  <data key="name">web app</data>
+  <data key="label">web app</data>
+  <data key="author">web app</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="107">
+  <data key="name">inﬂ ammatory</data>
+  <data key="label">inﬂ ammatory</data>
+  <data key="author">inﬂ ammatory</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="108">
+  <data key="name">管理</data>
+  <data key="label">管理</data>
+  <data key="author">管理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="109">
+  <data key="name">运行状态</data>
+  <data key="label">运行状态</data>
+  <data key="author">运行状态</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="110">
+  <data key="name">交通技术</data>
+  <data key="label">交通技术</data>
+  <data key="author">交通技术</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="111">
+  <data key="name">车数提取</data>
+  <data key="label">车数提取</data>
+  <data key="author">车数提取</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="112">
+  <data key="name">交通信息</data>
+  <data key="label">交通信息</data>
+  <data key="author">交通信息</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="113">
+  <data key="name">signal acquisition</data>
+  <data key="label">signal acquisition</data>
+  <data key="author">signal acquisition</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="114">
+  <data key="name">监测系统</data>
+  <data key="label">监测系统</data>
+  <data key="author">监测系统</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="115">
+  <data key="name">元搜索</data>
+  <data key="label">元搜索</data>
+  <data key="author">元搜索</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="116">
+  <data key="name">均值偏移</data>
+  <data key="label">均值偏移</data>
+  <data key="author">均值偏移</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="117">
+  <data key="name">信息发布</data>
+  <data key="label">信息发布</data>
+  <data key="author">信息发布</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="118">
+  <data key="name">履约考核</data>
+  <data key="label">履约考核</data>
+  <data key="author">履约考核</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="119">
+  <data key="name">traffic information acquisition device</data>
+  <data key="label">traffic information acquisition device</data>
+  <data key="author">traffic information acquisition device</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="120">
+  <data key="name">测速线圈</data>
+  <data key="label">测速线圈</data>
+  <data key="author">测速线圈</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="121">
+  <data key="name">高速公路</data>
+  <data key="label">高速公路</data>
+  <data key="author">高速公路</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="122">
+  <data key="name">射频识别</data>
+  <data key="label">射频识别</data>
+  <data key="author">射频识别</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="123">
+  <data key="name">信息融合</data>
+  <data key="label">信息融合</data>
+  <data key="author">信息融合</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="124">
+  <data key="name">traffic accident</data>
+  <data key="label">traffic accident</data>
+  <data key="author">traffic accident</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="125">
+  <data key="name">交通气象</data>
+  <data key="label">交通气象</data>
+  <data key="author">交通气象</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="126">
+  <data key="name">城市车辆</data>
+  <data key="label">城市车辆</data>
+  <data key="author">城市车辆</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="127">
+  <data key="name">epon technology</data>
+  <data key="label">epon technology</data>
+  <data key="author">epon technology</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="128">
+  <data key="name">故障信息</data>
+  <data key="label">故障信息</data>
+  <data key="author">故障信息</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="129">
+  <data key="name">动态数据</data>
+  <data key="label">动态数据</data>
+  <data key="author">动态数据</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="130">
+  <data key="name">信息诱导</data>
+  <data key="label">信息诱导</data>
+  <data key="author">信息诱导</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="131">
+  <data key="name">information collection technology</data>
+  <data key="label">information collection technology</data>
+  <data key="author">information collection technology</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="132">
+  <data key="name">交通工程</data>
+  <data key="label">交通工程</data>
+  <data key="author">交通工程</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="133">
+  <data key="name">traffic flow</data>
+  <data key="label">traffic flow</data>
+  <data key="author">traffic flow</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="134">
+  <data key="name">深度学习</data>
+  <data key="label">深度学习</data>
+  <data key="author">深度学习</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="135">
+  <data key="name">公安交通</data>
+  <data key="label">公安交通</data>
+  <data key="author">公安交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="136">
+  <data key="name">布点策略</data>
+  <data key="label">布点策略</data>
+  <data key="author">布点策略</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="137">
+  <data key="name">模块设计</data>
+  <data key="label">模块设计</data>
+  <data key="author">模块设计</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="138">
+  <data key="name">事故处理</data>
+  <data key="label">事故处理</data>
+  <data key="author">事故处理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="139">
+  <data key="name">computer vision</data>
+  <data key="label">computer vision</data>
+  <data key="author">computer vision</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="140">
+  <data key="name">路况播报</data>
+  <data key="label">路况播报</data>
+  <data key="author">路况播报</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="141">
+  <data key="name">主题漂移</data>
+  <data key="label">主题漂移</data>
+  <data key="author">主题漂移</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="142">
+  <data key="name">国省干线</data>
+  <data key="label">国省干线</data>
+  <data key="author">国省干线</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="143">
+  <data key="name">传感器</data>
+  <data key="label">传感器</data>
+  <data key="author">传感器</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="144">
+  <data key="name">应急管理</data>
+  <data key="label">应急管理</data>
+  <data key="author">应急管理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="145">
+  <data key="name">intelligent traffic</data>
+  <data key="label">intelligent traffic</data>
+  <data key="author">intelligent traffic</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="146">
+  <data key="name">应用技术</data>
+  <data key="label">应用技术</data>
+  <data key="author">应用技术</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="147">
+  <data key="name">感知技术</data>
+  <data key="label">感知技术</data>
+  <data key="author">感知技术</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="148">
+  <data key="name">可视化</data>
+  <data key="label">可视化</data>
+  <data key="author">可视化</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="149">
+  <data key="name">发布网站</data>
+  <data key="label">发布网站</data>
+  <data key="author">发布网站</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="150">
+  <data key="name">轨道交通</data>
+  <data key="label">轨道交通</data>
+  <data key="author">轨道交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="151">
+  <data key="name">数据修复</data>
+  <data key="label">数据修复</data>
+  <data key="author">数据修复</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="152">
+  <data key="name">嵌入式</data>
+  <data key="label">嵌入式</data>
+  <data key="author">嵌入式</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="153">
+  <data key="name">安全设施</data>
+  <data key="label">安全设施</data>
+  <data key="author">安全设施</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="154">
+  <data key="name">公路交通</data>
+  <data key="label">公路交通</data>
+  <data key="author">公路交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="155">
+  <data key="name">数据挖掘</data>
+  <data key="label">数据挖掘</data>
+  <data key="author">数据挖掘</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="156">
+  <data key="name">信息传输</data>
+  <data key="label">信息传输</data>
+  <data key="author">信息传输</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="157">
+  <data key="name">实时</data>
+  <data key="label">实时</data>
+  <data key="author">实时</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="158">
+  <data key="name">交通</data>
+  <data key="label">交通</data>
+  <data key="author">交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="159">
+  <data key="name">建议</data>
+  <data key="label">建议</data>
+  <data key="author">建议</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="160">
+  <data key="name">black cohosh</data>
+  <data key="label">black cohosh</data>
+  <data key="author">black cohosh</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="161">
+  <data key="name">工作效率</data>
+  <data key="label">工作效率</data>
+  <data key="author">工作效率</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="162">
+  <data key="name">信息抽取</data>
+  <data key="label">信息抽取</data>
+  <data key="author">信息抽取</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="163">
+  <data key="name">数据库</data>
+  <data key="label">数据库</data>
+  <data key="author">数据库</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="164">
+  <data key="name">智能运维</data>
+  <data key="label">智能运维</data>
+  <data key="author">智能运维</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="165">
+  <data key="name">公路</data>
+  <data key="label">公路</data>
+  <data key="author">公路</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="166">
+  <data key="name">噪声监测</data>
+  <data key="label">噪声监测</data>
+  <data key="author">噪声监测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="167">
+  <data key="name">车联网</data>
+  <data key="label">车联网</data>
+  <data key="author">车联网</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="168">
+  <data key="name">treatment facilities</data>
+  <data key="label">treatment facilities</data>
+  <data key="author">treatment facilities</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="169">
+  <data key="name">urban data mining</data>
+  <data key="label">urban data mining</data>
+  <data key="author">urban data mining</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="170">
+  <data key="name">数据</data>
+  <data key="label">数据</data>
+  <data key="author">数据</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="171">
+  <data key="name">nitric oxide</data>
+  <data key="label">nitric oxide</data>
+  <data key="author">nitric oxide</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="172">
+  <data key="name">区间测速</data>
+  <data key="label">区间测速</data>
+  <data key="author">区间测速</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="173">
+  <data key="name">相位校正</data>
+  <data key="label">相位校正</data>
+  <data key="author">相位校正</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="174">
+  <data key="name">自动化</data>
+  <data key="label">自动化</data>
+  <data key="author">自动化</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="175">
+  <data key="name">样本特征</data>
+  <data key="label">样本特征</data>
+  <data key="author">样本特征</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="176">
+  <data key="name">发布系统</data>
+  <data key="label">发布系统</data>
+  <data key="author">发布系统</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="177">
+  <data key="name">transportation problem</data>
+  <data key="label">transportation problem</data>
+  <data key="author">transportation problem</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="178">
+  <data key="name">图像处理</data>
+  <data key="label">图像处理</data>
+  <data key="author">图像处理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="179">
+  <data key="name">实现</data>
+  <data key="label">实现</data>
+  <data key="author">实现</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="180">
+  <data key="name">image acquisition</data>
+  <data key="label">image acquisition</data>
+  <data key="author">image acquisition</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="181">
+  <data key="name">云计算</data>
+  <data key="label">云计算</data>
+  <data key="author">云计算</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="182">
+  <data key="name">评价体系</data>
+  <data key="label">评价体系</data>
+  <data key="author">评价体系</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="183">
+  <data key="name">采集</data>
+  <data key="label">采集</data>
+  <data key="author">采集</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="184">
+  <data key="name">覆盖范围</data>
+  <data key="label">覆盖范围</data>
+  <data key="author">覆盖范围</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="185">
+  <data key="name">视频采集</data>
+  <data key="label">视频采集</data>
+  <data key="author">视频采集</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="186">
+  <data key="name">system design</data>
+  <data key="label">system design</data>
+  <data key="author">system design</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="187">
+  <data key="name">云基站</data>
+  <data key="label">云基站</data>
+  <data key="author">云基站</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="188">
+  <data key="name">数据处理</data>
+  <data key="label">数据处理</data>
+  <data key="author">数据处理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="189">
+  <data key="name">保畅管理</data>
+  <data key="label">保畅管理</data>
+  <data key="author">保畅管理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="190">
+  <data key="name">信息技术</data>
+  <data key="label">信息技术</data>
+  <data key="author">信息技术</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="191">
+  <data key="name">视频检测</data>
+  <data key="label">视频检测</data>
+  <data key="author">视频检测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="192">
+  <data key="name">intelligent transportation systems (its)</data>
+  <data key="label">intelligent transportation systems (its)</data>
+  <data key="author">intelligent transportation systems (its)</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="193">
+  <data key="name">interactive data</data>
+  <data key="label">interactive data</data>
+  <data key="author">interactive data</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="194">
+  <data key="name">计费</data>
+  <data key="label">计费</data>
+  <data key="author">计费</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="195">
+  <data key="name">信号配对</data>
+  <data key="label">信号配对</data>
+  <data key="author">信号配对</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="196">
+  <data key="name">information acquisition</data>
+  <data key="label">information acquisition</data>
+  <data key="author">information acquisition</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="197">
+  <data key="name">执法数据</data>
+  <data key="label">执法数据</data>
+  <data key="author">执法数据</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="198">
+  <data key="name">led屏</data>
+  <data key="label">led屏</data>
+  <data key="author">led屏</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="199">
+  <data key="name">traffic acquisition system</data>
+  <data key="label">traffic acquisition system</data>
+  <data key="author">traffic acquisition system</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="200">
+  <data key="name">信息整合</data>
+  <data key="label">信息整合</data>
+  <data key="author">信息整合</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="201">
+  <data key="name">交通拥堵</data>
+  <data key="label">交通拥堵</data>
+  <data key="author">交通拥堵</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="202">
+  <data key="name">智能</data>
+  <data key="label">智能</data>
+  <data key="author">智能</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="203">
+  <data key="name">智能车</data>
+  <data key="label">智能车</data>
+  <data key="author">智能车</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="204">
+  <data key="name">河道监控</data>
+  <data key="label">河道监控</data>
+  <data key="author">河道监控</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="205">
+  <data key="name">traffic information collection sysytem</data>
+  <data key="label">traffic information collection sysytem</data>
+  <data key="author">traffic information collection sysytem</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="206">
+  <data key="name">communication protocol</data>
+  <data key="label">communication protocol</data>
+  <data key="author">communication protocol</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="207">
+  <data key="name">图像采集</data>
+  <data key="label">图像采集</data>
+  <data key="author">图像采集</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="208">
+  <data key="name">智能监控</data>
+  <data key="label">智能监控</data>
+  <data key="author">智能监控</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="209">
+  <data key="name">ultrasonic sensor</data>
+  <data key="label">ultrasonic sensor</data>
+  <data key="author">ultrasonic sensor</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="210">
+  <data key="name">动态路网</data>
+  <data key="label">动态路网</data>
+  <data key="author">动态路网</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="211">
+  <data key="name">network communication</data>
+  <data key="label">network communication</data>
+  <data key="author">network communication</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="212">
+  <data key="name">wireless monitoring</data>
+  <data key="label">wireless monitoring</data>
+  <data key="author">wireless monitoring</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="213">
+  <data key="name">地图匹配</data>
+  <data key="label">地图匹配</data>
+  <data key="author">地图匹配</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="214">
+  <data key="name">vehicle mobility</data>
+  <data key="label">vehicle mobility</data>
+  <data key="author">vehicle mobility</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="215">
+  <data key="name">multi-source heterogeneity</data>
+  <data key="label">multi-source heterogeneity</data>
+  <data key="author">multi-source heterogeneity</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="216">
+  <data key="name">手机信令</data>
+  <data key="label">手机信令</data>
+  <data key="author">手机信令</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="217">
+  <data key="name">交通状态</data>
+  <data key="label">交通状态</data>
+  <data key="author">交通状态</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="218">
+  <data key="name">行车记录</data>
+  <data key="label">行车记录</data>
+  <data key="author">行车记录</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="219">
+  <data key="name">交通分配</data>
+  <data key="label">交通分配</data>
+  <data key="author">交通分配</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="220">
+  <data key="name">数据分析</data>
+  <data key="label">数据分析</data>
+  <data key="author">数据分析</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="221">
+  <data key="name">土方工程</data>
+  <data key="label">土方工程</data>
+  <data key="author">土方工程</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="222">
+  <data key="name">gis technology</data>
+  <data key="label">gis technology</data>
+  <data key="author">gis technology</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="223">
+  <data key="name">feeder terminal</data>
+  <data key="label">feeder terminal</data>
+  <data key="author">feeder terminal</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="224">
+  <data key="name">技术应用</data>
+  <data key="label">技术应用</data>
+  <data key="author">技术应用</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="225">
+  <data key="name">信息系统</data>
+  <data key="label">信息系统</data>
+  <data key="author">信息系统</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="226">
+  <data key="name">交通图像</data>
+  <data key="label">交通图像</data>
+  <data key="author">交通图像</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="227">
+  <data key="name">城市化</data>
+  <data key="label">城市化</data>
+  <data key="author">城市化</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="228">
+  <data key="name">交通标线</data>
+  <data key="label">交通标线</data>
+  <data key="author">交通标线</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="229">
+  <data key="name">多源信息</data>
+  <data key="label">多源信息</data>
+  <data key="author">多源信息</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="230">
+  <data key="name">代理</data>
+  <data key="label">代理</data>
+  <data key="author">代理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="231">
+  <data key="name">数据采集</data>
+  <data key="label">数据采集</data>
+  <data key="author">数据采集</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="232">
+  <data key="name">二值化</data>
+  <data key="label">二值化</data>
+  <data key="author">二值化</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="233">
+  <data key="name">人流管理</data>
+  <data key="label">人流管理</data>
+  <data key="author">人流管理</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="234">
+  <data key="name">物流配送</data>
+  <data key="label">物流配送</data>
+  <data key="author">物流配送</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="235">
+  <data key="name">目标追踪</data>
+  <data key="label">目标追踪</data>
+  <data key="author">目标追踪</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="236">
+  <data key="name">交通流</data>
+  <data key="label">交通流</data>
+  <data key="author">交通流</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="237">
+  <data key="name">截面流量</data>
+  <data key="label">截面流量</data>
+  <data key="author">截面流量</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="238">
+  <data key="name">城市交通</data>
+  <data key="label">城市交通</data>
+  <data key="author">城市交通</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="239">
+  <data key="name">公交线路</data>
+  <data key="label">公交线路</data>
+  <data key="author">公交线路</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="240">
+  <data key="name">a*算法</data>
+  <data key="label">a*算法</data>
+  <data key="author">a*算法</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="241">
+  <data key="name">云模型</data>
+  <data key="label">云模型</data>
+  <data key="author">云模型</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="242">
+  <data key="name">多线程</data>
+  <data key="label">多线程</data>
+  <data key="author">多线程</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="243">
+  <data key="name">运维信息</data>
+  <data key="label">运维信息</data>
+  <data key="author">运维信息</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="244">
+  <data key="name">the internet of things</data>
+  <data key="label">the internet of things</data>
+  <data key="author">the internet of things</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="245">
+  <data key="name">体系框架</data>
+  <data key="label">体系框架</data>
+  <data key="author">体系框架</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="246">
+  <data key="name">模糊聚类</data>
+  <data key="label">模糊聚类</data>
+  <data key="author">模糊聚类</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="247">
+  <data key="name">功能实现</data>
+  <data key="label">功能实现</data>
+  <data key="author">功能实现</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="248">
+  <data key="name">即时监测</data>
+  <data key="label">即时监测</data>
+  <data key="author">即时监测</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="249">
+  <data key="name">software-defined radio</data>
+  <data key="label">software-defined radio</data>
+  <data key="author">software-defined radio</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="250">
+  <data key="name">公众出行</data>
+  <data key="label">公众出行</data>
+  <data key="author">公众出行</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="251">
+  <data key="name">全景系统</data>
+  <data key="label">全景系统</data>
+  <data key="author">全景系统</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="252">
+  <data key="name">无人机</data>
+  <data key="label">无人机</data>
+  <data key="author">无人机</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="253">
+  <data key="name">公路运输</data>
+  <data key="label">公路运输</data>
+  <data key="author">公路运输</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="254">
+  <data key="name">信息服务</data>
+  <data key="label">信息服务</data>
+  <data key="author">信息服务</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="255">
+  <data key="name">模糊控制</data>
+  <data key="label">模糊控制</data>
+  <data key="author">模糊控制</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="256">
+  <data key="name">distribution communication</data>
+  <data key="label">distribution communication</data>
+  <data key="author">distribution communication</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="257">
+  <data key="name">决策平台</data>
+  <data key="label">决策平台</data>
+  <data key="author">决策平台</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="258">
+  <data key="name">超限车辆</data>
+  <data key="label">超限车辆</data>
+  <data key="author">超限车辆</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<edge source="0" target="45">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="0" target="185">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="219">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="0" target="252">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="1" target="234">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="2" target="75">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="2" target="86">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="2" target="117">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="2" target="163">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="2" target="250">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="3" target="121">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="3" target="216">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="3" target="217">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="3" target="220">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="3" target="231">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="4" target="36">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="4" target="51">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="4" target="71">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="4" target="93">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="4" target="214">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="5" target="174">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="5" target="221">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="6" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="6" target="232">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="7" target="64">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="7" target="154">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="7" target="188">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="8" target="19">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="8" target="75">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="8" target="230">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="9" target="159">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="10" target="62">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="10" target="82">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="10" target="112">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="10" target="165">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="10" target="183">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="10" target="243">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="11" target="17">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="11" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="11" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="11" target="145">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="12" target="86">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="12" target="117">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="13" target="29">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="13" target="45">
+  <data key="weight">5.773503062300733E-7</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="13" target="86">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="13" target="142">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="13" target="163">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="13" target="229">
+  <data key="weight">5.773503062300733E-7</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="13" target="231">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="13" target="258">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="14" target="83">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="15" target="75">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="16" target="75">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="17" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="17" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="17" target="145">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="150">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="19" target="29">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="19" target="75">
+  <data key="weight">0.19245009124279022</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="19" target="86">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="19" target="147">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="19" target="170">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="19" target="191">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="19" target="230">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="19" target="238">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="20" target="204">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="21" target="75">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="21" target="125">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="22" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="22" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="23" target="45">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="23" target="75">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="23" target="86">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="23" target="105">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="23" target="123">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="24" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="24" target="86">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="24" target="110">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="24" target="129">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="25" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="25" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="25" target="194">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="26" target="232">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="27" target="75">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="27" target="86">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="27" target="108">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="27" target="157">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="27" target="201">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="28" target="192">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="28" target="199">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="28" target="209">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="29" target="86">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="29" target="142">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="29" target="147">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="29" target="189">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="29" target="258">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="31" target="101">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="31" target="115">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="31" target="141">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="32" target="75">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="34" target="75">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="34" target="208">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="35" target="124">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="35" target="133">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="35" target="205">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="36" target="51">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="36" target="71">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="36" target="93">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="36" target="214">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="37" target="78">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="37" target="86">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="38" target="109">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="38" target="175">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="38" target="182">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="40" target="138">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="40" target="161">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="41" target="84">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="41" target="87">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="41" target="212">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="42" target="75">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="42" target="181">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="44" target="78">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="44" target="112">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="45" target="65">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="45" target="75">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="45" target="86">
+  <data key="weight">0.25</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="45" target="123">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="45" target="198">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="45" target="219">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="45" target="229">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="47" target="134">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="49" target="75">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="49" target="213">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="50" target="102">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="50" target="249">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="51" target="71">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="51" target="93">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="51" target="214">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="53" target="75">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="53" target="86">
+  <data key="weight">9.999999974752427E-7</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="53" target="235">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="54" target="113">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="54" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="54" target="244">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="55" target="75">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="55" target="195">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="56" target="66">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="56" target="75">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="56" target="167">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="57" target="100">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="58" target="131">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="58" target="206">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="58" target="223">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="59" target="138">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="59" target="140">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="60" target="139">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="60" target="180">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="60" target="193">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="60" target="211">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="62" target="243">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="64" target="154">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="64" target="188">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="65" target="86">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="65" target="198">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="66" target="75">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="66" target="167">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="67" target="190">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="67" target="201">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="68" target="231">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="69" target="73">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="69" target="105">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="69" target="190">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="69" target="225">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="69" target="231">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="70" target="86">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="70" target="257">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="71" target="93">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="71" target="214">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="73" target="105">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="164">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="73" target="190">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="225">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="231">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="74" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="74" target="145">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="75" target="86">
+  <data key="weight">4.082483258116554E-7</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="75" target="89">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="75" target="104">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="75" target="117">
+  <data key="weight">3.33333360913457E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="75" target="123">
+  <data key="weight">3.33333360913457E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="75" target="143">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="75" target="163">
+  <data key="weight">4.999999987376214E-7</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="75" target="167">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="75" target="170">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="75" target="176">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="75" target="178">
+  <data key="weight">4.082483258116554E-7</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="75" target="181">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="75" target="187">
+  <data key="weight">4.999999987376214E-7</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="75" target="191">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="75" target="195">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="75" target="208">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="75" target="213">
+  <data key="weight">0.4714045226573944</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="75" target="230">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="75" target="235">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="77" target="127">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="77" target="215">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="77" target="222">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="77" target="256">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="78" target="86">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="78" target="112">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="79" target="119">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="79" target="133">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="79" target="209">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="80" target="86">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="80" target="202">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="81" target="218">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="81" target="251">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="82" target="112">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="82" target="165">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="82" target="183">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="84" target="87">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="84" target="212">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="85" target="145">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="86" target="88">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="86" target="110">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="86" target="117">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="86" target="121">
+  <data key="weight">3.535533892318199E-7</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="86" target="123">
+  <data key="weight">3.535533892318199E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="86" target="128">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="86" target="142">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="86" target="143">
+  <data key="weight">3.535533892318199E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="86" target="144">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="86" target="151">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="86" target="156">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="86" target="158">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="86" target="163">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="86" target="170">
+  <data key="weight">5.773503062300733E-7</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="86" target="172">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="86" target="178">
+  <data key="weight">4.999999987376214E-7</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="86" target="184">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="86" target="189">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="86" target="198">
+  <data key="weight">4.999999987376214E-7</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="86" target="202">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="86" target="235">
+  <data key="weight">9.999999974752427E-7</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="86" target="238">
+  <data key="weight">5.773503062300733E-7</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="86" target="250">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="86" target="255">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="86" target="257">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="86" target="258">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="87" target="212">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="88" target="144">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="90" target="106">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="91" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="91" target="112">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="91" target="194">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="92" target="194">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="93" target="214">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2026</data>
+</edge>
+<edge source="94" target="121">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="95" target="107">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="95" target="160">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="95" target="171">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="96" target="168">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="96" target="177">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="97" target="169">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="101" target="115">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="101" target="141">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="102" target="249">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="105" target="190">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="105" target="225">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="105" target="231">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="107" target="160">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="107" target="171">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="108" target="157">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="108" target="201">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="109" target="175">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="109" target="182">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="111" target="120">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="111" target="123">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="111" target="200">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="111" target="226">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="112" target="136">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="112" target="149">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="112" target="165">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="112" target="178">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="112" target="183">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="113" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="113" target="244">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="114" target="137">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="114" target="188">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="115" target="141">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="117" target="154">
+  <data key="weight">9.999999974752427E-7</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="117" target="231">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="117" target="250">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="118" target="148">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="118" target="248">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="119" target="133">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="119" target="209">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="120" target="123">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="120" target="200">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="120" target="226">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="121" target="216">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="121" target="217">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="122" target="237">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="123" target="226">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="124" target="133">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="124" target="205">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="126" target="238">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="127" target="215">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="127" target="222">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="127" target="256">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="130" target="154">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="130" target="254">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="131" target="206">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="131" target="223">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="133" target="205">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="133" target="209">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="135" target="236">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="137" target="188">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="138" target="140">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="138" target="161">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="139" target="180">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="139" target="193">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="139" target="211">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="142" target="258">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="143" target="227">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="148" target="248">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="149" target="178">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="152" target="167">
+  <data key="weight">9.999999974752427E-7</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="152" target="231">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="154" target="188">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="154" target="231">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="154" target="254">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="155" target="231">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="157" target="201">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="158" target="255">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="160" target="171">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="163" target="231">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="165" target="183">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="167" target="231">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="168" target="177">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="174" target="221">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="175" target="182">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="178" target="187">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="180" target="193">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="180" target="211">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="185" target="252">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="186" target="244">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="190" target="201">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="190" target="225">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="190" target="231">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="192" target="199">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="192" target="209">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="193" target="211">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="197" target="225">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="199" target="209">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="200" target="226">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="201" target="207">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="203" target="252">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="206" target="223">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="210" target="239">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="215" target="222">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="215" target="256">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="216" target="217">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="218" target="251">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="220" target="231">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="222" target="256">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="225" target="231">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="231" target="253">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="241" target="245">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2013</data>
+</edge>
+</graph>
+</graphml>
