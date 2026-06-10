@@ -1,48 +1,267 @@
-core_objects:
-  - Intelligent Traffic Management System
-  - Smart Traffic Management
-  - Intelligent Transportation Management
-  - Urban Traffic Intelligent Management
-  - Traffic Intelligent Control
-
+# Core Systems
+core_systems:
+  "traffic information collection system":
+    - traffic data collection system
+    - traffic information gathering system
+    - traffic information acquisition system
+    - traffic monitoring and collection system
+    - TICS
   
-research_hotspots:
-  - real-time traffic monitoring
-  - traffic flow prediction
-  - traffic signal optimization
-  - intelligent traffic scheduling
-  - congestion mitigation
-  - traffic data analysis
-  - big data in transportation
-  - artificial intelligence in traffic
-  - machine learning for traffic
-  - deep learning traffic forecasting
-  - multi-source traffic data fusion
-  - intelligent decision-making
+  "intelligent traffic system":
+    - intelligent transportation system
+    - smart traffic management system
+    - ITS
+    - advanced traffic management system
+    - ATMS
 
+# Collection Technologies & Methods
+collection_technologies:
+  "video detection":
+    - video monitoring
+    - video surveillance
+    - video-based detection
+    - CCTV monitoring
+    - video analytics
+    - computer vision for traffic
   
-key_technologies:
-  - Internet of Vehicles (IoV)
-  - Vehicle to Everything (V2X)
-  - intelligent traffic sensors
-  - traffic cloud platform
-  - edge computing for traffic
+  "inductive loop detection":
+    - loop detector
+    - ground induction coil
+    - magnetic loop sensor
+    - embedded sensor
+    - point detector
+  
+  "radar detection":
+    - microwave radar
+    - lidar
+    - light detection and ranging
+    - radar-based detection
+    - millimeter-wave radar
+    - mmw radar
+  
+  "floating car data":
+    - probe vehicle data
+    - gps trajectory data
+    - vehicle trajectory data
+    - origin-destination data
+    - OD matrix
+    - cellular data
+    - smartphone location data
+  
+  "roadside units":
+    - roadside unit
+    - RSU
+    - roadside infrastructure
+    - rsu communication
+  
+  "traffic signal controller":
+    - signal control system
+    - traffic control device
+    - adaptive signal control
+    - tsc
 
+# Data Processing & Analysis
+data_processing:
+  "data cleaning":
+    - data preprocessing
+    - data quality control
+    - data quality assurance
+    - data validation
+    - data filtering
   
+  "data fusion":
+    - multi-source data fusion
+    - sensor fusion
+    - heterogeneous data integration
+    - multi-modal fusion
+    - data integration
+  
+  "missing value imputation":
+    - data completion
+    - missing data handling
+    - missing value recovery
+    - data interpolation
+    - spatio-temporal imputation
+  
+  "anomaly detection":
+    - outlier detection
+    - data anomaly identification
+    - fault detection
+    - abnormal pattern recognition
+    - change point detection
+
+# System Functions & Applications
+system_functions:
+  "real-time monitoring":
+    - real-time collection
+    - real-time surveillance
+    - live monitoring
+    - continuous monitoring
+    - online monitoring
+  
+  "traffic state assessment":
+    - traffic condition assessment
+    - traffic flow estimation
+    - traffic status evaluation
+    - traffic performance measurement
+  
+  "information dissemination":
+    - traffic information provision
+    - traffic information distribution
+    - traveler information systems
+    - dynamic message signs
+    - DMS
+  
+  "incident detection and warning":
+    - traffic incident detection
+    - incident warning
+    - congestion prediction
+    - incident response
+    - automated incident detection
+    - AID
+
+# Data Sources & Platforms
+data_sources:
+  "traffic management authorities":
+    - traffic police department
+    - department of transportation
+    - transportation agency
+    - traffic control centers
+  
+  "toll collection systems":
+    - toll plaza data
+    - gantry system
+    - toll transaction data
+    - toll booth data
+  
+  "crowdsourced mapping platforms":
+    - mapping services
+    - navigation apps
+    - ride-hailing platforms
+    - crowdsourced travel time data
+    - third-party traffic data
+  
+  "connected vehicles":
+    - connected car data
+    - connected vehicle data
+    - oem data
+    - vehicle-generated data
+
+# Application Domains
 applications:
-  - urban road traffic
-  - highway traffic management
-  - intelligent intersection
-  - urban public transport
-  - smart city transportation
-  - connected vehicles
-
+  "urban traffic":
+    - urban road network
+    - city streets
+    - intra-city transportation
+    - arterial roads
+    - urban mobility
   
+  "highway management":
+    - freeway traffic
+    - expressway management
+    - corridor management
+    - motorway traffic
+    - toll highway
+  
+  "public transportation":
+    - public transit
+    - bus rapid transit
+    - transit system
+    - mass transit
+    - metro system
+    - subway operation
+  
+  "parking management":
+    - parking space information
+    - smart parking system
+    - parking availability
+    - parking guidance
+    - on-street parking
+
+# Key Technologies
+key_technologies:
+  "vehicle-to-everything communication":
+    - v2x communication
+    - v2i
+    - v2v
+    - vehicle-to-infrastructure
+    - vehicle-to-vehicle
+    - connected vehicles
+  
+  "cellular networks":
+    - 5g networks
+    - 4g lte
+    - mobile broadband
+    - wireless communication
+    - cellular connectivity
+  
+  "cloud computing":
+    - cloud platform
+    - traffic cloud
+    - cloud services
+    - distributed computing
+  
+  "edge computing":
+    - fog computing
+    - mobile edge computing
+    - mec
+    - distributed edge intelligence
+  
+  "artificial intelligence":
+    - machine learning
+    - deep learning
+    - neural networks
+    - convolutional neural networks
+    - cnn
+    - recurrent neural networks
+    - rnn
+    - reinforcement learning
+
+# Performance Metrics
+performance_metrics:
+  "data accuracy":
+    - detection accuracy
+    - measurement accuracy
+    - estimation error
+    - rmse
+    - mean absolute percentage error
+    - mape
+  
+  "data completeness":
+    - data coverage
+    - coverage rate
+    - data availability
+    - missing data rate
+  
+  "system latency":
+    - detection latency
+    - processing delay
+    - transmission latency
+    - end-to-end delay
+    - response time
+  
+  "system reliability":
+    - system availability
+    - uptime
+    - reliability rate
+    - robustness
+    - fault tolerance
+
+# Constraints
 constraints:
   time_window:
     start: "2015-01-01"
     end: "2025-12-31"
-  doc_type:
-    - article
-    - review
+  document_types:
+    - journal article
     - conference paper
+    - peer-reviewed paper
+    - research article
+  languages:
+    - English
+  research_focus:
+    - collection technology
+    - data processing methods
+    - system design and implementation
+    - performance optimization
+    - real-world applications
