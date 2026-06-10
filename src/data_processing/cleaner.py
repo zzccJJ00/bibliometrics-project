@@ -1,5 +1,5 @@
 """
-数据清洗模块：实现课程要求的数据质量检查（去重、缺失值处理、格式标准化）
+数据清洗模块：数据质量检查（去重、缺失值处理、格式标准化）
 """
 import pandas as pd
 import numpy as np
@@ -37,11 +37,11 @@ class DataCleaner:
             raise FileNotFoundError("未找到原始数据文件")
         merged_df = pd.concat(data_frames, ignore_index=True)
         
-        # 1. 去重（基于DOI或标题，课程要求：重复记录识别）
+        # 1. 去重（基于DOI或标题，重复记录识别）
         merged_df["doi_clean"] = merged_df["原文链接"].str.extract(r"(10\.\d{4,9}/[-._;()/:A-Z0-9]+)", flags=re.IGNORECASE)
         merged_df = merged_df.drop_duplicates(subset=["doi_clean", "标题"], keep="first")
         
-        # 2. 缺失值处理（课程要求：缺失字段检测）
+        # 2. 缺失值处理（缺失字段检测）
         required_fields = ["标题", "作者", "来源", "发表时间", "关键词", "摘要"]
         for field in required_fields:
             if field not in merged_df.columns:
@@ -55,7 +55,7 @@ class DataCleaner:
         # 关键词格式统一（分号分隔）
         merged_df["关键词"] = merged_df["关键词"].str.replace("，", ";").str.replace(",", ";")
         
-        # 4. 数据质量报告（课程要求：记录QC结果）
+        # 4. 数据质量报告（记录QC结果）
         self._generate_quality_report(merged_df)
         
         return merged_df
